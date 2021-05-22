@@ -16,4 +16,4 @@ RUN hugo
 EXPOSE 80 1313
 
 CMD ["hugo"]
-CMD [ "hugo", "server", "--disableFastRender", "--buildDrafts", "--watch", "--bind", "0.0.0.0", "--baseURL=wiki.superheroesvalley.fun", "--appendPort=false"]
+CMD [ "hugo", "server", "--disableFastRender", "--buildDrafts", "--watch", "--bind", "0.0.0.0", "--baseURL=https://myspotify.lucacorbucci.me", "--appendPort=false"]

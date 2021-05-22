@@ -1,21 +1,21 @@
 version: "2.0"
 services:
-    superheroeswiki:
-        build: .
-        ports:
-        - "1313:1313"
-        restart: always
-        volumes:
-        - /home/superheroesvalley/SuperHeroesWiki:/site
-        labels:
-        - traefik.enable=true
-        - traefik.http.routers.superheroeswiki.tls=true
-        - traefik.http.routers.superheroeswiki.tls.certresolver=letsencrypt
-        - traefik.http.services.superheroeswiki.loadbalancer.server.port=1313
-        - traefik.http.routers.superheroeswiki.rule=Host(`wiki.superheroesvalley.fun`)
-        networks:
-        - traefik
-        - internal
+  superheroeswiki:
+    build: .
+    #ports:
+    #  - "1315:1313"
+    restart: always
+    volumes:
+      - /home/superheroesvalley/SuperHeroesWiki:/site
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.superheroeswiki.tls=true
+      - traefik.http.routers.superheroeswiki.tls.certresolver=letsencrypt
+      - traefik.http.services.superheroeswiki.loadbalancer.server.port=1313
+      - traefik.http.routers.superheroeswiki.rule=Host(`myspotify.lucacorbucci.me`)
+    networks:
+      - traefik
+      - internal
 networks:
   traefik:
     external:
