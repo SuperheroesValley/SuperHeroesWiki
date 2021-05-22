@@ -1,5 +1,5 @@
 ---
-title: Mock
+title: Esercizi
 ---
 
 {{< toc >}}
