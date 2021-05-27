@@ -3,7 +3,8 @@ title: Manifesto
 weight: -20
 ---
 
-Cos’è SuperHeroes Valley:
+# Cos’è SuperHeroes Valley:
+
 SuperHeroes Valley è una community nata nell’Ottobre 2020 con l’obiettivo di instaurare un ponte tra l’università e le grandi aziende nel campo dell’informatica. 
 In altre nazioni è comune, durante il periodo universitario, seguire corsi tarati per sostenere tech interviews e svolgere internships in grandi aziende. Queste attività sono pressoché inesistenti e sconosciute in Italia.
 Ottenere un’offerta di internship, o anche una posizione Full Time, dalle aziende della Silicon Valley non è impresa facile senza la dovuta preparazione. Queste richiedono competenze precise e comportamenti da seguire, che SuperHeroes Valley punta ad insegnare agli studenti attraverso appuntamenti a cadenza settimanale:
@@ -17,6 +18,7 @@ Ogni settimana viene poi proposto un set di esercizi utili per prepararsi alle i
 
 
 # Organizzatori Iniziali:
+
 - [Luca Corbucci](https://www.linkedin.com/in/lucacorbucci/)
 - [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/)
 - [Alessandro Berti](https://www.linkedin.com/in/aleberti/)
