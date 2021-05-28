@@ -1,6 +1,7 @@
 ---
 title: Manifesto
 weight: -20
+
 ---
 
 # Cos’è SuperHeroes Valley:

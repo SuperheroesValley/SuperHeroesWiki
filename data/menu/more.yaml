@@ -1,13 +1,10 @@
 ---
 more:
-  - name: News
-    ref: "/posts"
-    icon: "gdoc_notification"
-  - name: Releases
-    ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+  - name: Home
+    ref: "https://www.superheroesvalley.fun/"
     external: true
-    icon: "gdoc_download"
-  - name: "View Source"
-    ref: "https://github.com/thegeeklab/hugo-geekdoc"
+    icon: "home"
+  - name: "Contribute"
+    ref: "https://github.com/SuperheroesValley/SuperHeroesWiki"
     external: true
     icon: "gdoc_github"

@@ -1,63 +1,31 @@
 ---
-title: Welcome to the documentation
-description: Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
-geekdocNav: false
-geekdocAlign: center
+title: Manifesto
+weight: -20
+
 ---
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable MD033 -->
+# Cos’è SuperHeroes Valley:
 
-<span class="badge-placeholder">[![Build Status](https://img.shields.io/drone/build/thegeeklab/hugo-geekdoc?logo=drone&server=https%3A%2F%2Fdrone.thegeeklab.de)](https://drone.thegeeklab.de/thegeeklab/hugo-geekdoc)</span>
-<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.83-blue.svg)](https://gohugo.io)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
-<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
-<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
+SuperHeroes Valley è una community nata nell’Ottobre 2020 con l’obiettivo di instaurare un ponte tra l’università e le grandi aziende nel campo dell’informatica. 
+In altre nazioni è comune, durante il periodo universitario, seguire corsi tarati per sostenere tech interviews e svolgere internships in grandi aziende. Queste attività sono pressoché inesistenti e sconosciute in Italia.
+Ottenere un’offerta di internship, o anche una posizione Full Time, dalle aziende della Silicon Valley non è impresa facile senza la dovuta preparazione. Queste richiedono competenze precise e comportamenti da seguire, che SuperHeroes Valley punta ad insegnare agli studenti attraverso appuntamenti a cadenza settimanale:
 
-<!-- markdownlint-restore -->
+- Talk di persone che lavorano in grandi aziende con argomento la loro storia e indicazioni utili per affrontare una tech interview.
+- Simulazioni di Tech Interviews (chiamate Mock interview) svolte da persone che lavorano in grandi aziende, con l’obiettivo di quantificare il grado di preparazione dello studente. A discrezione dell’interviewer, è anche possibile premiare i candidati promettenti con un referral che permette di saltare la fase di “cv screening”.
+- Svolgimento di esercizi mirati per la preparazione alle interviste tecniche dalle grandi aziende, in gruppo o individualmente.
+- Social Events svolti dagli organizzatori per avvicinare i membri della community. Eventi meno formali, e più a scopo ludico, dove i partecipanti possono parlare liberamente tra loro.
 
-Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
+Ogni settimana viene poi proposto un set di esercizi utili per prepararsi alle interview e per rinfrescare concetti di Algoritmi e strutture dati.
 
-{{< button relref="usage/getting-started/" >}}Explore Documentation{{< /button >}}
 
-## Features
+# Organizzatori Iniziali:
 
-{{< columns >}}
+- [Luca Corbucci](https://www.linkedin.com/in/lucacorbucci/)
+- [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/)
+- [Alessandro Berti](https://www.linkedin.com/in/aleberti/)
+- [Eugenio Paluello](https://www.linkedin.com/in/eugpaluello/ )
 
-### Clean and simple design
 
-Stay focused on exploring the content and don't get overwhelmed by a complex design.
 
-<--->
 
-### Light and mobile-friendly
 
-The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
-
-<--->
-
-### Easy customization
-
-The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
-
-{{< /columns >}}
-
-{{< columns >}}
-
-### Zero initial configuration
-
-Getting started in minutes. The theme is shipped with a default configuration and works out of the box.
-
-<--->
-
-### Handy shortcodes
-
-We included some (hopefully) useful custom shortcodes so you don't have to and can focus on writing amazing docs.
-
-<--->
-
-### Dark mode
-
-Powerful dark mode that detects your system preferences or can be controlled by a toggle switch.
-
-{{< /columns >}}
