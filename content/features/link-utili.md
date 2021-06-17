@@ -12,5 +12,5 @@ title: Link Utili
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Strumenti per collaborare
-  - [Code editor](https://codeshare.io/AdZxz8) ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!
+  - [Code Editor](https://codeshare.io/AdZxz8) (ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!)
   - [Whiteboard](https://www.notebookcast.com/en)
