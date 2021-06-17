@@ -2,7 +2,7 @@
 title: Link Utili
 ---
 
-<h2>Esercizi</h2>
+## Esercizi
   - [Lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda)](https://seanprashad.com/leetcode-patterns/)
   - [Repository di SuperheroesValley con le soluzioni degli esercizi di InterviewBit e LeetCode](https://github.com/patacca/superheroes-exercises) by Riccardo Mori
   - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf) by Riccardo Mori
@@ -11,6 +11,6 @@ title: Link Utili
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-<h2>Strumenti per collaborare</h2>
+## Strumenti per collaborare
   - [Code editor](https://codeshare.io/AdZxz8) ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!
   - [Whiteboard](https://www.notebookcast.com/en)
