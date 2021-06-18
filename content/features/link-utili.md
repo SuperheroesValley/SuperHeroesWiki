@@ -4,7 +4,7 @@ title: Link Utili
 
 ## Esercizi
   - [Lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda)](https://seanprashad.com/leetcode-patterns/)
-  - [Repository di SuperheroesValley con le soluzioni degli esercizi di InterviewBit e LeetCode](https://github.com/patacca/superheroes-exercises) by Riccardo Mori
+  - [Repository di SuperheroesValley con le soluzioni degli esercizi di InterviewBit e LeetCode](https://github.com/SuperheroesValley/superheroes-exercises)
   - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf) by Riccardo Mori
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
   - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook)
@@ -12,5 +12,5 @@ title: Link Utili
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Strumenti per collaborare
-  - [Code Editor](https://codeshare.io/AdZxz8) (ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!)
-  - [Whiteboard](https://www.notebookcast.com/en)
+  - [Code Editor](https://codeshare.io/AdZxz8) (Ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!)
+  - [Whiteboard](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
