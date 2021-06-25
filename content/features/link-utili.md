@@ -13,5 +13,5 @@ title: Link Utili
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Strumenti per collaborare
-  - [Code Editor](https://codeshare.io/AdZxz8) (Ricordatevi di configurare la sintassi dalle impostazioni sulla sinistra!)
+  - [Code Editor](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
   - [Whiteboard](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
