@@ -12,7 +12,7 @@ services:
       - traefik.http.routers.superheroeswiki.tls=true
       - traefik.http.routers.superheroeswiki.tls.certresolver=letsencrypt
       - traefik.http.services.superheroeswiki.loadbalancer.server.port=1313
-      - traefik.http.routers.superheroeswiki.rule=Host(`myspotify.lucacorbucci.me`)
+      - traefik.http.routers.superheroeswiki.rule=Host(`wiki.superheroesvalley.fun`) || Host(`www.wiki.superheroesvalley.fun`)
     networks:
       - traefik
       - internal
