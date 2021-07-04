@@ -16,3 +16,7 @@ title: Link Utili
 ## Strumenti per collaborare
   - [Code Editor](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
   - [Whiteboard](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
+
+## M  iscellaneous
+  - [Lista di possibili domande da fare al colloquio tecnico](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+  - [Best practices for ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
