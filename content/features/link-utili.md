@@ -14,9 +14,9 @@ title: Link Utili
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Strumenti per collaborare
-  - [Code Editor](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
-  - [Whiteboard](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
-
+  - [Code Editor: codeshare](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
+  - [Whiteboard: NotebookCast](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
+  - [Whiteboard: Excalidraw](https://excalidraw.com/) (Click rotellina per muoversi sul foglio)
 ## Miscellaneous
   - [Lista di possibili domande da fare al colloquio tecnico](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
   - [The Engineering Interview Process](https://eng.uber.com/training-engineering-interview/) (valido per sostanzialmente tutte le big tech)
