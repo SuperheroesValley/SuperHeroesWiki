@@ -21,3 +21,4 @@ title: Link Utili
   - [Lista di possibili domande da fare al colloquio tecnico](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
   - [The Engineering Interview Process](https://eng.uber.com/training-engineering-interview/) (valido per sostanzialmente tutte le big tech)
   - [Best practices for ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
+  - [Watch technical mocking interview](https://interviewing.io/recordings)
