@@ -15,6 +15,7 @@ title: Link Utili
   - [Small System Design Course](https://www.hiredintech.com/classrooms/system-design/lesson/52) by Hiredintech
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
   - [Web API Design Best Practices](https://github.com/MicrosoftDocs/architecture-center/blob/master/docs/best-practices/api-design.md)
+  - [Learn about Non-Abstract Large Systems Design (NALSD)](https://sre.google/classroom/)
 
 ## Strumenti per collaborare
   - [Code Editor: codeshare](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
