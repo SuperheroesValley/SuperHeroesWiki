@@ -16,6 +16,7 @@ title: Link Utili
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
   - [Web API Design Best Practices](https://github.com/MicrosoftDocs/architecture-center/blob/master/docs/best-practices/api-design.md)
   - [Learn about Non-Abstract Large Systems Design (NALSD)](https://sre.google/classroom/)
+  - [Guide to crack the System Design interview](https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc) (Presenta un buon template per la risoluzione di system design problems)
 
 ## Strumenti per collaborare
   - [Code Editor: codeshare](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
