@@ -26,7 +26,7 @@ title: Link Utili
 
 ## Youtube Resources
   - [Design a Distributed System in One Hour (NALSD)](https://www.youtube.com/watch?v=bOXkgMuVuYY)
-  - [Back To Back SWE](https://www.youtube.com/watch?v=jgiZlGzXMBw) Miglior youtuber per la parte coding (Remo) \
+  - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) Miglior youtuber per la parte coding (Remo) \
                                                                     (Fork della Repo con gli esercizi: https://github.com/deRemo/backtobackswe)
 
 ## Miscellaneous
