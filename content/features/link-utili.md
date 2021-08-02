@@ -16,7 +16,6 @@ title: Link Utili
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
   - [Web API Design Best Practices](https://github.com/MicrosoftDocs/architecture-center/blob/master/docs/best-practices/api-design.md)
   - [Learn about Non-Abstract Large Systems Design (NALSD)](https://sre.google/classroom/)
-  - [Design a Distributed System in One Hour (NALSD)](https://www.youtube.com/watch?v=bOXkgMuVuYY)
   - [Guide to crack the System Design interview](https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc) (Presenta un buon template per la risoluzione di system design problems)
 
 ## Strumenti per collaborare
@@ -24,7 +23,12 @@ title: Link Utili
   - [Whiteboard: NotebookCast](https://www.notebookcast.com/en) (Consigliamo whiteboard custom size 4000x4000)
   - [Whiteboard: Excalidraw](https://excalidraw.com/) (Click rotellina per muoversi sul foglio)
   - [Whiteboard: Google Jamboard](https://jamboard.google.com/)
-  
+
+## Youtube Resources
+  - [Design a Distributed System in One Hour (NALSD)](https://www.youtube.com/watch?v=bOXkgMuVuYY)
+  - [Back To Back SWE](https://www.youtube.com/watch?v=jgiZlGzXMBw) Miglior youtuber per la parte coding (Remo) \
+                                                                    (Fork della Repo con gli esercizi: https://github.com/deRemo/backtobackswe)
+
 ## Miscellaneous
   - [Lista di possibili domande da fare al colloquio tecnico](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
   - [The Engineering Interview Process](https://eng.uber.com/training-engineering-interview/) (valido per sostanzialmente tutte le big tech)
