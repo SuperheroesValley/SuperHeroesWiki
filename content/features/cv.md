@@ -21,3 +21,7 @@ Noi ti consigliamo [Awesome CV](https://github.com/posquit0/Awesome-CV) o [AltaC
 
 - Non usare il template Europass.
 - Non inserire nel CV la tua foto e la tua data di nascita.
+
+# Altre risorse
+- [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
+- [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
