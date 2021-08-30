@@ -5,7 +5,7 @@ title: Scrivere il CV
 Una delle domande più frequenti delle persone che partecipano ai nostri talk è "Come posso scrivere il mio CV"? 
 Durante i nostri talk abbiamo più volte affrontato questo argomento, in questa sezione vogliamo riassumere tutti i consigli che ci sono stati dati nel corso del tempo.
 
-Una volta che hai scritto il tuo CV non esitare a inviarlo nostro gruppo [discord (canale #review)](https://discord.gg/BR2udfnpje) per avere suggerimenti e consigli per migliorarlo.
+Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [discord](https://discord.gg/BR2udfnpje) (canale #cv-review) per avere suggerimenti e consigli per migliorarlo.
 
 # Consigli per scrivere un buon Curriculum Vitae
 
