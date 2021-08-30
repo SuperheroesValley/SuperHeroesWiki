@@ -9,6 +9,7 @@ weight: -10
 Per le comunicazioni più generali, come ad esempio annunci talk o sondaggi sulle decisioni da prendere (organizzazione eventi ad esempio)
 - [Gruppo Discord](https://discord.com/invite/rNZx6JpMkt):
 Per le comunicazioni più specifiche, è organizzato in canali e sono presenti anche dai canali audio in cui sono stati svolti i meeting per confrontarsi sugli esercizi.
+
 - [Sito ufficiale](https://www.superheroesvalley.fun/)
 - [Mail](mailto:info@superheroesvalley.fun)
 

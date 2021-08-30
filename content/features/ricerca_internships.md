@@ -17,6 +17,8 @@ title: Ricerca Internship
 
 ## Aziende interessanti per internship
 
+
+
 | Azienda       			|    Data        |     Link        |
 | :----:        			|    :----:      |     :----:      |   
 |   Google      			|    Settembre    |    https://careers.google.com/      |
@@ -63,7 +65,7 @@ title: Ricerca Internship
 |   Morgan Stanley 		 	|        |    https://www.morganstanley.com/people-opportunities/students-graduates    |
 |   JP Morgan 				|        |    https://careers.jpmorgan.com/global/en/home    |
 |   Stripe 					|        |    https://stripe.com/it/jobs    |
-|   Databricks 				|        |    https://www.uber.com/it/it/careers/    |
+|   Databricks 				|        |    https://databricks.com/company/careers/university-recruiting    |
 |   DataDog 				|        |    https://www.datadoghq.com/careers/detail/?gh_jid=2265934     |
 |   Shopify 				|        |    https://www.shopify.com/careers    |
 |   Pinterest 				|        |    https://www.pinterestcareers.com/    |
