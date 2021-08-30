@@ -15,7 +15,7 @@ Noi ti consigliamo [Awesome CV](https://github.com/posquit0/Awesome-CV) o [AltaC
 - Per ogni esperienza Universitaria inserisce la lista dei corsi più rilevanti che hai frequentato, la media attuale e il voto finale previsto. Se hai già concluso il percorso Universitario inserisce il voto finale di laurea e il numero di crediti ottenuto.
 - Scrivi il CV in inglese, se hai dubbi sulla grammatica, Grammarly è tuo amico.
 - Se non hai mai lavorato, puoi elencare tra le esperienze i progetti che hai svolto durante i corsi universitari o che hai svolto nel tuo tempo libero. È importante che i progetti che elenchi nel CV siano anche presenti su Github in modo tale che chi legge il tuo CV possa visionarli.
-- Se avete pubblicazioni elencatele indicando anche gli altri autori.
+- Se avete pubblicazioni elencatele indicando anche gli altri autori ed evidenziando il proprio nome.
 
 # Errori da non commettere
 
