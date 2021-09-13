@@ -29,6 +29,10 @@ title: Link Utili
   - [Design a Distributed System in One Hour (NALSD)](https://www.youtube.com/watch?v=bOXkgMuVuYY)
   - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) Miglior youtuber per la parte coding (Remo) \
                                                                     (Fork della Repo con gli esercizi: https://github.com/deRemo/backtobackswe)
+## Books
+  - [Cracking the Coding Interview](https://www.amazon.it/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+  - [Introduction to Algorithms (Cormen)](https://www.amazon.it/Introduzione-agli-algoritmi-strutture-dati/dp/883866515X)
+  - [The Algorithm Design Manual](https://www.amazon.it/Algorithm-Design-Manual-Steven-Skiena/dp/3030542556)
 
 ## Miscellaneous
   - [Lista di possibili domande da fare al colloquio tecnico](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
