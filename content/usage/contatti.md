@@ -3,7 +3,7 @@ title: Contatti
 weight: -10
 ---
 
-- [Calendario Google](https://calendar.google.com/calendar/u/0?cid=cXAxaDMxbHBkMTZnbXAxYm04ZW91bW1nY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ):
+- [Calendario Google](https://calendar.google.com/calendar/u/0?cid=cXAxaDMxbHBkMTZnbXAxYm04ZW91bW1nY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 - [Gruppo Telegram](https://t.me/joinchat/BIi_0VOdXr8h5BkCh5n5Gg):
 Per le comunicazioni più generali, come ad esempio annunci talk o sondaggi sulle decisioni da prendere (organizzazione eventi ad esempio)

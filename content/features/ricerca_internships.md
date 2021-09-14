@@ -2,26 +2,12 @@
 title: Ricerca Internship
 ---
 
-## Risorse utili per la ricerca di Internships
+## Elenco aziende che organizzano internship
 
 
-## Elenco internship 2022
-
-| Azienda     | Location    | Link          | Note          |
-| :----:      |    :----:   |    :----:     |    :----:     |
-|  Optiver    |   Amsterdam |  https://www.linkedin.com/jobs/view/2523749122/?refId=xQh4j5JBaap1P54hIW%2Fpeg%3D%3D&trackingId=1%2FQV%2BSUeRn8Lbc%2Bpv5X12g%3D%3D    |      Summer          |
-|  Hudson River Trading  |   Varie      |  https://www.hudsonrivertrading.com/careers/  |               |
-| JP morgan Chase & CO   |   Varie      |  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210105640/?keyword=2022&mode=location  |               |
-|  Credit Suisse  |   Svizzera     |  https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl  |               |
-|    |         |    |               |
-
-## Aziende interessanti per internship
-
-
-
-| Azienda       			|    Data        |     Link        |
+| Azienda       			|            |     Link        |
 | :----:        			|    :----:      |     :----:      |   
-|   Google      			|    Settembre    |    https://careers.google.com/      |
+|   Google      			|        |    https://careers.google.com/      |
 |   Nvidia     	 			|        |    https://nvidia.wd5.myworkdayjobs.com/    |
 |   Mozilla     			|        |    https://careers.mozilla.org/    |
 |   Facebook    			|        |    https://www.facebook.com/careers/     |
@@ -84,3 +70,7 @@ title: Ricerca Internship
 |    Ebay					|        |    https://jobs.ebayinc.com/search-jobs |
 |    Twitch					|        |    https://boards.greenhouse.io/twitch   |
 |    Hello Fresh 			|        |    https://www.hellofresh.com/careers/    |
+|   Optiver                 |        |  https://www.linkedin.com/jobs/view/2523749122/?refId=xQh4j5JBaap1P54hIW%2Fpeg%3D%3D&trackingId=1%2FQV%2BSUeRn8Lbc%2Bpv5X12g%3D%3D |   
+|  Hudson River Trading     |        |  https://www.hudsonrivertrading.com/careers/  |
+| JP morgan Chase & CO      |        |  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210105640/?keyword=2022&mode=location  |               
+|  Credit Suisse            |        |  https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl  |               
