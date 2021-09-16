@@ -3,6 +3,7 @@ title: Strumenti Coop
 ---
 
 Strumenti utili per la preparazione in gruppo o per le mock interviews.  
+
 Code Editors:
   - [Leetcode Playground](https://leetcode.com/playground/) (CONSIGLIATO) (NB: verificare che l'URL di invito finisca in /live)
   - [Codeshare](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
