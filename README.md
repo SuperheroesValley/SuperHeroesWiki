@@ -2,6 +2,8 @@
 
 Questa è la repo della Wiki di SuperHeroesValley. La wiki è raggiungibile dal seguente link: [https://wiki.superheroesvalley.fun/](https://wiki.superheroesvalley.fun/).
 
+Per maggiori informazioni riguardo a SuperHeroesValley potete fare riferimento al [nostro sito web](https://www.superheroesvalley.fun/).
+
 ## Obiettivo della wiki
 
 L'obiettivo della wiki è raccogliere in un'unica pagina, tutti i link e gli strumenti di cui siamo venuti a conoscenza nel corso del tempo che possono essere utili durante 
