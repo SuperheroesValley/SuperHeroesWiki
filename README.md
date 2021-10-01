@@ -12,4 +12,4 @@ la preparazione dei colloqui tecnici.
 Tutti voi potete contribuire a rendere la wiki sempre più ricca di informazioni, se volete aggiungere un nuovo link o volete proporre una modifica aprite una pull request! 
 Noi valuteremo il contenuto aggiunto alla repo e una volta approvato potrete subito vederlo online.
 
-P.S. La nostra repo è "compatibile" con l'iniziativa (Hacktoberfest)[https://hacktoberfest.digitalocean.com/].
+P.S. La nostra repo è "compatibile" con l'iniziativa [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
