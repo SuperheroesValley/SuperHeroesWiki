@@ -3,16 +3,17 @@ title: Behavioral Interview
 ---
 
 ### How to answer:
- - 2 min per questions
+ - 2 min per question
  - STAR-L Framework: Situation, Task, Actions, Result, Learnings
 
 ### Must knows:
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
- - Why are you leaving your current job? 
  - Where do you see yourself in 5 years? 
  - What do you do outside of work? 
- - What are your strengths and weaknesses? 
+ - What are your strengths and weaknesses?
+ - Tell me about a project/class that you enjoyed/worked on. (for students)
+ - Why are you leaving your current job? (for professionals)
  
 ### Other:
  - Describe a time when you disagreed with a team member. How did you resolve the problem? 
