@@ -1,12 +1,12 @@
 ---
-title: Behavioral Interview Preparation
+title: Behavioral Interview
 ---
 
-**How to answer:**
+### How to answer:
  - 2 min per questions
  - STAR-L Framework: Situation, Task, Actions, Result, Learnings
 
-**Must knows:**
+### Must knows:
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
  - Why are you leaving your current job? 
@@ -14,7 +14,7 @@ title: Behavioral Interview Preparation
  - What do you do outside of work? 
  - What are your strengths and weaknesses? 
  
-**Other:**
+### Other:
  - Describe a time when you disagreed with a team member. How did you resolve the problem? 
  - Describe a time when you faced a block at work and how you solved it. 
  - Tell me about a time when you disagreed with a supervisor. 
