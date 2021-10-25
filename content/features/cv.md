@@ -7,10 +7,15 @@ Durante i nostri talk abbiamo più volte affrontato questo argomento, in questa 
 
 Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [discord](https://discord.gg/BR2udfnpje) (canale #cv-review) per avere suggerimenti e consigli per migliorarlo.
 
+# Template Consigliati 
+- [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
+- [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
+- [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
+
 # Consigli per scrivere un buon Curriculum Vitae
 
 - **Scrivi il CV in inglese**, se hai dubbi sulla grammatica, [Grammarly](https://www.grammarly.com/) è tuo amico;
-- **Usa un template leggibile**. Noi ti consigliamo [Awesome CV](https://github.com/posquit0/Awesome-CV) o [AltaCV](https://github.com/liantze/AltaCV). Sono entrambi validi template per scrivere il CV in LaTeX, di seguito lasciamo i link ad Overleaf sia per [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm) che per [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv). Una volta cliccato sul link clicca su "Open as Template" per iniziare a personalizzarlo;
+- **Usa un template leggibile**. Scegli uno dei template LaTeX che consigliamo così da facilitare la lettura al recruiter. Troverai il link al template su [Overleaf](https://www.overleaf.com/) nei rispettivi repository, poi clicca su "Open as Template" per iniziare a personalizzarlo. **Evita** template esotici nel tentativo di farti notare;
 - **Sii conciso**. La persona che leggerà il tuo CV ha poco tempo, quindi gli dedicherà pochi secondi. Il tuo CV non dovrebbe essere più lungo di una singola pagina, attieniti a ciò che è davvero importante ed inserisci progetti ed esperienze rilevanti rispetto alla posizione per cui stai facendo domanda. Tra i vantaggi dello scrivere il tuo CV in LaTeX segnaliamo la possibilità di aggiungere commenti, utili per nascondere parti del CV non interessanti per la posizione per cui stai facendo domanda e poterle facilmente riaggiungere in futuro;
 - **Per ogni esperienza universitaria** inserisci la lista dei corsi più rilevanti che hai frequentato, la media attuale e il voto finale previsto. Se hai già concluso il percorso universitario, inserisci il voto finale di laurea ed il numero di crediti ottenuto;
 - **Se non hai mai lavorato**, puoi elencare tra le esperienze i progetti che hai svolto durante i corsi universitari o che hai svolto nel tuo tempo libero. È importante che i progetti che elenchi nel CV siano anche presenti su [GitHub](https://github.com/) in modo tale che chi legge il tuo CV possa visionarli;
