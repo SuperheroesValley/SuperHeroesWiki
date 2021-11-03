@@ -3,6 +3,7 @@ title: Coding
 ---
 
 
+  - [Time Complexities in Python](https://wiki.python.org/moin/TimeComplexity)
   - [Lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda)](https://seanprashad.com/leetcode-patterns/)
   - [Scaletta per la preparazione (by InterviewBit)](https://www.interviewbit.com/courses/programming/) (Se non vi piace InterviewBit, limitatevi a seguirne la scaletta consigliata, ma svolgete gli esercizi analoghi su LeetCode)
   - [Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
