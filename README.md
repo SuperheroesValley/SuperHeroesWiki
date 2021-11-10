@@ -11,7 +11,8 @@ la preparazione dei colloqui tecnici.
 
 ## Contribuire
 
-Tutti voi potete contribuire a rendere la wiki sempre più ricca di informazioni, se volete aggiungere un nuovo link o volete proporre una modifica aprite una pull request! 
+Tutti voi potete contribuire a rendere la wiki sempre più ricca di informazioni, se volete aggiungere un nuovo link o volete proporre una modifica aprite una pull request!
+I contenuti delle varie pagine si trovano nella cartella [content](https://github.com/SuperheroesValley/SuperHeroesWiki/tree/main/content).
 Noi valuteremo il contenuto aggiunto alla repo e una volta approvato potrete subito vederlo online.
 
 P.S. La nostra repo è "compatibile" con l'iniziativa [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
