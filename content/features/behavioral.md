@@ -6,6 +6,14 @@ title: Behavioral Interview
  - 2 min per question
  - STAR-L Framework: Situation, Task, Actions, Result, Learnings
 
+### The STAR-L Framework:
+ Explain:
+ - The context in which your experience occurred (**S**ituation)
+ - What you were required to achieve during the situation (**T**ask/Target)
+ - The action you personally took in response to the task (**A**ction)
+ - The effect of your action on the outcome of the situation (**R**esult)
+ - What you learned from the experience (**L**earn)
+
 ### Must knows:
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
