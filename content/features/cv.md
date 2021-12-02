@@ -25,8 +25,7 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
 # Errori da non commettere
 
 - Non usare il template Europass.
-- Non inserire nel CV la tua foto e la tua data di nascita.
-
+- Non inserire nel CV informazioni personali che possano causare un bias (pregiudizio): foto, status civile, nazionalita',  etc.
 # Altre risorse
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
