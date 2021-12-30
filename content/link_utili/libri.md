@@ -8,3 +8,4 @@ Libri utili per preparasi ai colloqui tecnici:
   - [Introduction to Algorithms (Cormen)](https://www.amazon.it/Introduzione-agli-algoritmi-strutture-dati/dp/883866515X)
   - [The Algorithm Design Manual](https://www.amazon.it/Algorithm-Design-Manual-Steven-Skiena/dp/3030542556)
   - [Competitive Programming Handbook](http://www2.compute.dtu.dk/courses/02282/2021/nca/CPbook.pdf)
+  - [Elements of Programming Interview](https://elementsofprogramminginterviews.com/)
