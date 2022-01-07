@@ -12,3 +12,4 @@ Contenuti video utili per preparasi ai colloqui tecnici:
   (Fork della Repo con gli esercizi: https://github.com/deRemo/backtobackswe)
 - [5-hours, hands-on course on Dynamic Programming ](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [System Design interview concepts in 10 mins](https://www.youtube.com/watch?v=REB_eGHK_P4)
+- [Google Students Virtual Series: Build for Everyone](https://careersonair.withgoogle.com/events/bfe-series)
