@@ -9,3 +9,4 @@ title: Miscellaneous
   - [Google Virtual Student Series](https://services.google.com/fh/files/emails/virtualseriespdf.pdf)
   - [175 Powerful verbs that will make your CV awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
   - [Tech Interview Handbook](https://techinterviewhandbook.org/)
+  - [An Algorithm for passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
