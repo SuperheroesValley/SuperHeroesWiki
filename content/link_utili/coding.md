@@ -13,3 +13,4 @@ title: Coding
   - [14 patterns per la risoluzione degli esercizi](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
   - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook)
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+  - [Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview)
