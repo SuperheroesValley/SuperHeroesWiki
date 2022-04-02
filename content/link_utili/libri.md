@@ -9,3 +9,4 @@ Libri utili per preparasi ai colloqui tecnici:
   - [The Algorithm Design Manual](https://www.amazon.it/Algorithm-Design-Manual-Steven-Skiena/dp/3030542556)
   - [Competitive Programming Handbook](http://www2.compute.dtu.dk/courses/02282/2021/nca/CPbook.pdf)
   - [Elements of Programming Interview](https://elementsofprogramminginterviews.com/)
+  - [Software Engineering at Google](https://abseil.io/resources/swe_at_google.2.pdf)
