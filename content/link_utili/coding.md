@@ -14,6 +14,7 @@ title: Coding
   - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
   - [Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview): a pagamento
   - [Overview of Bit Manipulation and Rolling Hash, with excercises and solutions](https://github.com/CoffeeStraw/CP-SWE-Interviews/blob/main/Report.pdf): curata da [Antonio Strippoli](https://github.com/CoffeeStraw)
+  - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf): curata da Riccardo Mori
 
 
 **PRATICA**:
