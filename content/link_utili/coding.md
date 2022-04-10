@@ -6,6 +6,7 @@ title: Coding
 **MISC**:
   - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook): consigli, materiale per studiare e link ad esercizi per prepararsi alle interview
   - [InterviewBit Preparation](https://www.interviewbit.com/courses/programming/): buona scaletta degli argomenti per la preparazione
+  - [Leetcode Study Plans](https://github.com/SuperheroesValley/Leetcode-Study-Plans)
 
 
 **TEORIA**:
