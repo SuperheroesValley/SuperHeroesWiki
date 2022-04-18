@@ -12,3 +12,4 @@ title: Miscellaneous
   - [An Algorithm for passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
   - [Topics you can't skip for interview preparation using Leetcode](https://leetcode.com/discuss/general-discussion/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE)
   - [List of upcoming competitive programming competitions](https://clist.by/resources/)
+  - [Grokking the * Interview](https://designgurus.org/home) bundle ad accesso illimitato a tutti i corsi Grokking (a pagamento)
