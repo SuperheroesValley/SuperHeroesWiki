@@ -14,6 +14,7 @@ title: Coding
   - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+  - [25 Patterns you must know](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   - [Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview): a pagamento
   - [Overview of Bit Manipulation and Rolling Hash, with excercises and solutions](https://github.com/CoffeeStraw/CP-SWE-Interviews/blob/main/Report.pdf): curata da [Antonio Strippoli](https://github.com/CoffeeStraw)
   - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf): curata da Riccardo Mori
