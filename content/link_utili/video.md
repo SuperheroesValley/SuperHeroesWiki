@@ -3,7 +3,7 @@ title: Video
 ---
 
 Contenuti video utili per preparasi ai colloqui tecnici:
- -[Interview Prep mini-course by Google](https://techdevguide.withgoogle.com/paths/interview)
+- [Interview Prep mini-course by Google](https://techdevguide.withgoogle.com/paths/interview)
 - [Design a Distributed System in One Hour (NALSD)](https://www.youtube.com/watch?v=bOXkgMuVuYY)
 - [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [Intro to Algorithm (MIT Course)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
