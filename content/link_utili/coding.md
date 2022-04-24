@@ -20,8 +20,8 @@ title: Coding
 
 
 **PRATICA**:
-  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/): lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda)
-  - [Top 75 LeetCode Questions to Save Your Time (BLIND75)](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+  - [Sean Prashad List](https://seanprashad.com/leetcode-patterns/): lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda/pattern)
+  - [BLIND75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) Top 75 LeetCode Questions to Save Your Time 
   - [Leetcode solutions for Meta](https://flint-lynx-d21.notion.site/4a2872c685da44b5a377a5f939314f18?v=20a16d33403e48fc967bb939547893b1)
   - [Time Complexities in Python](https://wiki.python.org/moin/TimeComplexity)
  
