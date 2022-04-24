@@ -18,7 +18,7 @@ title: Coding
   - [Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview) (a pagamento, ma molto consigliato)
   - [Overview of Bit Manipulation and Rolling Hash, with excercises and solutions](https://github.com/CoffeeStraw/CP-SWE-Interviews/blob/main/Report.pdf): curata da [Antonio Strippoli](https://github.com/CoffeeStraw)
   - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf): by Riccardo Mori
-  - [Algorithms for coding interviews](Algorithms-for-coding-interviews.pdf): by Stefano Ivancich
+  - [Algorithms for coding interviews](/attachments/Algorithms-for-coding-interviews.pdf): by Stefano Ivancich
 
 
 **PRATICA**:
