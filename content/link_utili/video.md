@@ -11,5 +11,6 @@ Contenuti video utili per preparasi ai colloqui tecnici:
 - [Back To Back SWE Youtube channel](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) Miglior youtuber per la parte coding (Remo) <br />
   (Fork della Repo con gli esercizi: https://github.com/SuperheroesValley/backtobackswe)
 - [5-hours, hands-on course on Dynamic Programming ](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [5 Simple Steps for Solving Dynamic Programming Problems](https://www.youtube.com/watch?v=aPQY__2H3tE)
 - [System Design interview concepts in 10 mins](https://www.youtube.com/watch?v=REB_eGHK_P4)
 - [Google Students Virtual Series: Build for Everyone](https://careersonair.withgoogle.com/events/bfe-series)
