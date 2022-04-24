@@ -7,7 +7,8 @@ title: Coding
   - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook): consigli, materiale per studiare e link ad esercizi per prepararsi alle interview
   - [InterviewBit Preparation](https://www.interviewbit.com/courses/programming/): buona scaletta degli argomenti per la preparazione
   - [Leetcode Study Plans](https://github.com/SuperheroesValley/Leetcode-Study-Plans)
-  - [Grind 75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, CONSIGLIATO!!)
+  - [Grind 75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, dall'autore del Blind75, CONSIGLIATO!!)
+  - [Neetcode.io](https://neetcode.io/) (Blind75 + Video solutions)
 
 
 **TEORIA**:
