@@ -26,7 +26,7 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
 
 - Non usare il template Europass.
 - Non inserire nel CV informazioni personali che possano causare un bias (pregiudizio): foto, status civile, nazionalita',  etc.
-- Evita di mettere il voto di laurea in 30esimi (specialmente se applichi ad una big tech: ***il voto italiano non vuol dire nulla all'estero!***). Per covertire in GPA: (x / 20) - 1 dove x e' una percentuale. Esempio: 30/30 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0
+- Evita di mettere il voto di laurea in 30esimi (specialmente se applichi ad una big tech: ***il voto italiano non vuol dire nulla all'estero!***). Per covertire in GPA: (*x* / 20) - 1 dove *x* e' una percentuale. Esempio: 30/30 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0
 # Altre risorse
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
