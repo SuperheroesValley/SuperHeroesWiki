@@ -26,7 +26,7 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
 
 - Non usare il template Europass.
 - Non inserire nel CV informazioni personali che possano causare un bias (pregiudizio): foto, status civile, nazionalita',  etc.
-- Se applichi per aziende all'estero, ti consigliamo di specificare voto di laurea e/o media ponderata in iGPA. Puoi utilizzare [questo convertitore](https://applications.wes.org/igpa-calculator/) per ottenere la tua votazione secondo questa metrica, di più facile comprensione soprattutto per i recruiter delle big tech.
+- Indicare sempre il voto di laurea in scala (i.e. 90/110, non solo 70), specialmente se applicate ad aziende estere. Convertire il voto di laurea in GPA non è completamente corretto, perchè il significato del punteggio dipende molto dall'università stessa e anche dai singoli corsi di laurea. Se l'azienda/università per cui applichi dovesse richiedere necessariamente il voto in GPA, ti consigliamo di specificare voto di laurea e/o media ponderata in iGPA. Se non hai ancora conseguito la laurea, puoi utilizzare [questo convertitore](https://applications.wes.org/igpa-calculator/) per ottenere la tua votazione secondo questa metrica. Se invece sei già laureato, visto che il voto di laurea comprende anche dei punti bonus, è consigliato usare la seguente formula: (*x* / 20) - 1 dove *x* e' una percentuale. Esempio: 1) 110/110 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0   2) 100/110 corrisponde al 90%, quindi (90 / 20) - 1 = 3.5 
 
 # Altre risorse
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
