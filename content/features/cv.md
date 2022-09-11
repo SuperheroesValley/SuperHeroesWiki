@@ -28,7 +28,7 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
 - Non inserire nel CV informazioni personali che possano causare un bias (pregiudizio): foto, status civile, nazionalita',  etc.
 - Indicare sempre il voto di laurea in scala (i.e. 90/110, non solo 70), specialmente se applicate ad aziende estere. 
 - Alcune azienda/università americane potrebbero richiedere necessariamente il voto in [GPA](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States). Se non hai ancora conseguito la laurea, puoi utilizzare [questo convertitore](https://applications.wes.org/igpa-calculator/) per ottenere la tua votazione in GPA partendo dalla media ponderata degli esami che hai sostenuto. Se invece sei già laureato è consigliato usare la seguente formula: (*x* / 20) - 1 dove *x* e' una percentuale (Questo perchè il voto di laurea comprende anche dei punti bonus, al di fuori della media ponderata). 
-Esempio:
+Esempi:
   - 110/110 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0
   - 100/110 corrisponde al 90%, quindi (90 / 20) - 1 = 3.5 
 
