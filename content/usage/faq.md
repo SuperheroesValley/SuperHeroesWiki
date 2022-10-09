@@ -11,23 +11,23 @@ Si, le internship in tutte le grandi aziende sono pagate. Oltre allo stipendio m
 
 ## - Come posso prepararmi alle coding interview? 
 
-Per prepararsi alle coding interview è necessario avere una conoscenza di base di algoritmi e strutture dati, [nella nostra wiki](https://wiki.superheroesvalley.fun/) trovi molte risorse per ripassare o studiare questi argomenti.
+Per prepararsi alle coding interview è necessario avere una conoscenza di base di algoritmi e strutture dati, [nella nostra wiki](https://wiki.superherovalley.fun/) trovi molte risorse per ripassare o studiare questi argomenti.
 La nostra community offre inoltre la possibilità di fare esercizi in gruppo e mock interview per prepararsi al meglio ai colloqui. 
 Se vuoi saperne di più iscriviti [al nostro server Discord](https://discord.com/invite/DsRJgkraTa).
 
 ## - Come si scrive un buon CV?
 
-[Nella nostra wiki](https://wiki.superheroesvalley.fun/features/cv/) abbiamo una sezione che raccoglie molti consigli utili per scrivere un buon curriculum.
+[Nella nostra wiki](https://wiki.superherovalley.fun/features/cv/) abbiamo una sezione che raccoglie molti consigli utili per scrivere un buon curriculum.
 [Nel nostro server Discord](https://discord.com/invite/DsRJgkraTa) vi forniamo inoltre la possibilità di inviare il vostro CV per ricevere dei consigli su come migliorarlo.
 
-## - Posso partecipare a SuperHeroes Valley anche se sono al primo anno di università? 
+## - Posso partecipare a Superhero Valley anche se sono al primo anno di università? 
 
 Ovviamente si! Il nostro obiettivo è dare da subito maggiore consapevolezza delle possibilità che molte aziende possono offrirvi, ad esempio Google offre agli studenti del primo e secondo anno un programma di internship chiamato [STEP](https://buildyourfuture.withgoogle.com/programs/step/). 
  
 
 ## - Quando posso fare domanda per le internship? 
 
-L'apertura del periodo di candidatura varia in base all'azienda. Vi consigliamo di visionare la lista di aziende che abbiamo inserito [nella nostra wiki](https://wiki.superheroesvalley.fun/features/ricerca_internships/) e di cercare poi la pagina "Career" o "Jobs opening" dell'azienda che vi interessa.
+L'apertura del periodo di candidatura varia in base all'azienda. Vi consigliamo di visionare la lista di aziende che abbiamo inserito [nella nostra wiki](https://wiki.superherovalley.fun/features/ricerca_internships/) e di cercare poi la pagina "Career" o "Jobs opening" dell'azienda che vi interessa.
 
 ## - Per svolgere una internship è necessario spostarsi nella città dove è presente la sede dell'azienda?
 

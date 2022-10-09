@@ -10,6 +10,6 @@ Per le comunicazioni più generali, come ad esempio annunci talk o sondaggi sull
 - [Gruppo Discord](https://discord.com/invite/rNZx6JpMkt):
 Per le comunicazioni più specifiche, è organizzato in canali e sono presenti anche dai canali audio in cui sono stati svolti i meeting per confrontarsi sugli esercizi.
 
-- [Sito ufficiale](https://www.superheroesvalley.fun/)
+- [Sito ufficiale](https://superherovalley.fun/)
 - [Mail](mailto:info@superheroesvalley.fun)
 
