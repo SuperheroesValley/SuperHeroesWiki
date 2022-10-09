@@ -29,5 +29,5 @@ title: Coding
  - [Overview of Bit Manipulation and Rolling Hash, with excercises and solutions](https://github.com/CoffeeStraw/CP-SWE-Interviews/blob/main/Report.pdf): curata da [Antonio Strippoli](https://github.com/CoffeeStraw)
  - [Algorithms for coding interviews](/attachments/Algorithms-for-coding-interviews.pdf): by [Stefano Ivancich](https://github.com/ivaste)
  - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf): by [Riccardo Mori](https://github.com/patacca)
- - [Superheroes Excercises Repository](https://github.com/SuperheroesValley/superheroes-exercises): soluzioni ad alcuni esercizi di InterviewBit e Leetcode da parte di membri di SuperheroesValley
+ - [Superhero Excercises Repository](https://github.com/SuperheroesValley/superheroes-exercises): soluzioni ad alcuni esercizi di InterviewBit e Leetcode da parte di membri di Superhero Valley
  

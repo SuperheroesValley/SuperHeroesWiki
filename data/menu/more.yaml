@@ -1,7 +1,7 @@
 ---
 more:
   - name: Home
-    ref: "https://www.superheroesvalley.fun/"
+    ref: "https://superherovalley.fun/"
     external: true
     icon: "home"
   - name: "Contribute"
