@@ -2,7 +2,7 @@
 
 Questa è la repo della Wiki di Superhero Valley. La wiki è raggiungibile dal seguente link: [https://wiki.superherovalley.fun/](https://wiki.superherovalley.fun/).
 
-Per maggiori informazioni riguardo a Superhero Valley potete fare riferimento al [nostro sito web](https://wiki.superherovalley.fun/).
+Per maggiori informazioni riguardo a Superhero Valley potete fare riferimento al [nostro sito web](https://superherovalley.fun/).
 
 ## Obiettivo della wiki
 
