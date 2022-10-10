@@ -33,6 +33,12 @@ Esempi:
   - 110/110 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0
   - 100/110 corrisponde al 90%, quindi (90 / 20) - 1 = 3.5 
 
+# Esempi di CV
+
+In questa sezione inseriamo i curriculum dei partecipanti alla nostra community che sono riusciti ad ottenere una internship o una posizione full time in una Big Tech. Se vuoi contribuire e inserire qui il tuo CV, inviacelo tramite il nostro discord o apri una pull request.
+
+- [Stefano Ivancich]()
+
 # Altre risorse
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
