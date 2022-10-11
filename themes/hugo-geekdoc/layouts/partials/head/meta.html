@@ -6,8 +6,11 @@
 {{ $keywords := default .Site.Params.Keywords .Keywords }}
 
 {{ with $description }}
-    <meta name="description" content="{{ . }}">
+<meta name="description" content="{{ . }}">
 {{ end }}
 {{ with $keywords }}
-    <meta name="keywords" content="{{ delimit . "," }}">
+<meta name="keywords" content="{{ delimit . " ," }}">
 {{ end }}
+
+<script defer data-domain="wiki.superherovalley.fun"
+    src="https://plausible.superherovalley.fun/js/plausible.js"></script>
