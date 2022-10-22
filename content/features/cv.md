@@ -47,7 +47,7 @@ Esempi:
 
 In questa sezione inseriamo i curriculum dei partecipanti alla nostra community che sono riusciti ad ottenere una internship o una posizione full time in una Big Tech. Se vuoi contribuire e inserire qui il tuo CV, inviacelo tramite il nostro discord o apri una pull request.
 
-- [Stefano I.(https://www.stefanoivancich.com/wp-content/uploads/2022/10/Stefano_Resume.pdf)
+- [Stefano I.](https://www.stefanoivancich.com/wp-content/uploads/2022/10/Stefano_Resume.pdf)
 
 # Altre risorse
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
