@@ -9,8 +9,9 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
 
 # Template Consigliati 
 - [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
-- [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
 - [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
+- [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
+- [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
 
 # Consigli per scrivere un buon Curriculum Vitae
 
