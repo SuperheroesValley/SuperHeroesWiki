@@ -9,6 +9,7 @@ title: Coding
   - [Leetcode Study Plans](https://github.com/SuperheroesValley/Leetcode-Study-Plans)
   - [Grind 75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, dall'autore del Blind75, CONSIGLIATO!!)
   - [Neetcode.io](https://neetcode.io/) (Blind75 + Video solutions)
+  - [Leetcode più richiesti dalle Big Tech](https://docs.google.com/spreadsheets/u/0/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview#gid=1377915986) (File Google Doc di un utente privato sconosciuto, prendere con le pinze)
 
 
 **TEORIA**:
