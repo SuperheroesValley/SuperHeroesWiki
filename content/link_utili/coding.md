@@ -7,8 +7,6 @@ title: Coding
   - [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook): consigli, materiale per studiare e link ad esercizi per prepararsi alle interview
   - [InterviewBit Preparation](https://www.interviewbit.com/courses/programming/): buona scaletta degli argomenti per la preparazione
   - [Leetcode Study Plans](https://github.com/SuperheroesValley/Leetcode-Study-Plans)
-  - [Grind 75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, dall'autore del Blind75, CONSIGLIATO!!)
-  - [Neetcode.io](https://neetcode.io/) (Blind75 + Video solutions)
   - [Leetcode più richiesti dalle Big Tech](https://docs.google.com/spreadsheets/u/0/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview#gid=1377915986) (File Google Doc di un utente privato sconosciuto, prendere con le pinze)
 
 
@@ -21,8 +19,10 @@ title: Coding
 
 
 **PRATICA**:
-  - [Sean Prashad List](https://seanprashad.com/leetcode-patterns/): lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda/pattern)
   - [BLIND75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) Top 75 LeetCode Questions to Save Your Time 
+  - [Grind75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, dall'autore del Blind75, CONSIGLIATO!!)
+  - [Neetcode.io](https://neetcode.io/) (Blind75 + Video solutions)
+  - [Sean Prashad List](https://seanprashad.com/leetcode-patterns/): lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda/pattern)
   - [Leetcode solutions for Meta](https://flint-lynx-d21.notion.site/4a2872c685da44b5a377a5f939314f18?v=20a16d33403e48fc967bb939547893b1)
   - [Time Complexities in Python](https://wiki.python.org/moin/TimeComplexity)
  
