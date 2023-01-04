@@ -20,8 +20,8 @@ title: Coding
 
 **PRATICA**:
   - [BLIND75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) Top 75 LeetCode Questions to Save Your Time 
-  - [Grind75](https://www.techinterviewhandbook.org/grind75) (Leetcode study plan personalizzato, dall'autore del Blind75, CONSIGLIATO!!)
-  - [Neetcode.io](https://neetcode.io/) (Blind75 + Video solutions)
+  - [**Grind75**](https://www.techinterviewhandbook.org/grind75)* (Leetcode study plan personalizzato, dall'autore del Blind75)
+  - [**Neetcode.io**](https://neetcode.io/)* (Blind75 + Video solutions)
   - [Sean Prashad List](https://seanprashad.com/leetcode-patterns/): lista di esercizi Leetcode consigliati (divisi per tag/difficoltà/azienda/pattern)
   - [Leetcode solutions for Meta](https://flint-lynx-d21.notion.site/4a2872c685da44b5a377a5f939314f18?v=20a16d33403e48fc967bb939547893b1)
   - [Time Complexities in Python](https://wiki.python.org/moin/TimeComplexity)
@@ -32,3 +32,5 @@ title: Coding
  - [Dimostrazione del teorema della tartaruga e del coniglio](/attachments/dimostrazione_hare_tortoise.pdf): by [Riccardo Mori](https://github.com/patacca)
  - [Superhero Excercises Repository](https://github.com/SuperheroesValley/superheroes-exercises): soluzioni ad alcuni esercizi di InterviewBit e Leetcode da parte di membri di Superhero Valley
  
+ 
+ [*] Consigliato!!
