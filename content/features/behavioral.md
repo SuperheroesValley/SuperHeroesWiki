@@ -15,7 +15,7 @@ title: Behavioral Interview
  - The context in which your experience occurred (**S**ituation)
  - What you were required to achieve during the situation (**T**ask/Target)
  - The action you personally took in response to the task (**A**ction)
-  - Tip: good actions are the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) (think big, costumer obsession, ...) 
+   - Tip: good actions are the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) (think big, costumer obsession, ...) 
  - The effect of your action on the outcome of the situation (**R**esult)
  - What you learned from the experience (**L**earn)
 
