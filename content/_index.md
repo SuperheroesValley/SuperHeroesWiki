@@ -12,15 +12,14 @@ Ottenere un’offerta di internship, o anche una posizione Full Time, dalle azie
 
 - **Talk motivazionali** di persone che lavorano in grandi aziende con argomento la loro storia e indicazioni utili per affrontare una tech interview.
 - Simulazioni di Tech Interviews (chiamate **Mock interview**) svolte da persone che lavorano in grandi aziende, con l’obiettivo di quantificare il grado di preparazione dello studente. A discrezione dell’interviewer, è anche possibile premiare i candidati promettenti con un referral che permette di saltare la fase di “cv screening”.
-<<<<<<< HEAD
-- **Svolgimento di esercizi** mirati per la preparazione alle interviste tecniche dalle grandi aziende, in gruppo o individualmente.
-- **Social Events** svolti dagli organizzatori per avvicinare i membri della community. Eventi meno formali, e più a scopo ludico, dove i partecipanti possono parlare liberamente tra loro.
-=======
 - Svolgimento di esercizi mirati per la preparazione alle interviste tecniche dalle grandi aziende, in gruppo o individualmente. Le esercitazioni sono principalmente indirizzate verso le seguenti fasi del colloquio: **Coding**, **System Design**  e **Behavioral**
 - **Eventi sociali** svolti dagli organizzatori per avvicinare i membri della community. Eventi meno formali, e più a scopo ludico, dove i partecipanti possono parlare liberamente tra loro.
 
->>>>>>> dbe5f3f (updated index (must find a better way to do it; a symlink doesn't properly work either))
+# Ma come si svolge un Colloquio Tecnico di una Big Tech?
+Scopri di più [QUI!]({{< ref "/features/prep_intro.md" >}})
 
+# Come mi preparo per un Colloquio Tecnico?
+La sezione **Link Utili** a sinistra presenta tutto il materiale necessario per iniziare la preparazione. Ti va di fare qualche esercizio assieme, o con l'aiuto di persone con esperienza, **gratuitamente**? Entra nel nostro [DISCORD](https://discord.com/invite/uPRmhHwMem) e scopri come nel canale **#leggimi**!
 
 # Organizzatori Iniziali:
 
