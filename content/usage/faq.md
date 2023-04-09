@@ -20,7 +20,7 @@ Se vuoi saperne di più iscriviti [al nostro server Discord](https://discord.com
 [Nella nostra wiki](https://wiki.superherovalley.fun/features/cv/) abbiamo una sezione che raccoglie molti consigli utili per scrivere un buon curriculum.
 [Nel nostro server Discord](https://discord.com/invite/DsRJgkraTa) vi forniamo inoltre la possibilità di inviare il vostro CV per ricevere dei consigli su come migliorarlo.
 
-## - Posso partecipare a Superhero Valley anche se sono al primo anno di università? 
+## - Posso partecipare a SuperHero Valley anche se sono al primo anno di università? 
 
 Ovviamente si! Il nostro obiettivo è dare da subito maggiore consapevolezza delle possibilità che molte aziende possono offrirvi, ad esempio Google offre agli studenti del primo e secondo anno un programma di internship chiamato [STEP](https://buildyourfuture.withgoogle.com/programs/step/). 
  
