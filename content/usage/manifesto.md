@@ -15,7 +15,11 @@ Ottenere un’offerta di internship, o anche una posizione Full Time, dalle azie
 - Svolgimento di esercizi mirati per la preparazione alle interviste tecniche dalle grandi aziende, in gruppo o individualmente. Le esercitazioni sono principalmente indirizzate verso le seguenti fasi del colloquio: **Coding**, **System Design**  e **Behavioral**
 - **Eventi sociali** svolti dagli organizzatori per avvicinare i membri della community. Eventi meno formali, e più a scopo ludico, dove i partecipanti possono parlare liberamente tra loro.
 
+# Ma come si svolge un Colloquio Tecnico di una Big Tech?
+Scopri di più [QUI!]({{< ref "/features/prep_intro.md" >}})
 
+# Come mi preparo?
+La sezione **Link Utili** a sinistra presenta tutto il materiale necessario per iniziare la preparazione. Ti va di fare qualche esercizio assieme, o con l'aiuto di persone con esperienza, **gratuitamente**? Entra nel nostro [DISCORD](https://discord.com/invite/uPRmhHwMem) e scopri come nel canale **#leggimi**!
 
 # Organizzatori Iniziali:
 
