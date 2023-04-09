@@ -2,14 +2,6 @@
 title: Behavioral Interview
 ---
 
-### How to answer:
- - 2-3 min per question
- - STAR-L Framework: Situation, Task, Actions, Result, Learnings
- - Prepare for possible follow-ups.
- - Tell what YOU did, do not answer with "we".
- - Always explain the impact that your actions had. If we have no impact (changing the world), computer science its just a mental exercise.
- - Tip: for each project/experience you had, prepare 2/3 stories.
-
 ### The STAR-L Framework:
  Explain:
  - The context in which your experience occurred (**S**ituation)
@@ -19,6 +11,14 @@ title: Behavioral Interview
  - The effect of your action on the outcome of the situation (**R**esult)
  - What you learned from the experience (**L**earn)
 
+### How to answer:
+ - 2-3 min per question
+ - STAR-L Framework: Situation, Task, Actions, Result, Learnings
+ - Prepare for possible follow-ups.
+ - Tell what YOU did, do not answer with "we".
+ - Always explain the impact that your actions had. If we have no impact (changing the world), computer science its just a mental exercise.
+ - **Tip**: for each project/experience you had, prepare 2/3 stories.
+ 
 ### Must knows:
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
