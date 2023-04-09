@@ -1,5 +1,6 @@
 ---
 title: Eventi
+weight: -10
 ---
 
 # Prossimi eventi in programma
