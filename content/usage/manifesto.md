@@ -1,6 +1,6 @@
 ---
 title: Manifesto
-weight: -20
+weight: -21
 
 ---
 
