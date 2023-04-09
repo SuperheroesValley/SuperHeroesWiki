@@ -7,16 +7,18 @@ Durante i nostri talk abbiamo più volte affrontato questo argomento, in questa 
 
 Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [discord](https://discord.gg/BR2udfnpje) (canale #cv-review) per avere suggerimenti e consigli per migliorarlo.
 
-# Template Consigliati 
-- [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
-- [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
-- [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
-- [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
+
 
 # Consigli per scrivere un buon Curriculum Vitae
 
 - **Scrivi il CV in inglese**, se hai dubbi sulla grammatica, [Grammarly](https://www.grammarly.com/) è tuo amico;
-- **Usa un template leggibile**. Scegli uno dei template LaTeX che consigliamo così da facilitare la lettura al recruiter. Troverai il link al template su [Overleaf](https://www.overleaf.com/) nei rispettivi repository, poi clicca su "Open as Template" per iniziare a personalizzarlo. **Evita** template esotici nel tentativo di farti notare;
+- **Usa un template leggibile**. Scegli uno dei template LaTeX che consigliamo così da facilitare la lettura al recruiter. Troverai il link al template su [Overleaf](https://www.overleaf.com/) nei rispettivi repository linkati qua sotto, poi clicca su "Open as Template" per iniziare a personalizzarlo. **Evita** template esotici nel tentativo di farti notare;
+  #### Template Consigliati 
+  - [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
+  - [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
+  - [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
+  - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
+ 
 - **Sii conciso**. La persona che leggerà il tuo CV ha poco tempo, quindi gli dedicherà pochi secondi. Il tuo CV non dovrebbe essere più lungo di una singola pagina, attieniti a ciò che è davvero importante ed inserisci progetti ed esperienze rilevanti rispetto alla posizione per cui stai facendo domanda. Tra i vantaggi dello scrivere il tuo CV in LaTeX segnaliamo la possibilità di aggiungere commenti, utili per nascondere parti del CV non interessanti per la posizione per cui stai facendo domanda e poterle facilmente riaggiungere in futuro;
 - **Per ogni esperienza universitaria** inserisci la lista dei corsi più rilevanti che hai frequentato, la media attuale e il voto finale previsto (se non troppo bassi). Se hai già concluso il percorso universitario, inserisci il voto finale di laurea ed il numero di crediti ottenuto. Aggiungi esperienze di leadership, achievements e volontarirato: es. "_founded crypto-blockchain club_", "_organized competitive programming contests_", "_tutored young students for the algebra course_", ...
 - **Per ogni esperienza lavorativa** descrivi brevemente quello che hai fatto e l'impatto che hai avuto, con la formula "_Accomplished X by implementing Y which led to Z_". Ad esempio:
@@ -29,7 +31,7 @@ Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo [di
   - Aggiungi i link nel seguente formato ```[code | article | paper | demo | video demo | presentation]```
 - **Se hai pubblicazioni**, elencatele nominando tutti gli altri autori ma evidenziate il vostro nome;
 - **Utilizza action verbs**. Ad esempio: achieved, completed, expanded, exceeded, improved, pioneered, reduced (losses), resolved (issues), restored, spearheaded, succeeded, surpassed, transformed, won, analyzed, developed, directed, diagnosed, evaluated, examined, built, calculated, Conceptualized, Coded, coached, communicated, conducted, ...
-- **Molte aziende utilizzano sistemi automatici per lo screening dei CV**. Fortunatamente online sono presenti diversi servizi in cui poter submittare il vostro CV ed ottenere un punteggio e dei consigli su cosa migliorare, segnaliamo ad esempio [Resume Worded](https://resumeworded.com/) e [GlideCV](https://glidecv.com/).
+- **Molte aziende utilizzano sistemi automatici per lo screening dei CV**, chiamati *Applicant Tracking System*s (**ATS**). Fortunatamente online sono presenti diversi servizi in cui poter submittare il vostro CV ed ottenere un punteggio e dei consigli su cosa migliorare, segnaliamo ad esempio [Resume Worded](https://resumeworded.com/) e [GlideCV](https://glidecv.com/).
 - **Ordine dei contenuti:** info (email, github, cell, ...), esperienze lavorative, education, projects, achievements/extra activities
 
 # Errori da non commettere
