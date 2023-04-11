@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net" modified="2023-04-01T14:08:29.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5u149NmXhtOV2LosN_35" version="21.1.2" type="device">
+  <diagram name="Pagina-1" id="lGb0KnOHSSYc2SH0zW3O">
+    <mxGraphModel dx="685" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-13" target="AwERAYbp6y0lLwW9IT_0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-13" value="CV screening by ATS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-14" target="AwERAYbp6y0lLwW9IT_0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-14" value="Online Assessment&lt;br&gt;Algorithm / behavioral / project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-15" target="AwERAYbp6y0lLwW9IT_0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-15" value="CV screening by Human" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-14" target="AwERAYbp6y0lLwW9IT_0-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="450" />
+              <mxPoint x="380" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-18" value="x3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-25" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-26" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-30" target="AwERAYbp6y0lLwW9IT_0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-30" value="Insert your CV on company website (tedious ~15m)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-32" target="AwERAYbp6y0lLwW9IT_0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-32" value="Short Introduction with HR (10-15 min)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-34" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="569" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-39" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-35" target="AwERAYbp6y0lLwW9IT_0-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="690" />
+              <mxPoint x="380" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-35" target="AwERAYbp6y0lLwW9IT_0-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-35" value="Technical/behavioral (phone) Interview (45-60 min)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-37" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="650" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-40" value="x3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-43" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-53" target="AwERAYbp6y0lLwW9IT_0-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="420" />
+              <mxPoint x="220" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-44" target="AwERAYbp6y0lLwW9IT_0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-44" value="(possible) CV screening by Human" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-47" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="AwERAYbp6y0lLwW9IT_0-52" target="AwERAYbp6y0lLwW9IT_0-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="340" />
+              <mxPoint x="220" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-52" value="Referral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-53" value="HR contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-44/63/Social_Icons-05-128.png" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-55" value="Onsite: 2-6 interview in a day (45-60 min)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwERAYbp6y0lLwW9IT_0-57" value="Top X candidates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="730" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
