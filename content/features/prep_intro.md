@@ -13,8 +13,8 @@ Month 1. Applying to all the companies you want, waiting for the responses, talk
 Month 2. Passing phone interviews, waiting for the results, scheduling onsite interviews.
 Month 3. Passing onsite interviews, waiting for the results, receiving offers, negotiating, signing the papers.
 
-## The Interview Process
-Today (2023) the **selection process** is generally a funnel composed as follows (be aware that some companies have fewer steps, some steps are easier for interns, some steps are in slightly different order, and some steps can be bypassed if you have an internal referral, or you use some “social networking” tricks):
+## The Interview Process (As of 2023)
+The **selection process** is generally a funnel composed as follows (be aware that some companies have fewer steps, some steps are easier for interns, some steps are in slightly different order, and some steps can be bypassed if you have an internal referral, or you use some “social networking” tricks):
  - You **search for a job** position on the company website, or in an employment search engine (LinkedIn, Indeed, …), or you meet recruiters on Job Fairs, or Recruiters contact you, …
    - If a recruiter contacts you don’t convince yourself that you are a strong candidate and put too much hope in that position, also if the recruiter is telling you so, because probably they are just spamming, trying to insert you in the funnel. Sometimes happens that you receive mails with errors, something that literally starts like “Hello %name%...”, because they are using a software to send thousands of emails, some of them will respond and get you inserted into the funnel.
  - You **fill the application in the company website** with your CV and a Cover letter.
