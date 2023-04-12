@@ -48,11 +48,13 @@ Today (2023) the **selection process** is generally a funnel composed as follows
  - **Paperwork**: signing, background check, criminal check, credit check, …
  - **Team matching**: sometimes even if you have the offer they don’t know where to assign you, so you have to do some extra interviews with some specific teams. This can also last 1 year (like in Google).
 
-At the end of the interview the interviewer will make an assessment of your performance, usually based on the following:
-•	Analytical skills: Did you need much help solving the problem? How optimal was your solution? How long did it take you to arrive at a solution? If you had to design/ architect a new solution, did you structure the problem well and think through the tradeoffs of different decisions?
+# Evaluation
+At the end of the interview the interviewer will make an assessment of your performance, and pass it to the HR manager. It usually based on the following:
+ - **Analytical skills**: Did you need much help solving the problem? How optimal was your solution? How long did it take you to arrive at a solution? If you had to design/ architect a new solution, did you structure the problem well and think through the tradeoffs of different decisions?
  - **Coding skills**: Were you able to successfully translate your algorithm to reasonable code? Was it clean and well-organized? Did you think about potential errors? Did you use good style?
  - **Technical knowledge / Computer Science fundamentals**: Do you have a strong foundation in computer science and the relevant technologies?
  - **Experience**: Have you made good technical decisions in the past? Have you built interesting, challenging projects? Have you shown drive, initiative, and other important factors?
  - **Culture fit / Communication skills**: Do your personality and values fit with the company and team? Did you communicate well with your interviewer?
 
+# Bird's-eye View of the whole Application Process
 ![alt text](https://github.com/SuperheroesValley/SuperHeroesWiki/raw/main/static/media/technicalProcess.jpg)
