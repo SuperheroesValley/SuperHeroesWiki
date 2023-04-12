@@ -3,7 +3,7 @@ title: Introduzione
 weight: -20
 
 ---
-**Authors: [ivaste](https://github.com/ivaste)**
+***Authors: [Stefano Ivancich](https://github.com/ivaste)***
 
 Academic books prepare you for fancy research, they will make you a better software engineer, but they're not sufficient for interviews.
 You need to prepare with real interview questions and learn their patterns. It's about developing a fresh algorithm, not memorizing existing problems.
