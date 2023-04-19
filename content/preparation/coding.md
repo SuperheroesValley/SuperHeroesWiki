@@ -4,8 +4,7 @@ weight: -19
 ---
 
 # Introduction - Work In Progress!!!
-
-
+![alt text](/media/coding-timeline.jpg)
 
 ### Links
 **STUDY PLANS**:
