@@ -4,7 +4,12 @@ weight: -19
 ---
 
 # Introduction - Work In Progress!!!
+### Overview of a Coding Interview
 ![alt text](/media/coding-timeline.jpg)
+
+
+### Technical Assessment Timeline
+![alt text](/media/tech-assess-timeline.jpg)
 
 ### Links
 **STUDY PLANS**:
