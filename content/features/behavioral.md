@@ -2,6 +2,24 @@
 title: Behavioral Interview
 ---
 
+***Authors: [Stefano Ivancich](https://github.com/ivaste)***
+
+
+During a job interview, one of the interviewer's task is to explore the way you handled a "complex" situation in the past (preferably at the workplace). Let's see how to prepare
+a *stellar* behavioral interview using the **STAR-L** method.
+
+### Example of behavioral questions:
+ - Describe a time when you disagreed with a team member. How did you resolve the problem?
+ - Describe a time when you faced a block at work and how you solved it.
+ - Tell me about a time when you disagreed with a supervisor.
+ - What is the most difficult/ challenging situation you’ve ever had to resolve in the workplace? Describe a time when you were able to motivate unmotivated team members.
+ - Tell me about a decision that you’ve regretted and how you overcame it.
+ - Tell me about a time when you tried something risky and failed.
+ - Tell me about a time when you were consulted for a problem.
+ - Explain a time when you took the initiative on a project.
+ - What’s the best idea you’ve come up with on a team-based project?
+ - Tell me about a time when you worked well under pressure.
+
 ### The STAR-L Framework:
  Explain:
  - The context in which your experience occurred (**S**ituation)
@@ -18,8 +36,10 @@ title: Behavioral Interview
  - Tell what YOU did, do not answer with "we".
  - Always explain the impact that your actions had. If we have no impact (changing the world), computer science its just a mental exercise.
  - **Tip**: for each project/experience you had, prepare 2/3 stories.
- 
-### Must knows:
+
+---
+Not all questions can be answered using the **STAR-L** framework, but make sure to the able to answer this common questions (and the follow ups):
+### Must know NON-STAR questions:
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
  - Where do you see yourself in 5 years? 
@@ -38,17 +58,6 @@ title: Behavioral Interview
  - What was the driving factor of decision
  - Explain something technical about the project. (Ex. you said you used UDP instead of TCP to solve the problem, now explain how TCP works)
 
-### Other questions:
- - Describe a time when you disagreed with a team member. How did you resolve the problem? 
- - Describe a time when you faced a block at work and how you solved it. 
- - Tell me about a time when you disagreed with a supervisor. 
- - What is the most difficult/ challenging situation you’ve ever had to resolve in the workplace? Describe a time when you were able to motivate unmotivated team members. 
- - Tell me about a decision that you’ve regretted and how you overcame it. 
- - Tell me about a time when you tried something risky and failed. 
- - Tell me about a time when you were consulted for a problem. 
- - Explain a time when you took the initiative on a project. 
- - What’s the best idea you’ve come up with on a team-based project? 
- - Tell me about a time when you worked well under pressure.
 
 ### Amazon Leadership principles explained:
  Amazon Leadership principle, similar with other companies, are a good to way to answer behavioral questions. I've ordered by importance and similarity.
@@ -69,7 +78,3 @@ title: Behavioral Interview
  - **Strive to be Earth's Best Employer:** not relevant for interns and early career candidates.
  - **Success and Scale Bring Broad Responsibility:** not relevant for interns and early career candidates.
 
-
- 
-
-Authors: [ivaste](https://github.com/ivaste)
