@@ -1,6 +1,6 @@
 ---
 title: Introduzione
-weight: -20
+weight: -21
 
 ---
 ***Authors: [Stefano Ivancich](https://github.com/ivaste)***
@@ -56,4 +56,4 @@ At the end of the interview the interviewer will make an assessment of your perf
  - **Culture fit / Communication skills**: Do your personality and values fit with the company and team? Did you communicate well with your interviewer?
 
 # Bird's-eye View of the whole Application Process
-![alt text](https://github.com/SuperheroesValley/SuperHeroesWiki/raw/main/static/media/technicalProcess.jpg)
+![alt text](/media/technical-process.jpg)

@@ -16,7 +16,7 @@ Ottenere un’offerta di internship, o anche una posizione Full Time, dalle azie
 - **Eventi sociali** svolti dagli organizzatori per avvicinare i membri della community. Eventi meno formali, e più a scopo ludico, dove i partecipanti possono parlare liberamente tra loro.
 
 # Ma come si svolge un Colloquio Tecnico di una Big Tech?
-Scopri di più [QUI!]({{< ref "/features/prep_intro.md" >}})
+Scopri di più [QUI!]({{< ref "/preparation/intro.md" >}})
 
 # Come mi preparo per un Colloquio Tecnico?
 La sezione **Link Utili** a sinistra presenta tutto il materiale necessario per iniziare la preparazione. Ti va di fare qualche esercizio assieme, o con l'aiuto di persone con esperienza, **gratuitamente**? Entra nel nostro [DISCORD](https://discord.com/invite/uPRmhHwMem) e scopri come nel canale **#leggimi**!
