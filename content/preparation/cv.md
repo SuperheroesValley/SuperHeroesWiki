@@ -1,6 +1,6 @@
 ---
 title: Scrivere il CV
-weight: -20
+weight: -21
 ---
 
 Una delle domande più frequenti delle persone che partecipano ai nostri talk è "Come posso scrivere il mio CV"? 

@@ -3,7 +3,7 @@ title: Behavioral Interview
 weight: -17
 ---
 
-***Authors: [Stefano Ivancich](https://github.com/ivaste)***
+***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
 
 During a job interview, one of the interviewer's task is to explore the way you handled a "complex" situation in the past (preferably at the workplace). Let's see how to prepare
