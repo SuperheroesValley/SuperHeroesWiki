@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on SuperHeroWiki</title>
+    <link>http://localhost/community/</link>
+    <description>Recent content in Community on SuperHeroWiki</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manifesto</title>
+      <link>http://localhost/community/manifesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/community/manifesto/</guid>
+      <description>Cos’è Superhero Valley: SuperHero Valley è una community nata nell’Ottobre 2020 con l’obiettivo di instaurare un ponte tra l’università e le grandi aziende nel campo dell’informatica. In altre nazioni è comune, durante il periodo universitario, seguire corsi tarati per sostenere tech interviews e svolgere internships in grandi aziende. Queste attività sono pressoché inesistenti e sconosciute in Italia. Ottenere un’offerta di internship, o anche una posizione Full Time, dalle aziende della Silicon Valley non è impresa facile senza la dovuta preparazione.</description>
+    </item>
+    
+    <item>
+      <title>Contatti</title>
+      <link>http://localhost/community/contatti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/community/contatti/</guid>
+      <description>Gruppo Discord: È il cuore della community, viene utilizzato per tutte le comunicazioni, per confrontarsi e scambiarsi opinioni. È organizzato in canali, alcuni di essi sono canali vocali in cui è possibile organizzare mock interview o esercizi di gruppo.
+Calendario Google: utile per non perdere gli eventi organizzati da Superhero Valley e trovarli sincronizzati direttamente nella vostra app calendario preferita.
+Gruppo Telegram: gruppo di sola lettura in cui scriviamo solamente le comunicazioni più importanti.</description>
+    </item>
+    
+    <item>
+      <title>Eventi</title>
+      <link>http://localhost/community/eventi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/community/eventi/</guid>
+      <description>Prossimi eventi in programma Controlla sul canale #annoucements su Discord, sul Calendario e su Telegram (Trovi i link qui).
+Se invece vuoi vedere gli eventi passati puoi visionare l&amp;rsquo;apposita pagina nel nostro sito.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost/community/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/community/faq/</guid>
+      <description>- Le internship sono pagate? Si, le internship in tutte le grandi aziende sono pagate. Oltre allo stipendio mensile alcune aziende possono anche offrire un bonus &amp;ldquo;relocation&amp;rdquo; e il pagamento dei voli per raggiungere la città dove si trovano gli uffici.
+- Come posso prepararmi alle coding interview? Per prepararsi alle coding interview è necessario avere una conoscenza di base di algoritmi e strutture dati, nella nostra wiki trovi molte risorse per ripassare o studiare questi argomenti.</description>
+    </item>
+    
+  </channel>
+</rss>

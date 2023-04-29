@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preparazione on SuperHeroWiki</title>
+    <link>http://localhost/preparation/</link>
+    <description>Recent content in Preparazione on SuperHeroWiki</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/preparation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduzione</title>
+      <link>http://localhost/preparation/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/intro/</guid>
+      <description>Authors: Stefano Ivancich
+Academic books prepare you for fancy research, they will make you a better software engineer, but they&amp;rsquo;re not sufficient for interviews. You need to prepare with real interview questions and learn their patterns. It&amp;rsquo;s about developing a fresh algorithm, not memorizing existing problems. At most of the top tech companies (and many other companies), algorithm and coding problems form the largest component of the interview process. The interviewer is looking to evaluate your ability to solve algorithmic problems you haven&amp;rsquo;t seen before, to ask the right questions to clarify ambiguity and explain your thought process.</description>
+    </item>
+    
+    <item>
+      <title>Scrivere il CV</title>
+      <link>http://localhost/preparation/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/cv/</guid>
+      <description>Una delle domande più frequenti delle persone che partecipano ai nostri talk è &amp;ldquo;Come posso scrivere il mio CV&amp;rdquo;? Durante i nostri talk abbiamo più volte affrontato questo argomento, in questa sezione vogliamo riassumere tutti i consigli che ci sono stati dati nel corso del tempo.
+Una volta che hai scritto il tuo CV non esitare a inviarlo sul nostro gruppo discord (canale #cv-review) per avere suggerimenti e consigli per migliorarlo.</description>
+    </item>
+    
+    <item>
+      <title>How to find good companies</title>
+      <link>http://localhost/preparation/find_companies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/find_companies/</guid>
+      <description>Authors: Stefano Ivancich
+In 2023 you have a 3% chance of getting an offer from any application, with 50 applications you have 87% chance of getting at least one job offer. Trust in the law of large numbers. Send out applications to more places than you’re currently planning. You can always &amp;ldquo;pause&amp;rdquo; or simply cancel the interview process with some companies. Schedule your favorite companies last. Get interview practice with the places you aren’t as excited about.</description>
+    </item>
+    
+    <item>
+      <title>Coding Interview</title>
+      <link>http://localhost/preparation/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/coding/</guid>
+      <description>Introduction - Work In Progress!!! Overview of a Coding Interview Technical Assessment Timeline Links STUDY PLANS:
+Tech Interview HandBook (GitHub): consigli, materiale per studiare e link ad esercizi per prepararsi alle interview InterviewBit Preparation: buona scaletta degli argomenti per la preparazione Leetcode Study Plans TEORIA (WEBSITES):
+Algorithms for Competitive Programming Coding Interview University 14 Patterns to Ace Any Coding Interview Question 25 Patterns you must know Grokking the coding interview (a pagamento, ma molto consigliato) TEORIA (LIBRI)</description>
+    </item>
+    
+    <item>
+      <title>System Design Inteview</title>
+      <link>http://localhost/preparation/system_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/system_design/</guid>
+      <description> Introduction - Work in Progress!!! Links TEORIA (WEBSITES)
+System Design Primer Small System Design Course by Hiredintech System Design Interview Web API Design Best Practices Learn about Non-Abstract Large Systems Design (NALSD) Latency Numbers Everyone Should Know Guide to crack the System Design interview (Presenta un buon template per la risoluzione di system design problems) TEORIA (VIDEO)
+Design a Distributed System in One Hour (NALSD) System Design interview concepts in 10 mins </description>
+    </item>
+    
+    <item>
+      <title>Behavioral Interview</title>
+      <link>http://localhost/preparation/behavioral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/behavioral/</guid>
+      <description>Authors: Stefano Ivancich
+During a job interview, one of the interviewer&amp;rsquo;s task is to explore the way you handled a &amp;ldquo;complex&amp;rdquo; situation in the past (preferably at the workplace). Let&amp;rsquo;s see how to prepare a stellar behavioral interview using the STAR-L method.
+Example of behavioral questions: Describe a time when you disagreed with a team member. How did you resolve the problem? Describe a time when you faced a block at work and how you solved it.</description>
+    </item>
+    
+    <item>
+      <title>Ricerca Internship</title>
+      <link>http://localhost/preparation/ricerca_internships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/preparation/ricerca_internships/</guid>
+      <description>Elenco aziende che organizzano internship Azienda Link Google https://careers.google.com/ Nvidia https://nvidia.wd5.myworkdayjobs.com/ Mozilla https://careers.mozilla.org/ Facebook https://www.facebook.com/careers/ Apple https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN Amazon https://www.amazon.jobs/ Microsoft https://careers.microsoft.com/ Jetbrains https://www.jetbrains.com/careers/jobs/ Adobe https://www.adobe.com/careers.html Linkedin https://careers.linkedin.com/ Bloomberg https://careers.bloomberg.com/ Klarna https://www.klarna.com/careers/ Ubisoft https://www.ubisoft.com/en-us/company/careers DeepMind https://deepmind.com/careers Two Sigma https://www.twosigma.com/careers/ Yelp https://www.yelp.careers/us/en SpaceX https://www.spacex.com/careers/index.html Tesla https://www.tesla.com/it_IT/careers Cisco https://jobs.cisco.com/ IBM https://www.ibm.com/it-it/employment/ Bandai https://www.bandainamcostudios.com/en/careers/ Blizzard https://careers.blizzard.com/global/en Unity https://careers.unity.com/ EA https://www.ea.com/careers Oracle https://www.oracle.com/it/corporate/careers/ Sony https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation Nintendo https://www.nintendo.it/Chi-siamo/Jobs/Jobs-Lavorare-in-Nintendo-757078.html Cloudflare https://www.cloudflare.com/it-it/careers/ Spotify https://www.spotifyjobs.com/ Bending Spoons https://bendingspoons.com/careers.html Lockheed Martin https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

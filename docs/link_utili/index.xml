@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Altri Link Utili on SuperHeroWiki</title>
+    <link>http://localhost/link_utili/</link>
+    <description>Recent content in Altri Link Utili on SuperHeroWiki</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/link_utili/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous</title>
+      <link>http://localhost/link_utili/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/link_utili/miscellaneous/</guid>
+      <description> Lista di possibili domande da fare al colloquio tecnico Best practices for ML Watch technical mocking interviews Google Virtual Student Series 175 Powerful verbs that will make your CV awesome An Algorithm for passing Programming Interviews Topics you can&amp;rsquo;t skip for interview preparation using Leetcode List of upcoming competitive programming competitions Grokking the * Interview bundle ad accesso illimitato a tutti i corsi Grokking (a pagamento) </description>
+    </item>
+    
+    <item>
+      <title>Strumenti Coop</title>
+      <link>http://localhost/link_utili/strumenti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/link_utili/strumenti/</guid>
+      <description>Strumenti utili per la preparazione in gruppo o per le mock interviews.
+Code Editors: Leetcode Playground* (NB: verificare che l&amp;rsquo;URL di invito finisca in /live) Codeshare (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode) Whiteboards: WebWhiteBoard* (Click rotellina per muoversi sul foglio) NotebookCast (Settare whiteboard custom size a 4000x4000) Excalidraw (Click rotellina per muoversi sul foglio) Google Jamboard [*] Consigliato!!</description>
+    </item>
+    
+  </channel>
+</rss>
