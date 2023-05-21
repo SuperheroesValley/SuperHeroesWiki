@@ -5,11 +5,20 @@ weight: -19
 
 # Introduction - Work In Progress!!!
 ### Overview of a Coding Interview
+This is a mental framework we suggest to follow when interviewing - it is not meant to be 100% accurate.
 ![alt text](/media/coding-timeline.jpg)
-
+  - **Short Introduction (5 min)**: Just introduce yourself! What's your name, your education, current job position, why are you interviewing, ...
+  - **Technical Assessment (45 min)**: The **real** stuff!, you will get a coding problem by a trained interviewer
+  - **Closing questions  (5 min)**: Closing remarks, **always** have a question prepared for your interviewer 
+      (*How is working for company-X? What's the thing you enjoy the most about company-X? How is the food at company-X's canteen?* ...)
 
 ### Technical Assessment Timeline
 ![alt text](/media/tech-assess-timeline.jpg)
+  - **Problem Analysis (5 min)**: You just have been given the coding question. Make **sure** you understood the question: it is *your* responsibility to identify the requirements and agree on a set of assumptions together *with* the interviewer; don't work on your *own, hidden* assumptions.
+  - **(Iterative) Design Phase (10 min)**: Work **together** with the interviewer towards a solution. Start from the naive solution and work your way towards the optimal solution by identifying (and **communicating** to the interviewer) the bottlenecks. Use time and space complexity analysis to justify your design choices/changes. Don't be afraid to ask question; **avoid** random guessing or focusing on irrelevant stuffs!!
+  - **Coding Pahjse (15 min)**: **After** you agreed **together** with the interviewer on a design choice, it is time to code it!. **Always** Tell what you are typing in and why. 
+  - **Testing & Bug fixing (5 min)**: Be able to proof-read your code to find bugs **without** running the code. Dry run your code (by hand!) with some example inputs and outputs.
+
 
 ### Links
 **STUDY PLANS**:
