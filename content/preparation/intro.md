@@ -57,3 +57,6 @@ At the end of the interview the interviewer will make an assessment of your perf
 
 # Bird's-eye View of the whole Application Process
 ![alt text](/media/technical-process.jpg)
+
+# External resources
+ - [The Hiring Process](https://interviewing.io/guides/hiring-process)
