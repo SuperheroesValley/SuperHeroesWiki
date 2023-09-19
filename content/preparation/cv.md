@@ -5,7 +5,7 @@ weight: -21
 
 ***Authors: [Remo](), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-One of the most frequently asked questions from people attending our talks is "How can I write my CV"? 
+One of the most frequently asked questions from people attending our talks is "How can I write my CV"?
 During our talks we have repeatedly addressed this topic, in this section we want to summarize all the advice we have been given over time.
 
 Once you have written your CV, don't hesitate to post it on our group [discord group](https://discord.gg/BR2udfnpje) (channel #cv-review) to get suggestions and advices on how to improve it.
@@ -14,7 +14,7 @@ Once you have written your CV, don't hesitate to post it on our group [discord g
 
 # General tips for writing a good Curriculum Vitae
 **DON’T LIE:** after the interviews they are going to background check your CV, sometimes they do it also after you are hired. They usually make it done by a third-party company that normally is just going to contact your past employers and ask: "**Has person X worked at company Y as role Z from mm/yyyy to mm/yyyy?**", but sometimes they will also ask to talk for 20 min with your old boss.
-So, not only you shouldn’t lie, but also make sure that everything is easy to demonstrate. Only small discrepancies are acceptable. 
+So, not only you shouldn’t lie, but also make sure that everything is easy to demonstrate. Only small discrepancies are acceptable.
 
 
 **How ATS (Applicant Tracking Systems) works:** collect and store resumes in a database. Resumes may also be stored long after the original job you applied for is filled. Corporate recruiters or hiring managers can then search and sort through the resumes in a number of ways, depending on the system they’re using.
@@ -26,7 +26,7 @@ Usually recruiters filter resumes by searching for key skills and titles.
    matching your resume keywords to the job description
   - Use both the long-form and acronym version of keywords (e.g. “Master of Business Administration (MBA)” or “Search Engine Optimization (SEO)”) for  maximum searchability
 
-Check if the CV pass the ATS: https://resumeworded.com/ https://glidecv.com/ 
+Check if the CV pass the ATS: https://resumeworded.com/ https://glidecv.com/
 
 - Recruiter are looking for: actionable, measurable, accomplishment and achievements.
 - Recruiter have very little time, they have to read >100 CVs per hour while doing also other stuff.
@@ -39,16 +39,16 @@ Check if the CV pass the ATS: https://resumeworded.com/ https://glidecv.com/
 - **Must be tailormade for the position:** If resume has too many different things the recruiter manager says no. The resume needs to be clear about what position you are: backend, front or AI....
 - Ordered as experience, then skills, then education, because those are the priorities of hiring managers.
 - **Write the CV in English**, if you have any doubts about grammar, [Grammarly](https://www.grammarly.com/) and [ChatGPT]([https://www.grammarly.com/](https://chat.openai.com/)) are your friend;
-- **Usa un template leggibile**. Scegli uno dei template LaTeX che consigliamo così da facilitare la lettura al recruiter. Troverai il link al template su [Overleaf](https://www.overleaf.com/) nei rispettivi repository linkati qua sotto, poi clicca su "Open as Template" per iniziare a personalizzarlo. **Evita** template esotici nel tentativo di farti notare;
-  #### Template Consigliati 
+- **Use a readable template**. Choose one of the LaTeX templates we suggest so as to make it easier for the recruiter to read. You will find the template link on [Overleaf](https://www.overleaf.com/) in the respective repositories linked below. Click on "Open as Template" to start editing. **Avoid** using exotic templates in an attempt to get noticed.
+  #### Suggested Templates
   - [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
   - [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
   - [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
   - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
- 
+
 - **Be concise**. The person who is going to read your CV has limited time, so they will spend only a few seconds on it. Your CV should be no longer than a single page, stick to what is really important and include projects and experiences relevant to the position you are applying for. Advantages of writing your CV in LaTeX include the ability to add comments, which are useful for hiding parts of the CV that are not interesting for the position you are applying for and can easily be added back in the future;
 - **For each college experience** enter a list of the most relevant courses you have taken, current GPA, and expected final grade (if not too low). If you have already completed your undergraduate degree, enter your final undergraduate grade and the number of credits earned. Add leadership experiences, achievements, and voluntarism: e.g., "_founded crypto-blockchain club_", "_organized competitive programming contests_", "_tutored young students for the algebra course_", ...
-- **For each work experience** briefly describe what you did and the impact you had, using the formula "_Accomplished X by implementing Y which led to Z_". Ad esempio:
+- **For each work experience** briefly describe what you did and the impact you had, using the formula "_Accomplished X by implementing Y which led to Z_". For example:
   - “Developed and deployed an ensemble model to mitigate first-party fraud by $2.7M in Q4' 19.”
   - “improved performance to 10,000 req/s with this technique”
   - “I’ve been the engineer working for 6 months on feature X for project Y, that was launched in December 2018. Gross revenues for our company increased by Y% within 1 year from its launch”
@@ -61,17 +61,17 @@ Check if the CV pass the ATS: https://resumeworded.com/ https://glidecv.com/
 - **Many companies use automated systems for screening CVs**, called *Applicant Tracking System*s (**ATS**). Fortunately there are several services online where you can submit your CV and get a score and advice on what to improve, we point out for example [Resume Worded](https://resumeworded.com/) and [GlideCV](https://glidecv.com/).
 - **Content order:** info (email, github, cell, ...), work experience, education, projects, achievements/extra activities
 
-# Errori da non commettere
+# Mistakes not to be made
 
-- Non usare il template Europass.
-- Non inserire nel CV informazioni personali che possano causare un bias (pregiudizio): foto, status civile, nazionalita',  etc.
-- Evita di elencare semplicamente le tue Hard/Soft skills, le tecnologie che conosci, i linguaggi di programmazione etc. a mo' di "lista della spesa", ma integrale nelle descrizioni delle esperienze e progetti a cui hai partecipato
-- Indicare sempre il voto di laurea in scala (i.e. 90/110, non solo 70), specialmente se applicate ad aziende estere. 
-- Alcune azienda/università americane potrebbero richiedere necessariamente il voto in [GPA](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States). Se non hai ancora conseguito la laurea, puoi utilizzare [questo convertitore](https://applications.wes.org/igpa-calculator/) per ottenere la tua votazione in GPA partendo dalla media ponderata degli esami che hai sostenuto. Se invece sei già laureato è consigliato usare la seguente formula: (*x* / 20) - 1 dove *x* e' una percentuale (Questo perchè il voto di laurea comprende anche dei punti bonus, al di fuori della media ponderata). Se il tuo voto è troppo basso, non inserirlo.
-Esempi:
-  - 110/110 corrisponde al 100%, quindi (100 / 20) - 1 = 4.0
-  - 100/110 corrisponde al 90%, quindi (90 / 20) - 1 = 3.5 
-- **Non mentire:** dopo aver passato i colloqui, le aziende faranno affidamento ad un'agenzia esterna di background check (es. Hireright, Accurate, ...) per verificare la veridicità del contenuto. Dovrai inserire su un portale le informazioni dei vecchi datori di lavoro e dovrai caricare dei documenti ufficiali su ogni cosa scritta nel CV (meglio se in inglese): attestato di laurea, vecchi contratti di lavoro, vecchie buste paga, cittadinanza (permesso soggiorno), ... Può anche capitare che mandino un e-mail o chiamino i tuoi vecchi datori di lavoro, non chiederanno nulla di approfondito, di solito è solo qualcosa del tipo "_è vero che TIZIO ha lavorato come RUOLO dal mm/aaaa al mm/aaaa da voi?_". Se una cosa è vera ma non è dimostrabile (in maniera semplice e veloce) non metterla nel cv. Ci sarà anche un criminal check in cui dovrai fornire il casellario giudiziale e carichi pendenti. Quindi tieni a mente di avere questi documenti alla protata di mano, alcuni come la conferma che siete studenti universitari e la vostra media dei voti in inglese possono richeidere settimane per essere recuperati (la segreteria è lenta ...). Anche se la fai franca, in futuro (es. tempi di layoff) potranno fare un background check sugli attuali dipendenti per trovare motivi di giusta causa per licenziare. Di solito banche di investimento fanno backgrond check annualmente su tutti i dipendenti.
+- Do not use the Europass template.
+- Do not put personal information that can cause any bias/prejudice: pictures, marital status, nationality, etc.
+- Don't just list your hard/soft skills, the technologies you know, programming languages etc., but integrate them in the description of the experiences and projects you participated in.
+- Always indicate the graduation grade in scale (e.g. 90/110, not just 90), especially if applicating to foreign companies.
+- Some American companies/universities may necessarily ask for the grade in [GPA](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States). If you have yet to graduate, you can use [this converter](https://applications.wes.org/igpa-calculator/) to obtain your GPA grades starting from the weighted average of the exams you sustained. If you already graduated, it is suggested to use the following formula: (*x* / 20) - 1 where *x* is a percentage (This is because the graduation grade also includes bonus points, outside the weighted average). If your grade is too low, do not enter it.
+Examples:
+  - 110/110 corresponds to 100%, so (100 / 20) - 1 = 4.0
+  - 100/110 corresponds to 90%, so (90 / 20) - 1 = 3.5
+- **Do not lie:** after passing the interviews, companies will rely on an external background check agency (e.g. Hireright, Accurate, etc.) to verify the authenticity of the content. You will have to enter information from former employers on a portal, and you will havve to provide official documentation on everything written in the CV (preferably in English): degree certificate, old employment contracts, old pay stubs, citizenship (residence permit), etc. It may also happen that they send an e-mail or call your former employers; they won't ask anything in depth, usually it is something along the lines of "_Is it true that *NAME* worked as a *ROLE* from mm/yyyy to mm/yyyy for you?_". If something is true but it cannot be proved quickly and easily, do not put it on your CV. There will also be a criminal check in which you will have to provide criminal records and pending charges, so keep in mind to have these documents at hand. Some of these, such as the confirmation that you are a university student, or your English grade average may take weeks to retrieve. Even if you get away with it, in the future (e.g. layoff times), they may do a background check on current employees to find grounds for dismissal. Usually investment banks do annual background check on all employees.
 
 
 
@@ -83,7 +83,7 @@ Due to discriminations do NOT include:
  - marital status
    (if you are married probably you have kids or going to have…),
  -  nationality,
- -  photo (you might remember someone they dislike, or racism), 
+ -  photo (you might remember someone they dislike, or racism),
  -  address: if you live in a poor area of the town that means that you
    are a bad person or that you don’t have transportation, if you live
    in a rich area that means your salary will be very high due to rent
@@ -163,7 +163,7 @@ Don’t put the percentage or your level of knowledge, because:
 This is not good: "_Languages: Java (expert), C++ (proficient), JavaScript (prior experience)_"
 
 ### Soft skills
-Put them only if you have space left. 
+Put them only if you have space left.
 The problem with soft skills is that they are very important, but you can’t prove them. And everybody is putting the same ones: team working, leadership, ...
 
 
@@ -188,7 +188,7 @@ In this section we post the resumes of our community participants who have succe
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
 
-- 
+-
 # LinkedIn Profile
 
 ... work in progress ...
