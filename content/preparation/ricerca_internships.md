@@ -1,76 +1,83 @@
 ---
-title: Ricerca Internship
+title: Internship
 ---
 
-## Elenco aziende che organizzano internship
+## Company list
 
 
-| Azienda       			|            |     Link        |
-| :----:        			|    :----:      |     :----:      |   
-|   Google      			|        |    https://careers.google.com/      |
-|   Nvidia     	 			|        |    https://nvidia.wd5.myworkdayjobs.com/    |
-|   Mozilla     			|        |    https://careers.mozilla.org/    |
-|   Facebook    			|        |    https://www.facebook.com/careers/     |
-|   Apple       			|        |    https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN    |
+| Company       			|        |     Link        |
+| :----:        			| :----: |     :----:      |   
+|   Activision  			|        |    https://careers.activision.com/  |
+|   Adobe    		  		|        |    https://www.adobe.com/careers.html     |
+|   AID 					    |        |    https://www.linkedin.com/company/autonomous-intelligent-driving/jobs/    |
+|   AnthropicAI       |        |   https://www.anthropic.com/ |
 |   Amazon    				|        |    https://www.amazon.jobs/     |
-|   Microsoft    			|        |    https://careers.microsoft.com/     |
-|   Jetbrains    			|        |    https://www.jetbrains.com/careers/jobs/     |
-|   Adobe    				|        |    https://www.adobe.com/careers.html     |
-|   Linkedin    			|        |    https://careers.linkedin.com/     |
-|   Bloomberg    			|        |    https://careers.bloomberg.com/    |
-|   Klarna    				|        |    https://www.klarna.com/careers/     |
-|   Ubisoft    				|        |    https://www.ubisoft.com/en-us/company/careers    |
-|   DeepMind    			|        |    https://deepmind.com/careers    |
-|   Two Sigma    			|        |    https://www.twosigma.com/careers/    |
-|   Yelp   					|        |    https://www.yelp.careers/us/en    |
-|   SpaceX    				|        |    https://www.spacex.com/careers/index.html    |
-|   Tesla   				|        |    https://www.tesla.com/it_IT/careers    |
-|   Cisco    				|        |    https://jobs.cisco.com/    |
-|   IBM    					|        |    https://www.ibm.com/it-it/employment/    |
+|   AMD        				|        |   https://careers.amd.com/careers-home  |
+|   Apple       			|        |    https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN    |
 |   Bandai    				|        |    https://www.bandainamcostudios.com/en/careers/    |
-|   Blizzard    			|        |    https://careers.blizzard.com/global/en    |
-|   Unity    				|        |    https://careers.unity.com/    |
-|   EA   					|        |    https://www.ea.com/careers    |
-|   Oracle    				|        |    https://www.oracle.com/it/corporate/careers/     |
-|   Sony    				|        |    https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation      |
-|   Nintendo    			|        |    https://www.nintendo.it/Chi-siamo/Jobs/Jobs-Lavorare-in-Nintendo-757078.html    |
-|   Cloudflare    			|        |    https://www.cloudflare.com/it-it/careers/    |
-|   Spotify    				|        |    https://www.spotifyjobs.com/    |
-|   Bending Spoons    		|        |    https://bendingspoons.com/careers.html    |
-|   Lockheed Martin   	 	|        |    https://www.lockheedmartinjobs.com/    |
-|   Valve    				|        |    https://www.valvesoftware.com/it/    |
-|   Mongo    				|        |    https://www.mongodb.com/careers    |
-|   Dropbox    				|        |    https://www.dropbox.com/jobs    |
-|   Paypal    				|        |    https://jobsearch.paypal-corp.com/search     |
-|   AID 					|        |    https://www.linkedin.com/company/autonomous-intelligent-driving/jobs/    |
-|   Uber 					|        |    https://www.uber.com/it/it/careers/   |
-|   Huawei 					|        |    https://career.huawei.com/reccampportal/campus4/pages/westernEurope/index.html?version=1   |
-|   H&M 					|        |    https://career.hm.com/content/hmcareer/it_it.html   |
-|   Zalando 				|        |    https://jobs.zalando.com/en/jobs/?gh_src=22377bdd1us   |
-|   Tik Tok 				|        |    https://careers.tiktok.com/position?project=6854152751179303182&type=3&current=1&limit=100     |
-|   Morgan Stanley 		 	|        |    https://www.morganstanley.com/people-opportunities/students-graduates    |
-|   JP Morgan 				|        |    https://careers.jpmorgan.com/global/en/home    |
-|   Stripe 					|        |    https://stripe.com/it/jobs    |
+|   Bending Spoons    |        |    https://bendingspoons.com/careers.html    |
+|   Blizzard    	 		|        |    https://careers.blizzard.com/global/en    |
+|   Bloomberg    			|        |    https://careers.bloomberg.com/    
+|   Booking.com  			|        |    https://careers.booking.com/ |
+|   Cisco    			  	|        |    https://jobs.cisco.com/    |
+|   Cloudflare    		|        |    https://www.cloudflare.com/it-it/careers/    |
+|   Credit Suisse     |        |    https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl  |   
 |   Databricks 				|        |    https://databricks.com/company/careers/university-recruiting    |
-|   DataDog 				|        |    https://www.datadoghq.com/careers/detail/?gh_jid=2265934     |
-|   Shopify 				|        |    https://www.shopify.com/careers    |
-|   Pinterest 				|        |    https://www.pinterestcareers.com/    |
+|   DataDog 			  	|        |    https://www.datadoghq.com/careers/detail/?gh_jid=2265934     |
+|   DeepMind    			|        |    https://deepmind.com/careers    |
+|   Dropbox    				|        |    https://www.dropbox.com/jobs    |
 |   Duolinguo 				|        |    https://boards.greenhouse.io/duolingo    |
-|   Lyft 					|        |    https://www.lyft.com/careers     |
-|   Samsung 				|        |    https://sec.wd3.myworkdayjobs.com/Samsung_Careers     |
-|   Expedia 				|        |    https://lifeatexpediagroup.com/jobs  |
+|   EA   					    |        |    https://www.ea.com/careers    |
+|   Ebay					    |        |    https://jobs.ebayinc.com/search-jobs |
+|   Epic Games		    |        |    https://www.epicgames.com/site/en-US/careers |
+|   Expedia 				  |        |    https://lifeatexpediagroup.com/jobs  |
+|   G Research        |        |    https://www.gresearch.com/join-us/  |
+|   Google      			|        |    https://careers.google.com/      |
+|   Hello Fresh 			|        |    https://www.hellofresh.com/careers/    |
+|   Huawei 				  	|        |    https://career.huawei.com/reccampportal/campus4/pages/westernEurope/index.html?version=1   |
+|   Hudson River Trading  |        |  https://www.hudsonrivertrading.com/careers/  |
+|   H&M 				    	|        |    https://career.hm.com/content/hmcareer/it_it.html   |
+|   IBM    				  	|        |    https://www.ibm.com/it-it/employment/    |
+|   Intel  					  |        |    https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html   |
+|   Jane Street 		  |        |    https://www.janestreet.com/join-jane-street/open-roles/  |
+|   Jetbrains    			|        |    https://www.jetbrains.com/careers/jobs/     |
+|   JP Morgan 				|        |    https://careers.jpmorgan.com/global/en/home    |
+|   Klarna    				|        |    https://www.klarna.com/careers/     |
+|   Linkedin    			|        |    https://careers.linkedin.com/     |
+|   Lockheed Martin   |        |    https://www.lockheedmartinjobs.com/    |
+|   Lyft 					    |        |    https://www.lyft.com/careers     |
+|   Meta (ex Facebook)|        |    https://www.metacareers.com/     |
+|   Microsoft    			|        |    https://careers.microsoft.com/     |
+|   Mongo    				  |        |    https://www.mongodb.com/careers    |
+|   Morgan Stanley 	 	|        |    https://www.morganstanley.com/people-opportunities/students-graduates    |
+|   Mozilla     			|        |    https://careers.mozilla.org/    |
+|   Nintendo    		 	|        |    https://www.nintendo.it/Chi-siamo/Jobs/Jobs-Lavorare-in-Nintendo-757078.html    |
+|   Nvidia     	 			|        |    https://nvidia.wd5.myworkdayjobs.com/    |
+|   OpenAI            |        |  https://openai.com/careers  |
+|   Optiver           |        |    https://www.linkedin.com/jobs/view/2523749122/?refId=xQh4j5JBaap1P54hIW%2Fpeg%3D%3D&trackingId=1%2FQV%2BSUeRn8Lbc%2Bpv5X12g%3D%3D |   
+|   Oracle    				|        |    https://www.oracle.com/it/corporate/careers/     |
+|   Paypal    				|        |    https://jobsearch.paypal-corp.com/search     |
+|   Pinterest 				|        |    https://www.pinterestcareers.com/    |
+|   Reddit 					  |        |    https://boards.greenhouse.io/reddit   |
+|   Red Hat 				  |        |    https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240   |
+|   Samsung 				  |        |    https://sec.wd3.myworkdayjobs.com/Samsung_Careers     |
+|   Shopify 			  	|        |    https://www.shopify.com/careers    |
+|   Slack  				   	|        |    https://slack.com/intl/it-it/careers/dept/2322106   |
+|   Sony    			  	|        |    https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation      |
+|   SpaceX    				|        |    https://www.spacex.com/careers/index.html    |
+|   Spotify    				|        |    https://www.spotifyjobs.com/    |
 |   Squarespace				|        |    https://www.squarespace.com/about/careers   |
-|  Activision  				|        |    https://careers.activision.com/  |
-|  Slack  				 	|        |    https://slack.com/intl/it-it/careers/dept/2322106   |
-|  Strava  					|        |    https://boards.greenhouse.io/strava  |
-|  Intel  					|        |    https://jobs.intel.com/page/show/search-results#q=2021&t=Jobs&sort=relevancy&layout=table&f:@countryfullname=[United%20States]&f:@employeetype=[Intern%2FStudent]   |
-|   Reddit 					|        |    https://boards.greenhouse.io/reddit   |
-|   Red Hat 				|        |    https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240   |
-|   Twitter 				|        |    https://urapplication2021.splashthat.com/   |
-|    Ebay					|        |    https://jobs.ebayinc.com/search-jobs |
-|    Twitch					|        |    https://boards.greenhouse.io/twitch   |
-|    Hello Fresh 			|        |    https://www.hellofresh.com/careers/    |
-|   Optiver                 |        |  https://www.linkedin.com/jobs/view/2523749122/?refId=xQh4j5JBaap1P54hIW%2Fpeg%3D%3D&trackingId=1%2FQV%2BSUeRn8Lbc%2Bpv5X12g%3D%3D |   
-|  Hudson River Trading     |        |  https://www.hudsonrivertrading.com/careers/  |
-| JP morgan Chase & CO      |        |  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210105640/?keyword=2022&mode=location  |               
-|  Credit Suisse            |        |  https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl  |               
+|   StabilityAI				|        |    https://stability.ai/careers  |
+|   Strava  					|        |    https://boards.greenhouse.io/strava  |
+|   Stripe 				  	|        |    https://stripe.com/it/jobs    |
+|   Tesla   			  	|        |    https://www.tesla.com/it_IT/careers    |
+|   Tik Tok 			  	|        |    https://careers.tiktok.com/position?project=6854152751179303182&type=3&current=1&limit=100     |
+|   Twitch					  |        |    https://boards.greenhouse.io/twitch   |
+|   Two Sigma    			|        |    https://www.twosigma.com/careers/    |
+|   Uber 					    |        |    https://www.uber.com/it/it/careers/   |
+|   Ubisoft    				|        |    https://www.ubisoft.com/en-us/company/careers    |
+|   Unity    				  |        |    https://careers.unity.com/    |
+|   Valve    				  |        |    https://www.valvesoftware.com/it/    |
+|   X (ex Twitter)	  |        |    https://careers.twitter.com/en  |
+|   Yelp   				  	|        |    https://www.yelp.careers/us/en    |
+|   Zalando 		  		|        |    https://jobs.zalando.com/en/jobs/?gh_src=22377bdd1us   |
