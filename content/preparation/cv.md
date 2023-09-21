@@ -188,7 +188,6 @@ In this section we post the resumes of our community participants who have succe
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
 
--
 # LinkedIn Profile
 
 ... work in progress ...
