@@ -1,5 +1,5 @@
 ---
-title: Introduzione
+title: Introduction
 weight: -22
 
 ---
@@ -56,7 +56,7 @@ At the end of the interview the interviewer will make an assessment of your perf
  - **Culture fit / Communication skills**: Do your personality and values fit with the company and team? Did you communicate well with your interviewer?
 
 # Bird's-eye View of the whole Application Process
-![alt text](/media/technical-process.jpg)
+![technical_process](/media/technical-process.jpg)
 
 # External resources
  - [The Hiring Process](https://interviewing.io/guides/hiring-process)
