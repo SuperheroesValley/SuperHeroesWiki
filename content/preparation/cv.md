@@ -77,7 +77,7 @@ Examples:
 
 # CV sections
 
-### Personal info
+## Personal info
 
 Due to discriminations do NOT include:
  - Age, date of birth, or any other references to your age
@@ -90,7 +90,8 @@ Due to discriminations do NOT include:
  - Signature
 
 
-### Employment History
+## Employment History
+
 Not include a full history of every role you've ever had. Include only the relevant positions-the ones that make you a more impressive candidate.
 
 **Job title:** the job you were actually doing. If the title was “full-stack” but you were actually doing back-end, put Back-End. If the company ask for clarification tell the truth, they will understand.
@@ -127,7 +128,7 @@ Action verbs:
  - **Organization/Detail Skills**: approved, arranged, cataloged, categorized, charted, classified, coded, collected, compiled, corresponded, distributed, executed, filed, generated, implemented, incorporated, inspected, logged, maintained, monitored, obtained, operated, ordered, organized, prepared, processed, provided, purchased, recorded, registered, reserved, responded, reviewed, routed, scheduled, screened, set up, submitted, supplied, standardized, systematized, updated, validated, verified
  - **More verbs for Accomplishments**: achieved, completed, expanded, exceeded, improved, pioneered, reduced (losses), resolved (issues), restored, spearheaded, succeeded, surpassed, transformed, won
 
-### Projects
+## Projects
 Include your 2 - 4 most significant projects. State what the project was and which languages or technologies it employed.
 Including details such as whether the project was an individual or a team project, and whether it was completed for a course or independently. These details are not required, so only include them if they make you look better.
 Independent projects are generally preferred over course projects, as it shows initiative.
@@ -141,11 +142,12 @@ Put a link on the github repo and on the live demo or video presentation, in int
 Most recruiters don't know any code make sure to include screenshots in the repo or have your application hosted somewhere like heroku in case they do decide to take a look.
 
 
-### Skills
-Software
+## Skills
+
+### Software
 Be conservative about what software you list, and understand what's appropriate for the company
 
-Programming Languages
+### Programming Languages
 List most of the languages you've used with your experience level.
 Don’t put the percentage or your level of knowledge, because:
  - is not really required
@@ -161,7 +163,7 @@ Put them only if you have space left.
 The problem with soft skills is that they are very important, but you can’t prove them. And everybody is putting the same ones: team working, leadership, ...
 
 
-### Education
+## Education
 Avoid to write dates of beginning, because they can infer your age (ageism discriminations), if they really care they will find out in the background check.
 If you were at the top, indicate the percentage, for example: in the 5% of top best students
 Show leadership by indicating if you chaired any club or initiated something significant (volunteering, charity, etc.)
