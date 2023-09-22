@@ -78,22 +78,16 @@ Examples:
 # CV sections
 
 ### Personal info
-Due to discriminations do NOT include:
- - age, date of birth, or references to you age (ageism),
- - marital status
-   (if you are married probably you have kids or going to have…),
- -  nationality,
- -  photo (you might remember someone they dislike, or racism),
- -  address: if you live in a poor area of the town that means that you
-   are a bad person or that you don’t have transportation, if you live
-   in a rich area that means your salary will be very high due to rent
-   costs… Or generally they prefer people that already live in the city/country of the company.
- - social media except LinkedIn, Skype and GitHub. current location
-   unless you need a VISA
- - signature.
 
-NO PHOTO: because the ATS can’t read the format, get confused and discard your CV.
-88% of resumes are rejected if they include a photo.
+Due to discriminations do NOT include:
+ - Age, date of birth, or any other references to your age
+ - Marital status
+ - Nationality
+ - Photo: apart from discriminations, many ATS cannot read images, so they will get confused and discard your CV; 88% of CVs are rejected if they include a photo [\[source\]](https://teamstage.io/resume-statistics/)
+ - Address: companies generally tend to reject people based on their location; they usually tend to prefer applicants who already live in the same city/country as the company
+ - Social Media (except LinkedIn, Skype and GitHub)
+ - Current location unless you need a Visa
+ - Signature
 
 
 ### Employment History
