@@ -1,14 +1,14 @@
 ---
-title: Contatti
+title: Contacts
 weight: -10
 ---
 
-- [Gruppo Discord](https://discord.com/invite/rNZx6JpMkt): È il cuore della community, viene utilizzato per tutte le comunicazioni, per confrontarsi e scambiarsi opinioni. È organizzato in canali, alcuni di essi sono canali vocali in cui è possibile organizzare mock interview o esercizi di gruppo.
+- [Discord Group](https://discord.gg/DhU5ryCT): This is the heart of the community, it is used for all communication, to compare and exchange views. It is organized into channels, some of them are voice channels where mock interviews or group exercises can be organized.
 
-- [Calendario Google](https://calendar.google.com/calendar/u/0?cid=cXAxaDMxbHBkMTZnbXAxYm04ZW91bW1nY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ): utile per non perdere gli eventi organizzati da Superhero Valley e trovarli sincronizzati direttamente nella vostra app calendario preferita.
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=cXAxaDMxbHBkMTZnbXAxYm04ZW91bW1nY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ): useful for not missing events organized by Superhero Valley and finding them synchronized directly in your favorite calendar app.
 
-- [Gruppo Telegram](https://t.me/joinchat/BIi_0VOdXr8h5BkCh5n5Gg): gruppo di sola lettura in cui scriviamo solamente le comunicazioni più importanti.
+- [Telegram group](https://t.me/joinchat/BIi_0VOdXr8h5BkCh5n5Gg): read-only group in which we write only the most important communications.
 
-- [Sito ufficiale](https://superherovalley.fun/)
+- [Official Website](https://superherovalley.fun/)
 - [Mail](mailto:info@superheroesvalley.fun)
 
