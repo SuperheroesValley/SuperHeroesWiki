@@ -1,6 +1,8 @@
 ---
-title: Internship
+title: 6 - Internships list
 ---
+
+This is just a brief list of companies that offers interships in Europe
 
 ## Company list
 
