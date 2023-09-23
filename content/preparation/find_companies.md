@@ -1,5 +1,5 @@
 ---
-title: How to find good companies
+title: 2 - How to find good companies
 weight: -20
 ---
 
