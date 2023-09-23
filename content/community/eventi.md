@@ -1,10 +1,10 @@
 ---
-title: Eventi
+title: Events
 weight: -10
 ---
 
-# Prossimi eventi in programma
+#Upcoming upcoming events.
 
-Controlla sul canale #annoucements su Discord, sul Calendario e su Telegram (Trovi i link [qui](https://wiki.superherovalley.fun/usage/contatti/)).
+Check out the #annoucements channel on Discord, Calendar, and Telegram (Find the links [here](https://wiki.superherovalley.fun/community/contatti/)).
 
-Se invece vuoi vedere gli eventi passati puoi visionare [l'apposita pagina nel nostro sito](https://superherovalley.fun/pastevents).
+If you want to see past events instead, you can view [the appropriate page on our website](https://superherovalley.fun/pastevents).
