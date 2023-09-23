@@ -5,49 +5,49 @@ weight: 1
 ---
 
 
-## - Le internship sono pagate?
+## - Are internships paid?
 
-Si, le internship in tutte le grandi aziende sono pagate. Oltre allo stipendio mensile alcune aziende possono anche offrire un bonus "relocation" e il pagamento dei voli per raggiungere la città dove si trovano gli uffici.
+Yes, internships in all large companies are paid. In addition to the monthly salary some companies may also offer a "relocation" bonus and payment for flights to the city where the offices are located.
 
-## - Come posso prepararmi alle coding interview? 
+## - How can I prepare for coding interviews? 
 
-Per prepararsi alle coding interview è necessario avere una conoscenza di base di algoritmi e strutture dati, [nella nostra wiki](https://wiki.superherovalley.fun/) trovi molte risorse per ripassare o studiare questi argomenti.
-La nostra community offre inoltre la possibilità di fare esercizi in gruppo e mock interview per prepararsi al meglio ai colloqui. 
-Se vuoi saperne di più iscriviti [al nostro server Discord](https://discord.com/invite/DsRJgkraTa).
+To prepare for coding interviews you need to have a basic knowledge of algorithms and data structures, [in our wiki](https://wiki.superherovalley.fun/) you will find many resources to brush up or study these topics.
+Our community also offers group exercises and mock interviews to better prepare for interviews. 
+If you want to learn more subscribe [to our Discord server](https://discord.com/invite/DsRJgkraTa).
 
-## - Come si scrive un buon CV?
+## - How do you write a good CV?
 
-[Nella nostra wiki](https://wiki.superherovalley.fun/features/cv/) abbiamo una sezione che raccoglie molti consigli utili per scrivere un buon curriculum.
-[Nel nostro server Discord](https://discord.com/invite/DsRJgkraTa) vi forniamo inoltre la possibilità di inviare il vostro CV per ricevere dei consigli su come migliorarlo.
+[In our wiki](https://wiki.superherovalley.fun/features/cv/) we have a section that collects many useful tips for writing a good resume.
+[In our Discord server](https://discord.com/invite/DsRJgkraTa) we also provide you with the opportunity to submit your CV to receive tips on how to improve it.
 
-## - Posso partecipare a SuperHero Valley anche se sono al primo anno di università? 
+## - Can I participate in SuperHero Valley even if I am a first-year student? 
 
-Ovviamente si! Il nostro obiettivo è dare da subito maggiore consapevolezza delle possibilità che molte aziende possono offrirvi, ad esempio Google offre agli studenti del primo e secondo anno un programma di internship chiamato [STEP](https://buildyourfuture.withgoogle.com/programs/step/). 
+Of course you can! Our goal is to give you an early awareness of the opportunities that many companies can offer you, for example, Google offers first- and second-year students an internship program called [STEP](https://buildyourfuture.withgoogle.com/programs/step/). 
  
 
-## - Quando posso fare domanda per le internship? 
+## - When can I apply for internships? 
 
-L'apertura del periodo di candidatura varia in base all'azienda. Vi consigliamo di visionare la lista di aziende che abbiamo inserito [nella nostra wiki](https://wiki.superherovalley.fun/features/ricerca_internships/) e di cercare poi la pagina "Career" o "Jobs opening" dell'azienda che vi interessa.
+The opening of the application period varies by company. We recommend that you review the list of companies we have included [in our wiki](https://wiki.superherovalley.fun/features/ricerca_internships/) and then search for the "Career" or "Jobs opening" page of the company you are interested in.
 
-## - Per svolgere una internship è necessario spostarsi nella città dove è presente la sede dell'azienda?
+## - To do an internship, is it necessary to travel to the city where the company is located?
 
-Nel periodo covid le internship sono state svolte online. Di norma si svolgono in presenza e questo è un vantaggio, a nostro avviso, perchè vi consente di vivere una esperienza formativa sotto tutti i punti di vista.
+During the covid period, internships were conducted online. They are usually held in-person and this is an advantage, in our opinion, because it allows you to have a training experience in all respects.
 
-## - Quanto è importante la conoscenza dell’inglese?
+## - How important is English proficiency?
 
-La conoscenza dell'inglese è importante. È necessario avere la capacità di interagire con il recruiter e con l'interviewer per poter comunicare al meglio durante il colloquio.
+English proficiency is important. You need to have the ability to interact with the recruiter and interviewer to be able to communicate best during the interview.
 
-## - Quanto è importante fare una internship durante l’università?
+## - How important is it to do an internship during college?
 
-Fare una internship vi fornisce la possibilità di acquisire una esperienza pratica che solitamente non si riesce ad avere svolgendo solamente il corso di studi universitario.
-Inoltre è possibile che l'azienda, una volta finita l'internship, vi ricontatti per svolgere la stessa esperienza anche l'anno successivo o vi offra un contratto per una posizione full time.
+Doing an internship provides you with the opportunity to gain practical experience that you usually do not get by doing only your college coursework.
+In addition, it is possible that the company, once the internship is over, will contact you again to do the same experience the following year or offer you a contract for a full-time position.
 
-## - Sto per finire la triennale e a breve inizierò la magistrale, posso fare domanda per una internship anche ora o conviene aspettare la magistrale?
+## - I am about to finish my bachelor's degree and will soon start my master's degree, can I apply for an internship even now or is it better to wait for the master's degree?
 
-Se siete sicuri di iscrivervi alla magistrale, applicate il prima possibile e cercate di ottenere una internship. 
-Ricordate che l'azienda vuole che finito il periodo di lavoro torniate all'università per terminare gli studi.
+If you are sure to apply for the master's degree, apply as soon as possible and try to get an internship. 
+Remember that the company wants you to return to the university after the work period is over to finish your studies.
 
-## - L'internship è compatibile con l'università? 
+## - Is the internship compatible with university? 
 
-Le internship si possono svolgere soltanto durante il periodo dell'Università. 
-Le aziende spesso chiedono una "autorizzazione" all'Università di appartenenza per consentirvi di svolgere l'internship.
+Internships can only be done while at university. 
+Companies often ask for "permission" from your home university to allow you to do the internship.
