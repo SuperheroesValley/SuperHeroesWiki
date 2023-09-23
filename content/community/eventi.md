@@ -3,7 +3,7 @@ title: Events
 weight: -10
 ---
 
-#Upcoming upcoming events.
+# Upcoming upcoming events.
 
 Check out the #annoucements channel on Discord, Calendar, and Telegram (Find the links [here](https://wiki.superherovalley.fun/community/contatti/)).
 
