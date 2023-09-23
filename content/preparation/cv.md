@@ -1,9 +1,9 @@
 ---
-title: Write the Curriculum
+title: 1 - Write the Curriculum
 weight: -21
 ---
 
-***Authors: [Remo](), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
+***Authors: [Remo](https://www.linkedin.com/in/remoandreoli/), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
 One of the most frequently asked questions from people attending our talks is "How can I write my CV"?
 
