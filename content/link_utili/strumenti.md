@@ -1,18 +1,17 @@
 ---
-title: Strumenti Coop
+title: Pair programming tools
 ---
 
-Strumenti utili per la preparazione in gruppo o per le mock interviews.  
+Useful tools for group preparation or mock interviews.  
 
 ### Code Editors:
-  - [**Leetcode Playground**](https://leetcode.com/playground/)* (NB: verificare che l'URL di invito finisca in /live)
-  - [Codeshare](https://codeshare.io/AdZxz8) (Settate sintassi Python e tab indentation 4 per evitare problemi di compatibilità con InterviewBit/LeetCode)
+  - [**Leetcode Playground**](https://leetcode.com/playground/)
+  - [Codeshare](https://codeshare.io/AdZxz8)
 
 ### Whiteboards:
-  - [**WebWhiteBoard**](https://webwhiteboard.com/)* (Click rotellina per muoversi sul foglio)
-  - [NotebookCast](https://www.notebookcast.com/en) (Settare whiteboard custom size a 4000x4000)
-  - [Excalidraw](https://excalidraw.com/) (Click rotellina per muoversi sul foglio)
+  - [**WebWhiteBoard**](https://webwhiteboard.com/)
+  - [NotebookCast](https://www.notebookcast.com/en)
+  - [Excalidraw](https://excalidraw.com/) 
   - [Google Jamboard](https://jamboard.google.com/)
 
 
-[*] Consigliato!!
