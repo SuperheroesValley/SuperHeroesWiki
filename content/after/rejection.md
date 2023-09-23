@@ -4,6 +4,8 @@ weight: -21
 
 ---
 
+***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
+
 # What does "offer" actually mean?
 When people say "I received a lot of offers", they actually mean that a lot of recruiters (sourcers) contacted them on LinkedIn.  
 Verbal/email offers from recruiters after you passed the interviews are worthless.  
