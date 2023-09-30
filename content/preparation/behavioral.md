@@ -37,17 +37,10 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - Tell what YOU did, do not answer with "we".
  - Always explain the impact that your actions had. If we have no impact (changing the world), computer science its just a mental exercise.
  - **Tip**: for each project/experience you had, prepare 2/3 stories.
-
----
-Not all questions can be answered using the **STAR-L** framework, but make sure to the able to answer this common questions (and the follow ups):
-### Must know NON-STAR questions:
- - So, tell me a bit about yourself… 
- - Why do you want to work here? 
- - Where do you see yourself in 5 years? 
- - What do you do outside of work? 
- - What are your strengths and weaknesses?
- - Tell me about a project/class that you enjoyed/worked on. (for students)
- - Why are you leaving your current job? (for professionals)
+ - Do not tell the name of the company unless its a well known company, but instead tell the industry and what the company does, for example:
+   - NO: _"I worked at Kamiri & Ermicht Financial LTD as software engineer"_
+   - YES: "_I worked in a financial  company that handle large quantity of data to predict risk of insurrance_"
+ - Do not tell the name of the project, its confusing, only tell what it does.
 
 ### Follow ups:
  - Who was involved
@@ -58,6 +51,49 @@ Not all questions can be answered using the **STAR-L** framework, but make sure 
  - Why a particular thing was done, why not another way of doing it opted
  - What was the driving factor of decision
  - Explain something technical about the project. (Ex. you said you used UDP instead of TCP to solve the problem, now explain how TCP works)
+
+---
+
+### Must know questions:
+ - So, tell me a bit about yourself… 
+ - Why do you want to work here? 
+ - Where do you see yourself in 5 years? 
+ - What do you do outside of work? 
+ - What are your strengths and weaknesses?
+ - Tell me about a project/class that you enjoyed/worked on. (for students)
+ - Why are you leaving your current job? (not for interns/new grad)
+
+
+### Tell me about yourserf
+Answer like this in 2-3min:
+ - “I am a ….. at …...”
+ - “In college, I studied ___ at ____.”
+ - “Then I worked for … where I ….”
+ - “Then I worked for … where I ….”
+ - “In my current job, I’ve accomplished….”
+ - “Also, outside of work, I ….”
+ - “I’m looking for …”
+
+Example for students:
+ - I'm a Master student in Computer Engineering student at University of Milan in Italy.
+ - My Bachelor degree was in Mathematics.
+ - During my studies, I’ve done:
+   - An internship in a Financial Instutition that handles large quantity of data to predict risk of insurrance products, where:
+     - Migrated a database
+     - Improved logging and metrics of the system.
+     - Using C++, Java and SQL
+   - A research intership inside my University, where:
+      - I've created a ML model to detectig imperfection in the Quantum Measurement of the telescope
+      - Published a paper
+      - Using Python, Fortran and Tensorflow
+  - Outside mandatory schoolwork:
+      - I organize competitive programming events at my university, such as Google Hash code, and Summer Camp for high school students.
+      - I a tutor for Calulus 1 course
+      - Play chess competitions, ELO 3115
+  - I'm currently looking for: an Internship in ML
+
+
+---
 
 
 ### Amazon Leadership principles explained:
