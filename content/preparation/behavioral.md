@@ -78,18 +78,18 @@ Example for students:
  - I'm a Master student in Computer Engineering student at University of Milan in Italy.
  - My Bachelor degree was in Mathematics.
  - During my studies, I’ve done:
-   - An internship in a Financial Instutition that handles large quantity of data to predict risk of insurrance products, where:
-     - Migrated a database
-     - Improved logging and metrics of the system.
+   - An internship in a Financial Instutition, where:
+     - Migrated a database and Improved logging and metrics of the system.
      - Using C++, Java and SQL
    - A research intership inside my University, where:
-      - I've created a ML model to detectig imperfection in the Quantum Measurement of the telescope
-      - Published a paper
+      - I've created a ML model to detectig imperfection in the Quantum Measurement of the telescope and Published a paper
       - Using Python, Fortran and Tensorflow
-  - Outside mandatory schoolwork:
+  - A the moment:
       - I organize competitive programming events at my university, such as Google Hash code, and Summer Camp for high school students.
-      - I a tutor for Calulus 1 course
+      - I'm a tutor for Calulus 1 course
+  - Also, outside of work/school:
       - Play chess competitions, ELO 3115
+      - Working on some Crypto personal projects
   - I'm currently looking for: an Internship in ML
 
 
