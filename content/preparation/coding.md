@@ -20,7 +20,7 @@ weight: -19
  - [Codesignal](https://app.codesignal.com/) (used also for online assessment)
  - [Codility](https://www.codility.com/) (used also for online assessment)
  - [HireVue](https://www.hirevue.com/) (used for online assessment)
- - [binarysearch.com](https://binarysearch.com/) (has shorter problem statements)
+ - [Codingninjas](https://www.codingninjas.com/) (dsa guided path, mock interview, competitive programming)
  - [CodeForces](https://codeforces.com/) (Competitive programming)
  - [Kattis](https://open.kattis.com/) (Competitive programming)
  - [UsacoGuide](https://usaco.guide/) (Competitive programming)
