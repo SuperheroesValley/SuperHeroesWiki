@@ -32,7 +32,7 @@ Schedule your favorite companies last. Get interview practice with the places yo
  - GreatPlaceToWork
  - Almalaurea
 
-**How to use LinkedIn and glassdoor:**
+**How to use LinkedIn and Glassdoor:**
  - Change my location in LinkedIn to the city/country I want to work
  - Search for Job title, “master thesis”, “intern”, “internship”,…
  - Filter by level position, location, publication date (1 week)
@@ -56,9 +56,11 @@ When a job advertises a junior post for 1-2YoE, they're expecting grads to apply
 # Bad companies to avoid
 Read this [Guida Anti-Inculata per laureandi in Informatica e Ingegneria Informatica](https://blog.robutti.me/guida-anti-inculata-per-laureandi-in-informatica-ing-inf)
 
-Companies that have the structure to incorporate large numbers of low-skilled and inexperienced labor, or all those desperate enough to hire a recent graduate to do the work of an experienced person.
+Companies that have the structure to incorporate large numbers of low-skilled and inexperienced labor, or all those desperate enough to hire a recent graduate to do the work of an experienced person:
 
-**The meat grinder:** large or very large company, multinational or local, which systematically practices body rental. They mainly advise large non-tech companies or sometimes work with public institutions.
+**The meat grinder:** 
+ - large or very large company, multinational or local, which systematically practices body rental.
+ - Mainly provide consultancy services to large non-tech companies or public institutions.
  - High pace environment
  - Little respect for the worker
  - Training yes, but often of low quality
