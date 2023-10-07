@@ -1,5 +1,5 @@
 ---
-title: 6 - Handling offers/rejections
+title: 7 - Handling offers/rejections
 weight: -21
 
 ---

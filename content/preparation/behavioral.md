@@ -1,6 +1,6 @@
 ---
-title: 5 - Behavioral Interview
-weight: -17
+title: 6 - Behavioral Interview
+weight: -16
 ---
 
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***

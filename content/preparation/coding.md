@@ -1,6 +1,6 @@
 ---
-title: 3 - Coding Interview
-weight: -19
+title: 4 - Coding Interview
+weight: -18
 ---
 
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***

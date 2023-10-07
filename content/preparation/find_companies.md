@@ -1,6 +1,6 @@
 ---
-title: 2 - How to find good companies
-weight: -20
+title: 3 - How to find good companies
+weight: -19
 ---
 
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
