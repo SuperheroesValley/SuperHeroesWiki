@@ -7,7 +7,7 @@ weight: -20
 
 Thi section is a step-by-step guide on how to write a successful LinkedIn profile.
 
-Once you have written your LinkedInn profile, don't hesitate to post it on our [Discord group](https://discord.gg/BR2udfnpje) (channel #cv-review) to get suggestions and advices on how to improve it.
+Once you have written your LinkedInn profile, don't hesitate to post it on our [Discord Server](https://discord.gg/uPRmhHwMem) (channel #cv-review) to get suggestions and advices on how to improve it.
 
 **Why it is important to have a LinkedIn profile:**
  - other people can find you. For instance, if you won some competitions people should be able to find you.
@@ -65,7 +65,7 @@ And of course, smile :) .
 **File Names:** name, last name, highest education level (e.g., MSc), location where you would like to work, your top five skills, job you are looking for.
  - Example: name_surname_MSc_Berlin_Python_Java_Software_Engineer.png
 
-**Background picture: **should be something professional, nothing fancy or colorful. It should reflect what you do, you can apply some keywords or short phrases about your job to help recruiters easily understand what you do.
+**Background picture:** should be something professional, nothing fancy or colorful. It should reflect what you do, you can apply some keywords or short phrases about your job to help recruiters easily understand what you do.
 
 
 ## Description
@@ -109,18 +109,18 @@ Skills make your profile more easily found, Recommendations increase your credib
 Hiring managers and recruiters often read the Recommendations when they are reviewing a Profile, so try to have at least one Recommendation per job. Get recommendations from your coworkers, former employers, clients, and professional contacts. Being generous on LinkedIn is fundamental. So, if you want to be recommended, start recommending others first.
 
 Useful tools to write recommendations:
- - Generator: https://www.linkedjetpack.com/linkedin-recommendation-generator/ 
- - Chatgpt
+ - [LinkedIn Recommendation Generator](https://www.linkedjetpack.com/linkedin-recommendation-generator/)
+ - [ChatGPT](https://chat.openai.com/auth/login)
 
 # What to post on LinkedIn
 Like in most social networks, on LinkedIn 80% of the content is provided by 20% of the users. Becoming an active LinkedIn member can boost visibility a lot.
 
-**Social Selling Index (SSI)** (https://www.linkedin.com/sales/ssi) measures how effective you are at establishing your professional brand, finding the right people. 
+**[Social Selling Index (SSI)](https://www.linkedin.com/sales/ssi)**  measures how effective you are at establishing your professional brand, finding the right people. 
 
 Tips:
  - **Accept any connection** (if they harass you, remove the connection). LinkedIn’s algorithm is more generous with active profiles with more connections and will boost your visibility.
  - **Join groups**: specialists, university alumni, business, and company groups.
  - **Ask and answer questions** on other people's posts. Aim for authenticity instead of self-promotion.
- - Do not write negative comments, instead write constructive feedback.
- - Keep an eye on the LinkedIn finds that come into your inbox. Observe who is linking to whom and what your friends, colleagues, and former supervisors do.
- - Share concise, consistent updates with your network related to your interests or expertise.
+ - **Do NOT write negative comments**, instead write constructive feedback.
+ - Keep an eye on the **LinkedIn finds** that come into your inbox. Observe who is linking to whom and what your friends, colleagues, and former supervisors do.
+ - **Share** concise, consistent updates with your network related to your interests or expertise.
