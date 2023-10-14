@@ -18,7 +18,7 @@ Read [this section!](https://wiki.superherovalley.fun/preparation/intro/)
 
 # How to prepare for coding interviews?
 Read [this section](https://wiki.superherovalley.fun/preparation/coding/), you can find the best preparation material.
-Would you like to do some exercises together, or with the help of experienced people, **for free**? Join our [DISCORD](https://discord.gg/DhU5ryCT) and find out how in the **#leggimi** channel!
+Would you like to do some exercises together, or with the help of experienced people, **for free**? Join our [Discord Server](https://discord.gg/uPRmhHwMem) and find out how in the **#leggimi** channel!
 
 # Founders and Admins
 Founders
