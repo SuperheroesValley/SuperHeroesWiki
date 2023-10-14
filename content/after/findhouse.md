@@ -41,8 +41,8 @@ This article gives mostly an overview of the problems that our mentees had when 
 Many landlords require the first rent in advance and 1-3 months as a deposit.
    - If you start working at the middle of the month it is possible that your first salary will arrive at the end of the next month. So you probably need to have to pay 1 more rent without having received any.
    - There can be a problem with the payslips, for example if you are not able to get your taxId in time you will be taxed at maximum rate for the first month.
- - There are specific websites of the city (egs [allaboutberlin](https://allaboutberlin.com/guides/find-a-flat-in-berlin)) that have guides on everything, what are the best areas to live, how to get ta
- - Check the subreddit of the city (ex, [berlin](https://www.reddit.com/r/berlin/), [amsterdam](https://www.reddit.com/r/Amsterdam/wiki/index/)) they have guides on how to find a house and also look at previous questions by users.
+ - There are specific websites of the city (e.g., [allaboutberlin](https://allaboutberlin.com/guides/find-a-flat-in-berlin)) that have guides on everything, what are the best areas to live, how to get ta
+ - Check the sub-reddit of the city (e.g., [Berlin](https://www.reddit.com/r/berlin/), [Amsterdam](https://www.reddit.com/r/Amsterdam/wiki/index/)) they have guides on how to find a house and also look at previous questions by users.
  - Start looking months before, as soon as you sign the contract start looking for an apartment.
  - Spam a lot
  - Hire real estate agent:
@@ -51,7 +51,7 @@ Many landlords require the first rent in advance and 1-3 months as a deposit.
    - They make you look wealthy, some landlords only respond to real estate agents because they know that if you can afford to pay for one you probably can afford to live in the apartment.
  - Since you have a good salary by working in big tech, try to overbid. Offer somewhere around 50 to 150 eur / month more than is listed. But make it look nice: like "_apartment is so nice, beautiful, we love it. The market is crazy right now, so to make sure we'll claim the place we'd like to offer X+100 instead of X listed price_"
  - Make a Google doc of introduction WITH YOUR NICE PHOTO(S). Make a nice friendly photo of you / you and your friend / your family together, and write a nice story where you mention that you work for "BIG TECH NAME" full-time, that BIG TECH NAME will give you a permanent contract and it's not just a 1 year contractor job, how much you're making, your little nice back-story, etc.
- - Check if the contract is legit: some cities like Amsteram offer some service like  [wooninfo.nl](http://wooninfo.nl/) where you can send your contract and questions via email.
+ - Check if the contract is legit: some cities like Amsteram offer some service like [wooninfo.nl](http://wooninfo.nl/) where you can send your contract and questions via email.
 
 
 **Other things to look for:**
