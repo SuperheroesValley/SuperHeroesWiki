@@ -8,6 +8,6 @@ weight: -10
 
 - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=cXAxaDMxbHBkMTZnbXAxYm04ZW91bW1nY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ): useful for not missing events organized by Superhero Valley and finding them synchronized directly in your favorite calendar app.
 
-- [Telegram Channel](https://t.me/joinchat/BIi_0VOdXr8h5BkCh5n5Gg): read-only channel in which we write only the most important communications.
+- [Telegram Channel](https://t.me/+zIcgNjPpYpIzNmU0): read-only channel in which we write only the most important communications.
 
 - [Mail](mailto:info@superherovalley.fun)
