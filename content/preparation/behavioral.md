@@ -23,12 +23,12 @@ a *stellar* behavioral interview using the **STAR-L** method.
 
 ### The STAR-L Framework:
  Explain:
- - The context in which your experience occurred (**S**ituation)
- - What you were required to achieve during the situation (**T**ask/Target)
- - The action you personally took in response to the task (**A**ction)
-   - Tip: good actions are the [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) (think big, costumer obsession, ...) 
- - The effect of your action on the outcome of the situation (**R**esult)
- - What you learned from the experience (**L**earn)
+ - **S**ituation: The context in which your experience occurred 
+ - **T**ask (or **T**arget): What you were required to achieve during the situation 
+ - **A**ction: The action you personally took in response to the task 
+   - Tip: [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) are a good princples list ([read explanation below](#amazon-leadership-principles-explained)) 
+ - **R**esult: The effect of your action on the outcome of the situation 
+ - **L**earn: What you learned from the experience 
 
 ### How to answer:
  - 2-3 min per question
@@ -50,11 +50,11 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - Where the results due to my impact or those results would have likely occurred without my involvement?
  - Why a particular thing was done, why not another way of doing it opted
  - What was the driving factor of decision
- - Explain something technical about the project. (Ex. you said you used UDP instead of TCP to solve the problem, now explain how TCP works)
+ - Explain something technical about the project. (e.g., you said you used UDP instead of TCP to solve the problem, now explain how TCP works)
 
 ---
 
-### Must know questions:
+### Must know questions
  - So, tell me a bit about yourself… 
  - Why do you want to work here? 
  - Where do you see yourself in 5 years? 
@@ -64,7 +64,7 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - Why are you leaving your current job? (not for interns/new grad)
 
 
-### Tell me about yourserf
+### Tell me about yourself
 Answer like this in 2-3min:
  - “I am a ….. at …...”
  - “In college, I studied ___ at ____.”
@@ -96,7 +96,7 @@ Example for students:
 ---
 
 
-### Amazon Leadership principles explained:
+### Amazon Leadership principles explained
  Amazon Leadership principle, similar with other companies, are a good to way to answer behavioral questions. I've ordered by importance and similarity.
  - **Bias for Action:** most of the time in big tech you are given a project/task where you now nothing about, outside your domain knowledge and with minimal/ambigual/wrong information. So, instead of waiting for something to happen, you have to come up with a plan, talk with relevant people and execute.
  - **Deliver Results**: similiar to bias for action. No matter how many problems you had, people not helping you (or working agaist you), adversarial conditions, you have to complete your project.

@@ -12,9 +12,9 @@ This is just a brief list of companies that offers interships in Europe
 |   Activision  			|        |    https://careers.activision.com/  |
 |   Adobe    		  		|        |    https://www.adobe.com/careers.html     |
 |   AID 					    |        |    https://www.linkedin.com/company/autonomous-intelligent-driving/jobs/    |
-|   AnthropicAI       |        |   https://www.anthropic.com/ |
+|   AnthropicAI       |        |    https://www.anthropic.com/ |
 |   Amazon    				|        |    https://www.amazon.jobs/     |
-|   AMD        				|        |   https://careers.amd.com/careers-home  |
+|   AMD        				|        |    https://careers.amd.com/careers-home  |
 |   Apple       			|        |    https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN    |
 |   Bandai    				|        |    https://www.bandainamcostudios.com/en/careers/    |
 |   Bending Spoons    |        |    https://bendingspoons.com/careers.html    |
@@ -35,6 +35,7 @@ This is just a brief list of companies that offers interships in Europe
 |   Expedia 				  |        |    https://lifeatexpediagroup.com/jobs  |
 |   G Research        |        |    https://www.gresearch.com/join-us/  |
 |   Google      			|        |    https://careers.google.com/      |
+|   Helsing           |        |    https://helsing.ai/careers  |
 |   Hello Fresh 			|        |    https://www.hellofresh.com/careers/    |
 |   Huawei 				  	|        |    https://career.huawei.com/reccampportal/campus4/pages/westernEurope/index.html?version=1   |
 |   Hudson River Trading  |        |  https://www.hudsonrivertrading.com/careers/  |
@@ -50,24 +51,29 @@ This is just a brief list of companies that offers interships in Europe
 |   Lyft 					    |        |    https://www.lyft.com/careers     |
 |   Meta (ex Facebook)|        |    https://www.metacareers.com/     |
 |   Microsoft    			|        |    https://careers.microsoft.com/     |
+|   Mistral AI        |        |    https://jobs.lever.co/mistral  |
 |   Mongo    				  |        |    https://www.mongodb.com/careers    |
 |   Morgan Stanley 	 	|        |    https://www.morganstanley.com/people-opportunities/students-graduates    |
 |   Mozilla     			|        |    https://careers.mozilla.org/    |
 |   Nintendo    		 	|        |    https://www.nintendo.it/Chi-siamo/Jobs/Jobs-Lavorare-in-Nintendo-757078.html    |
 |   Nvidia     	 			|        |    https://nvidia.wd5.myworkdayjobs.com/    |
-|   OpenAI            |        |  https://openai.com/careers  |
+|   Ocado Group       |        |    https://careers.ocadogroup.com/  |
+|   OpenAI            |        |    https://openai.com/careers  |
 |   Optiver           |        |    https://www.linkedin.com/jobs/view/2523749122/?refId=xQh4j5JBaap1P54hIW%2Fpeg%3D%3D&trackingId=1%2FQV%2BSUeRn8Lbc%2Bpv5X12g%3D%3D |   
 |   Oracle    				|        |    https://www.oracle.com/it/corporate/careers/     |
 |   Paypal    				|        |    https://jobsearch.paypal-corp.com/search     |
 |   Pinterest 				|        |    https://www.pinterestcareers.com/    |
+|   Radix Trading     |        |    https://radixtrading.co/  |
 |   Reddit 					  |        |    https://boards.greenhouse.io/reddit   |
 |   Red Hat 				  |        |    https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240   |
 |   Samsung 				  |        |    https://sec.wd3.myworkdayjobs.com/Samsung_Careers     |
+|   Sysdig            |        |    https://sysdig.com/careers/open-positions/  |
 |   Shopify 			  	|        |    https://www.shopify.com/careers    |
 |   Slack  				   	|        |    https://slack.com/intl/it-it/careers/dept/2322106   |
 |   Sony    			  	|        |    https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation      |
 |   SpaceX    				|        |    https://www.spacex.com/careers/index.html    |
 |   Spotify    				|        |    https://www.spotifyjobs.com/    |
+|   Spotify (Research)|        |    https://research.atspotify.com/jobs/  |
 |   Squarespace				|        |    https://www.squarespace.com/about/careers   |
 |   StabilityAI				|        |    https://stability.ai/careers  |
 |   Strava  					|        |    https://boards.greenhouse.io/strava  |
@@ -80,6 +86,7 @@ This is just a brief list of companies that offers interships in Europe
 |   Ubisoft    				|        |    https://www.ubisoft.com/en-us/company/careers    |
 |   Unity    				  |        |    https://careers.unity.com/    |
 |   Valve    				  |        |    https://www.valvesoftware.com/it/    |
+|   Waymo             |        |    https://waymo.com/careers/  |
 |   X (ex Twitter)	  |        |    https://careers.twitter.com/en  |
 |   Yelp   				  	|        |    https://www.yelp.careers/us/en    |
 |   Zalando 		  		|        |    https://jobs.zalando.com/en/jobs/?gh_src=22377bdd1us   |

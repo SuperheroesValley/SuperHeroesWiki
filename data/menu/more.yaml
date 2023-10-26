@@ -1,10 +1,10 @@
 ---
 more:
-    - name: Sito Web
+    - name: Superhero Valley Website
       ref: "https://superherovalley.fun/"
       external: true
       icon: "home"
-    - name: "Contribuisci"
+    - name: "Contribute to Wiki"
       ref: "https://github.com/SuperheroesValley/SuperHeroesWiki"
       external: true
       icon: "gdoc_github"

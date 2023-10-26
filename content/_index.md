@@ -16,31 +16,21 @@ weight: -21
 # But how does a Big Tech Technical Interview work?
 Read [this section!](https://wiki.superherovalley.fun/preparation/intro/)
 
-# Come mi preparo per un Colloquio Tecnico?
+# How to prepare for coding interviews?
 Read [this section](https://wiki.superherovalley.fun/preparation/coding/), you can find the best preparation material.
-Would you like to do some exercises together, or with the help of experienced people, **for free**? Join our [DISCORD](https://discord.gg/DhU5ryCT) and find out how in the **#leggimi** channel!
+Would you like to do some exercises together, or with the help of experienced people, **for free**? Join our [Discord Server](https://discord.gg/uPRmhHwMem) and find out how in the **#leggimi** channel!
 
 # Founders and Admins
 Founders
 - [Luca Corbucci](https://www.linkedin.com/in/lucacorbucci/), Ph.D. in Machine Learning @ University of Pisa 
 - [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), Ph.D. in Computer Engineering @ University of Pisa
 - [Alessandro Berti](https://www.linkedin.com/in/aleberti/), Ph.D. in Quantum Computing @ University of Pisa 
-- [Eugenio Paluello](https://www.linkedin.com/in/eugpaluello/ ), Blockchain Developer @Polygon
+- [Eugenio Paluello](https://www.linkedin.com/in/eugpaluello/), Blockchain Developer @Polygon
 
-Admins
+Community Managers
 - [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/), SWE @ Uber, ex-AWS
-- [Riccardo Sarpietro](https://www.linkedin.com/in/ric-sar/), Ph.D. in Machine Learning @ University of Catania
+- [Riccardo Sarpietro](https://www.linkedin.com/in/ric-sar/), Ph.D. in Computer Engineering @ University of Catania
 - [Simone Nicol](https://www.linkedin.com/in/simone-nicol/), SWE @ Bynder, ex-AWS
 - [Angela Carraro](https://www.linkedin.com/in/angela-carraro/), Data Scientist @ AWS
 - [Alessandro Stefanelli](https://www.linkedin.com/in/alessandro-stefanelli-572646269/), Math Student @ University of Pisa
 - [Emanuele Triuzzi](https://www.linkedin.com/in/triuzzi/), SWE @ Bending Spoons
-
-
-
-
-
-
-
-
-
-

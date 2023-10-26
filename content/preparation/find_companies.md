@@ -13,15 +13,17 @@ Schedule your favorite companies last. Get interview practice with the places yo
 
 **Lists:**
  - [levels.fyi](https://www.levels.fyi/internships/)
+ - [Superhero Valley Internship List](https://wiki.superherovalley.fun/link_utili/ricerca_internships/)
+ - [Summer Tech Internship by Simplify](https://github.com/SimplifyJobs/Summer2024-Internships)
 
 **University:**
- - Career Day/site of your university: write down the companies listed in the website and go in person. Egs: [Padova](https://www.universitaperta-unipd.it/eventi/universita-aperta/aziende-partecipanti-ua2023), [PoliMI](https://www.careerservice.polimi.it/it-IT/Home/Index/)
+ - Career Day/site of your university: write down the companies listed in the website and go in person. E.g.: [Padova](https://www.universitaperta-unipd.it/eventi/universita-aperta/aziende-partecipanti-ua2023), [PoliMI](https://www.careerservice.polimi.it/it-IT/Home/Index/)
  - Don't worry if you don’t have a degree or you graduated many years ago, it's just a way to find companies that have work to offer.
  - Search also in universities in the cities that you want to go to live.
 
 
 **Employment Search engine:** some countries, cities or industries have specific websites.
- - LinkedIn, Indeed.com, Hired.com, Angel.co, www.whitetruffle.com, www.smarthires.com, triplebyte.com, http://www.cwjobs.co.uk/, https://www.juniorjobsonly.com/ 
+ - [LinkedIn](https://it.linkedin.com/), [Indeed](https://it.indeed.com/), [hired](https://hired.com/), [Wellfound (ex AngelList](https://wellfound.com/), [whitetruffle](https://whitetruffle.com/), [CWJobs](http://www.cwjobs.co.uk/), [Junior Jobs Only](https://www.juniorjobsonly.com/) 
 
 
 **Google this:**
@@ -100,6 +102,5 @@ Companies that have the structure to incorporate large numbers of low-skilled an
 **Red flags for startups:**
  - Waste of money when the startup is no making profit: cafeteria with chefs that nobody goes, expensive coffee machine nobody uses, an entire floor of games nobody uses.
  - Layoffs that come out from nowhere: employees is everything that the startups has, if it start laying off they are going down. Massive layoff are usually caused by entire departments that are paid to do nothing, that means that the management manage bad, that don't understand how to assign work to people.
- - hiring incompetent people on purpose: for the sake of diversity,...
+ - hiring incompetent people on purpose: for the sake of diversity, and so on.
  - Meetings that should be emails.
-
