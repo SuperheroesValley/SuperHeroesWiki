@@ -4,7 +4,11 @@ more:
       ref: "https://superherovalley.fun/"
       external: true
       icon: "home"
-    - name: "Contribute to Wiki"
+    - name: "Contribute to Wiki via GitHub"
       ref: "https://github.com/SuperheroesValley/SuperHeroesWiki"
       external: true
       icon: "gdoc_github"
+    - name: "Contribute to Wiki via Feedback Form"
+      ref: "https://forms.gle/oBZ4bsKCg2KxMfxdA"
+      external: true
+      icon: fa-solid fa-paper-plane
