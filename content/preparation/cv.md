@@ -29,9 +29,8 @@ Use this file name: firstName_lastName_Resume.pdf (e.g. John_Doe_Resume.pdf).
 
 Use a **readable template**, choose one of the following LaTeX templates to make it easier for the recruiter to read them:
 - [**Awesome CV**](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
-- [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
-- [AltaCV](https://www.overleaf.com/latex/templates/altacv-template/trgqjpwnmtgv)
 - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
+- [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
 
 To open them, click on "Open As Template" to start editing in [Overleaf](https://overleaf.com).
 
