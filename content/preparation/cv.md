@@ -61,9 +61,9 @@ Due to discriminations do NOT include:
  - Marital status
  - Nationality
  - Photo: apart from discriminations, many ATS cannot read images, so they will get confused and discard your CV; 88% of CVs are rejected if they include a photo [\[source\]](https://teamstage.io/resume-statistics/)
- - Address: companies generally tend to reject people based on their location; they usually tend to prefer applicants who already live in the same city/country as the company
- - Social Media (except LinkedIn, Skype and GitHub)
+ - Address: companies generally tend to reject people based on their location; they usually tend to prefer applicants who already live in the same city/country as the company. So if you want to apply for companies in a specific city (egs London) it might be useful add your address to London (even a fake one).
  - Current location unless you need a Visa
+ - Social Media: except for carreer like LinkedIn and GitHub)
  - Signature
 
 
@@ -72,26 +72,32 @@ Due to discriminations do NOT include:
 Not include a full history of every role you've ever had. Include only the relevant positions-the ones that make you a more impressive candidate.
 
 **Job title:** the job you were actually doing. If the title was "full-stack" but you were actually doing back-end, put Back-End. If the company ask for clarification tell the truth, they will understand.
-
-If you were an Intern at FANG leave the title "intern" otherwise take it off.
-
-Don’t put that you are self-employed or CEO of your company, because if you are looking for a job that means that you are a bad CEO (you are a crappy worker, boss, you don’t understand business…), so leave the name of the company and that you were an employee.
-
+ - (borderline) If you were an Intern at FAANG leave the title "intern" otherwise take it off.
+ - Don’t put that you are self-employed or CEO of your company, because if you are looking for a job that means that you are a bad CEO (you are a crappy worker, boss, you don’t understand business…), so leave the name of the company and that you were an employee.  
 Self-employment doesn't signal you know how to work as part of a team or follow directions other people give. You need to re-do your resume and interview talking points to counter this potential narrative.
+ - Don’t put career progression unless it’s very fast, just put your last job title.
+ - If you have a job gap: change the end date to "current", then when you are at the interview explain why there is a gap, otherwise they don’t even invite you in the interview.
 
-If you have a job gap: change the end date to "current", then when you are at the interview explain why there is a gap, otherwise they don’t even invite you in the interview.
+**Info to include:** Tools used, Industry worked in, of users supported (Artists? Accountants? Executives?), Geographic area worked, Size of company, Size of department, Size of team.
 
-Don’t put career progression unless it’s very fast, just put your last job title.
-
-Tools used, Industry worked in, of users supported (Artists? Accountants? Executives?), Geographic area worked, Size of company, Size of department, Size of team.
-
-For each role, try to discuss your accomplishments with the following approach: "**_Accomplished X by implementing Y which led to Z_**_"_
+For each role, insert **3-4 bullet points** about your accomplishments with the following format: "**_Accomplished X by implementing Y which led to Z_**_"_
 Show what you did, how you did it, and what the results were (in numbers, %, …).
- - "Developed and deployed an ensemble model to mitigate first-party fraud by $2.7M in Q4' 19."
- - "improved performance to 10,000 req/s with this technique"
- - "I’ve been the engineer working for 6 months on feature X for project Y, that was launched in December 2018. Gross revenues for our company increased by Y% within 1 year from its launch"
+ - "_Developed and deployed an ensemble model to mitigate first-party fraud by $2.7M in Q4' 19._"
+ - "_improved performance to 10,000 req/s with this technique_"
+ - "_I’ve been the engineer working for 6 months on feature X for project Y, that was launched in December 2018. Gross revenues for our company increased by Y% within 1 year from its launch_"
 
-Use **ChatGPT** to help you with this.
+Talk about:
+ - **People impact**:
+   - NO: "_Coached the team on how to use Jira and how to check a burndown chart._"
+   - YES: "_Helped the team achieve a **X% increase in velocity** through the use of the burndown chart and Jira._"
+ - **Engineering Impact:**
+   - NO: "_Reduced app size by 4.2 MBs_"
+   - YES: "_Reduced app size by 4.2 MBs, a previous analysis done on app size correlates this to a 0.4% increase in signups._"
+ - **Business Impact:**
+   - NO: "_Reduced the number of support tickets_"
+   - YES: "_Reduced the number of support tickets by 10% for users in the experiment, resulting in **$2M annualized cost savings**._"
+
+Use **ChatGPT** to help you with this. But Be careful! ChatGPT uses a lot of qualitative adjectives to make the sentence look cool, this is bad. Your accomplishment must be MEASURABLE not qualitative.
 
 Action verbs:
  - **Management/Leadership Skills:** administered, analyzed, appointed, approved, assigned, attained, authorized, chaired, considered, consolidated, contracted, controlled, converted, coordinated, decided, delegated, developed, directed, eliminated, emphasized, enforced enhanced established, executed, generated, handled, headed, hired, hosted, improved, incorporated, increased, initiated, inspected, instituted, led, managed, merged, motivated, organized, originated, overhauled, oversaw, planned, presided, prioritized, produced, recommended, reorganized, replaced, restored, reviewed, scheduled streamlined, strengthened, supervised, terminated
