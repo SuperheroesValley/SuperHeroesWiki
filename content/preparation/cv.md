@@ -97,6 +97,8 @@ Talk about:
    - NO: "_Reduced the number of support tickets_"
    - YES: "_Reduced the number of support tickets by 10% for users in the experiment, resulting in **$2M annualized cost savings**._"
 
+If possible put links that prove those metrics and statements.
+
 Use **ChatGPT** to help you with this. But Be careful! ChatGPT uses a lot of qualitative adjectives to make the sentence look cool, this is bad. Your accomplishment must be MEASURABLE not qualitative.
 
 Action verbs:
@@ -151,7 +153,15 @@ If you have publications, list them naming all authors but remember to **highlig
 
 ## 5) Achievements
 If you won some hackatons, math olimpiads, or you got a scholarship.  
-As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **actionable** and **measurable** achievements.
+As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **sucessfull, competitive, actionable** and **measurable** achievements.
+
+If possible put **links** that **prove** those metrics and statements.
+
+Example:
+ - NO: Playing chess during free time
+   - YES: Chess player ranked among [top 1% in 2024 FIDE ratings](https://ratings.fide.com/profile/1503014).
+ - NO: Passionated about running and marathons
+   - YES: Competed in 41 half-marathons, [European U23 Championships Silver medallist](https://worldathletics.org/athletes/italy/giuseppe-gerratana-14375975)
 
 ## 6) Skills
 
