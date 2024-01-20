@@ -9,25 +9,18 @@ Thi section is a step-by-step guide on how to write a successful CV.
 
 Once you have written your CV, don't hesitate to post it on our [Discord group](https://discord.gg/BR2udfnpje) (channel #cv-review) to get suggestions and advices on how to improve it.
 
-# General tips
 
-### Don't lie!
-
-After passing the interviews, companies will rely on an external **background check** agency (e.g. Hireright, Accurate, etc.) to verify the authenticity of the content.
-
-You will have to insert information from former employers on a portal, and you will have to provide official documentation on everything written in the CV (preferably in English): degree certificate, old employment contracts, old pay stubs, citizenship (residence permit), etc.
-
-It may also happen that they send an e-mail or call your former employers; they won't ask anything in depth, usually it is something along the lines of "_Is it true that *NAME* worked as a *ROLE* from mm/yyyy to mm/yyyy for you?_".
-
-If something is true but it cannot be proved quickly and easily, do not put it on your CV. There will also be a criminal check in which you will have to provide criminal records and pending charges, so keep in mind to have these documents at hand. Some of these, such as the confirmation that you are a university student, or your English grade average may take weeks to retrieve. Even if you get away with it, in the future (e.g. layoff times), they may do a background check on current employees to find grounds for dismissal. Usually investment banks do annual background check on all employees.
-
-# CV sections
+**Don't lie!**
+ - After passing the interviews, companies will rely on an external **background check** agency (e.g. Hireright, Accurate, etc.) to verify the authenticity of the content.
+ - You will have to insert information from former employers on a portal, and you will have to provide official documentation on everything written in the CV (preferably in English): degree certificate, old employment contracts, old pay stubs, citizenship (residence permit), etc.
+ - It may also happen that they send an e-mail or call your former employers; they won't ask anything in depth, usually it is something along the lines of "_Is it true that *NAME* worked as a *ROLE* from mm/yyyy to mm/yyyy for you?_".
+ - If something is true but it cannot be proved quickly and easily, do not put it on your CV. There will also be a criminal check in which you will have to provide criminal records and pending charges, so keep in mind to have these documents at hand. Some of these, such as the confirmation that you are a university student, or your English grade average may take weeks to retrieve. Even if you get away with it, in the future (e.g. layoff times), they may do a background check on current employees to find grounds for dismissal. Usually investment banks do annual background check on all employees.
 
 ### Resume file
 
-Use this file name: firstName_lastName_Resume.pdf (e.g. John_Doe_Resume.pdf).
+**File name:** firstName_lastName_Resume.pdf (e.g. John_Doe_Resume.pdf).
 
-Use a **readable template**, choose one of the following LaTeX templates to make it easier for the recruiter to read them:
+Use a **readable template**: is going to be read from both the recruiter and the software that is analyzing the cv.
 - [**Awesome CV**](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
 - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
 - [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
@@ -35,6 +28,7 @@ Use a **readable template**, choose one of the following LaTeX templates to make
 To open them, click on "Open As Template" to start editing in [Overleaf](https://overleaf.com).
 
 Avoid using exotic templates in an attempt to be noticed.
+Just 1 page
 
 ## Content
 
