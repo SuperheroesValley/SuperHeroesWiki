@@ -78,15 +78,13 @@ Self-employment doesn't signal you know how to work as part of a team or follow 
  - Don’t put career progression unless it’s very fast, just put your last job title.
  - If you have a job gap: change the end date to "current", then when you are at the interview explain why there is a gap, otherwise they don’t even invite you in the interview.
 
-**Info to include:** Tools used, Industry worked in, of users supported (Artists? Accountants? Executives?), Geographic area worked, Size of company, Size of department, Size of team.
-
 For each role, insert **3-4 bullet points** about your accomplishments with the following format: "**_Accomplished X by implementing Y which led to Z_**_"_
 Show what you did, how you did it, and what the results were (in numbers, %, …).
- - "_Developed and deployed an ensemble model to mitigate first-party fraud by $2.7M in Q4' 19._"
+ - "_Developed and deployed an machine learning model to mitigate first-party fraud by $2.7M in Q4' 19._"
  - "_improved performance to 10,000 req/s with this technique_"
  - "_I’ve been the engineer working for 6 months on feature X for project Y, that was launched in December 2018. Gross revenues for our company increased by Y% within 1 year from its launch_"
 
-Talk about:
+Types of impact:
  - **People impact**:
    - NO: "_Coached the team on how to use Jira and how to check a burndown chart._"
    - YES: "_Helped the team achieve a **X% increase in velocity** through the use of the burndown chart and Jira._"
@@ -96,6 +94,8 @@ Talk about:
  - **Business Impact:**
    - NO: "_Reduced the number of support tickets_"
    - YES: "_Reduced the number of support tickets by 10% for users in the experiment, resulting in **$2M annualized cost savings**._"
+  
+**Info to include:** Tools used, Industry worked in, of users supported (Artists? Accountants? Executives?), Geographic area worked, Size of company, Size of department, Size of team.
 
 If possible put links that prove those metrics and statements.
 
@@ -118,15 +118,19 @@ Action verbs:
 
 ## 3) Education
 
-Avoid writing beginning dates, as they can be used to infer your age. Should they need this information they can obtain it during the background check.
+**No beginning dates:**: as they can be used to infer your age. If they need this information they can obtain it during the background check.
 
-If you were at the top, indicate the percentage, for example: in the 5% of top best students.
+**End date**: next year, beacuse some companies only wants interns at the last year of university.
 
-Show leadership by indicating if you chaired any club or initiated something significant (volunteering, charity, etc.)
+**GPA**: no if too low.
 
-If you got a scholarship, indicate how much and what was the competition to get it.
+**If top student**: indicate the percentage, for example: "_in the 5% of top best students._"
 
-Do not put elementary, middle, and high schoo. Low GPAs are better left out.
+**Leadership**: indicate if you chaired any club or initiated something significant (volunteering, charity, etc.)
+
+**Scholarships**: indicate how much and what was the competition to get it. "_Won the Mario Rossi scholarchip, selected among 500 students_"
+
+Do not put elementary, middle, and high school.
 
 ## 4) Projects
 Include your 2 - 4 most significant projects. State what the project was and which languages or technologies it employed.
@@ -143,7 +147,7 @@ Most recruiters don't know any code make sure to include screenshots in the repo
 
 It's important to also put them on [GitHub](https://github.com/) so that people reading your CV can view them.
 
-The name of the project should imply what it does, e.g. "e-commerce for a wine store".
+**Name of the project**: should imply what it does, e.g. "_e-commerce for a wine store_". No strange names or acronims.
 
 Links to the project should be in the following format: `[code | article | paper | demo | video | presentation]`.
 
@@ -151,8 +155,8 @@ Links to the project should be in the following format: `[code | article | paper
 
 If you have publications, list them naming all authors but remember to **highlight your name**.
 
-## 5) Achievements
-If you won some hackatons, math olimpiads, or you got a scholarship.  
+## 5) Achievements / hobbies
+Hackatons, math olimpiads, or you got a scholarship.  
 As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **sucessfull, competitive, actionable** and **measurable** achievements.
 
 If possible put **links** that **prove** those metrics and statements.
@@ -167,15 +171,14 @@ Example:
 
 **Software:** Be conservative about what software you list, and understand what's appropriate for the company
 
-**Programming Languages:** List most of the languages you've used with your experience level.
-Don’t put the percentage or your level of knowledge, because:
+**Programming Languages:** Don’t put the percentage or your level of knowledge, because:
  - is not really required
  - they are searching for key-word
  - let them grade you at the interview (some companies require very basic knowledge other very deep)
  - don’t tell them you are bad in something before you even get there.
  - ATS software get confused with infographics
 
-This is not good: "_Languages: Java (expert), C++ (proficient), JavaScript (prior experience)_"
+This is not good: "_Languages: Java (expert), C++ (beginner), JavaScript (prior experience)_"
 
 **Soft skills:** Put them only if you have space left.
 The problem with soft skills is that they are very important, but you can’t prove them. And everybody is putting the same ones: team working, leadership, ...
