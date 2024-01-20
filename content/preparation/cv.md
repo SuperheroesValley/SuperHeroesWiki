@@ -75,6 +75,8 @@ Self-employment doesn't signal you know how to work as part of a team or follow 
 For each role, insert **3-4 bullet points** about your accomplishments with the following format: "**_Accomplished X by implementing Y which led to Z_**_"_
 Show what you did, how you did it, and what the results were (in numbers, %, …).
  - "_Developed and deployed an machine learning model to mitigate first-party fraud by $2.7M in Q4' 19._"
+ - "_Increased test coverage of the Android app by 80%, which reduced bug tickets from users by 50%_"
+ - "_Built a Node.js API and microservice from scratch with 70% + unit test coverage to serve 100,000+ Users_"
  - "_improved performance to 10,000 req/s with this technique_"
  - "_I’ve been the engineer working for 6 months on feature X for project Y, that was launched in December 2018. Gross revenues for our company increased by Y% within 1 year from its launch_"
 
@@ -84,7 +86,7 @@ Types of impact:
    - YES: "_Helped the team achieve a **X% increase in velocity** through the use of the burndown chart and Jira._"
  - **Engineering Impact:**
    - NO: "_Reduced app size by 4.2 MBs_"
-   - YES: "_Reduced app size by 4.2 MBs, a previous analysis done on app size correlates this to a 0.4% increase in signups._"
+   - YES: "_Reduced app size by 4.2 MBs, that is correlated to a 0.4% increase in signups._"
  - **Business Impact:**
    - NO: "_Reduced the number of support tickets_"
    - YES: "_Reduced the number of support tickets by 10% for users in the experiment, resulting in **$2M annualized cost savings**._"
