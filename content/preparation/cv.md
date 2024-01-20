@@ -96,6 +96,7 @@ Types of impact:
 If possible put links that prove those metrics and statements.
 
 Use **ChatGPT** to help you with this. But Be careful! ChatGPT uses a lot of qualitative adjectives to make the sentence look cool, this is bad. Your accomplishment must be MEASURABLE not qualitative.
+ - _Give me 5 alternative to the following CV bullet point without adjectives, it should follow the pattern "Accomplished X by implementing Y which led to Z": \<your sentence\>_
 
 Action verbs:
  - **Management/Leadership Skills:** administered, analyzed, appointed, approved, assigned, attained, authorized, chaired, considered, consolidated, contracted, controlled, converted, coordinated, decided, delegated, developed, directed, eliminated, emphasized, enforced enhanced established, executed, generated, handled, headed, hired, hosted, improved, incorporated, increased, initiated, inspected, instituted, led, managed, merged, motivated, organized, originated, overhauled, oversaw, planned, presided, prioritized, produced, recommended, reorganized, replaced, restored, reviewed, scheduled streamlined, strengthened, supervised, terminated
