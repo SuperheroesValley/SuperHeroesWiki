@@ -152,13 +152,15 @@ Links to the project should be in the following format: `[code | article | paper
 
 If you have publications, list them naming all authors but remember to **highlight your name**.
 
-## 5) Achievements / hobbies
+## 5) Achievements / extracurricular / hobbies
 Hackatons, math olimpiads, or you got a scholarship.  
 As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **sucessfull, competitive, actionable** and **measurable** achievements.
 
-If possible put **links** that **prove** those metrics and statements.
+If possible add **links** that **prove** those metrics and statements.
 
 Example:
+ - NO: Volunteering into the Cancer charity organziation
+   - YES: Lead a team of 5 people for a Cancer charity fundraiser, by leading a campain on social media, raised 150K. 
  - NO: Playing chess during free time
    - YES: Chess player ranked among [top 1% in 2024 FIDE ratings](https://ratings.fide.com/profile/1503014).
  - NO: Passionated about running and marathons
