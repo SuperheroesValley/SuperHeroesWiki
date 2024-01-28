@@ -22,7 +22,6 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - Tell me about a time when you worked well under pressure.
 
 ### The STAR-L Framework:
- Explain:
  - **S**ituation: The context in which your experience occurred 
  - **T**ask (or **T**arget): What you were required to achieve during the situation 
  - **A**ction: The action you personally took in response to the task 
@@ -40,7 +39,7 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - Do not tell the name of the company unless its a well known company, but instead tell the industry and what the company does, for example:
    - NO: _"I worked at Kamiri & Ermicht Financial LTD as software engineer"_
    - YES: "_I worked in a financial  company that handle large quantity of data to predict risk of insurrance_"
- - Do not tell the name of the project, its confusing, only tell what it does.
+ - Do not tell the name of the project, its confusing, just tell what it does.
 
 ### Follow ups:
  - Who was involved
@@ -101,8 +100,8 @@ Example for students:
  - **Bias for Action:** most of the time in big tech you are given a project/task where you now nothing about, outside your domain knowledge and with minimal/ambigual/wrong information. So, instead of waiting for something to happen, you have to come up with a plan, talk with relevant people and execute.
  - **Deliver Results**: similiar to bias for action. No matter how many problems you had, people not helping you (or working agaist you), adversarial conditions, you have to complete your project.
  - **Customer Obsession**: the assumption that all big techs have is that if you create a good product that customers love (real user, your professor for a uni project, your manager, some other team in the company, ...), they will gives us their money. So you have always to think how your actions and engineering decisions are going to satisfy the customer. Sometimes simple actions are better than complex enginnering solutions. Some other times you have to dig deep in complex engineering solutions to create an incredible product.
- - **Insist on the Highest Standards:** always raising the bar. Engineering excelence: code quality, documentation, disign, peer review, efficient processes.
- - **Ownership**: You have to know what's going on all aspects of the project and organization you are working on. Not just your tasks.
+ - **Insist on the Highest Standards:** always raising the bar. Engineering excelence: code quality, documentation, design, peer review, efficient processes.
+ - **Ownership**: You have to know what's going on all aspects of the project and organization you are working on. Not just your tasks. And proactively influence them. This is not optional, it is expected.
  - **Dive Deep:** very similar to ownership. Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
  - **Think Big**: 
  - **Learn and Be Curious**: about new possibilities and act to explore them.
