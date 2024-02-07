@@ -23,7 +23,7 @@ Would you like to do some exercises together, or with the help of experienced pe
 # Founders and Admins
 Founders
 - [Luca Corbucci](https://www.linkedin.com/in/lucacorbucci/), Ph.D. in Machine Learning @ University of Pisa 
-- [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), Ph.D. in Computer Engineering @ University of Pisa
+- [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), Ph.D. in Computer Science @ Sant'Anna School of Advanced Studies - Pisa
 - [Alessandro Berti](https://www.linkedin.com/in/aleberti/), Ph.D. in Quantum Computing @ University of Pisa 
 - [Eugenio Paluello](https://www.linkedin.com/in/eugpaluello/), Blockchain Developer @Polygon
 
