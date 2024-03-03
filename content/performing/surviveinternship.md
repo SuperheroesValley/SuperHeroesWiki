@@ -6,7 +6,7 @@ weight: -17
 
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-Getting a returning offer from an internship is not to be taken for granted. Especially in big tech or in bad job market conditions.
+Receiving a return offer from an internship is not to be taken for granted, especially in big tech or during unfavorable job market conditions.
 
 There are a lot of things that can go wrong, outside of your control, the following are some of the **issues encountered by student in our community**:
  - If your internship is during the summer, expect that a lot of colleagues and teams you will be collaborating with to be on vacation.
@@ -32,16 +32,16 @@ So, if you have a 3 month internship, you actually have about 1.5-2 months to ac
 
 If a full time employee for 2 months do not write code or do not write design documents or do not do some stuff that is required in performance review, because of the unlucky issues listed above (other team is not collaborative, project get canceled, …), he will still have other 10 months to accomplish something, this is not to much of a problem.
 
-But, if you, as an intern, do not do something meaningful for 2 months, or your project gets canceled, your team is restructured, … it's very risky for your return offer.
+But, if you, as an intern, do not ship something meaningful for 2 months (project gets canceled, your team is restructured, …) it's very risky for your return offer.
 So, you have to be proactive to fight the unlikeliness.
 
 # What to do before the internship
  - **Organize your move to the city months ahead**:  currently main European cities have a housing shortage and this causes several other problems. For example in Berlin you have to call 3 months before having an appointment to register your address to get the TaxId because every spot is taken.
- - Move into the city 1 week before: because you will have a very small amount of time during the internship. During this week you have to get into your apartment, do local bureaucracy, rent a bike, bus pass, train pass, health insurance, ... So, you can start your internship focusing just on work.
+ - **Move into the city few days before the start (~1 week)**: because you will have a very small amount of time during the internship. During this week you have to get into your apartment, do local bureaucracy, rent a bike, bus pass, train pass, health insurance, ... Therefore, it's important to do these tasks before internship start, so during the internship you have time to focus only on work.
  - **Talk with your mentor and manager** weeks/months before: since they have to create a project for you, if you have something specific you want to work on, they might help you. Ask them how your first days will look, where the office location is (the office might be in a different location than the legal location written in your contract), what you can do to prepare at best, …
- - **Keep in touch with other interns**: you might search an apartment together, they can be your first friends in the new city, exchange precious information during the internship, compare your experiences, …
+ - **Contact other interns that are starting with you**: you might search an apartment together, they can be your first friends in the new city, exchange precious information during the internship, compare your experiences, …
 
-Remember that if you don't use your time off they will pay you. Salary in main European cities is about 100€/day net.
+💡 if you don't use your time off they will pay you. Salary in main European cities (for big tech) is about 100€/day net.
 
 # Onboarding: What to do the first 1-2 weeks
 Usually the first days you will spend time setting up your PC and doing some trainings.
@@ -50,8 +50,8 @@ Usually the first days you will spend time setting up your PC and doing some tra
 **Schedule a 30m 1o1 with every of your team members**, present yourself and then ask them this:
  - What is your role?
  - How long have you been in your current role? What did you do prior to this role?
- - What projects are you working on now? Can you explain them to me? Can you give me the link to their documentation?
- - What do you see as the most important issues/projects that your department needs to address over the next quarter and year?
+ - What projects are you working on now? Can you explain them to me? Can you give me the link to their documentation, design docs?
+ - What do you see as the most important issues/projects that the team needs to address over the next quarter and year?
  - What do you see as the biggest challenges/issues I will face in my new role?
  - How do you think I can make the biggest impact in the short-term? Long-term?
  - How does my role impact you (and your team)? How do you envision my working with your team?
@@ -60,6 +60,7 @@ Usually the first days you will spend time setting up your PC and doing some tra
  - Are you involved in other company activities? (e.g., as a bar raiser, mentor, affinity groups, women  in tech, competitive programming, sports clubs, …)
  - What are the team, org and company slack channels I should join? What are they used for? (ask to insert you in it)
  - What meetings should I participate in? (Ask to insert you in)
+ - During the meeting with other people this is what I understood about the product we are developing: _explain ..._ Is this correct?
 
 While doing this take notes, and ask them for links, don't make this just an informal chat, you are also trying to extract information from them. 
 
@@ -67,7 +68,7 @@ Get familiar with the codebase, read your team docs
 
 Look at your team members calendar, you might not be invited to important (or interesting) meetings.
 
-**Define clear what counts as a successful internship**, define the metrics for this goal for the internship. Understand how the performance review works, and how you will be evaluated and **when**. Discuss this with your manager.
+**Define clear what counts as a successful internship:** define the metrics for the internship. Understand how the performance review works, and how you will be evaluated and **when**. Discuss this with your manager and mentor.
 
 Socialize with other interns and team members.
 
@@ -78,12 +79,13 @@ Socialize with other interns and team members.
  - **Pro actively send out the daily/weekly progress** to your manager/mentor, especially at the beginning.
  - Over Communicate, if you are communicating too much they will tell you.
  - When you present yourself to others, tell them that you are an intern, otherwise people do not know.
- - As an intern no one will ever tell you "no", take advantage of this but ask questions clearly, as we will explain below.
- - Attend the events and meetings organized by HRs for interns. We know they can be very cringy and seem a waste of time, but it's a good way to meet other interns.
+ - As an intern no one will ever tell you "no", take advantage of this but ask questions clearly, as we will explain in the section below.
+ - Attend the events and meetings organized by HRs for interns. We know they can be very cringy and look like a waste of time, but it's a good way to meet other interns (and extract information from them later).
  - Socialize: Invite other interns for lunch, afterhours, hangout, … Don't worry if they tell you no, they are just a bunch of lonely lazy nerds in a new city, insist and eventually they will tell you yes and with some of them you will construct tactical relationships.
- - Be aware that in big tech most of the employees are too empathetic, when you ask for feedback they will avoid giving you negative feedback, they will tell you "you are doing fine", so you should ask for detailed feedback and often, until issues will emerge.
+ - Be aware that in big tech most of the employees are too empathetic with interns, when you ask for feedback they will avoid giving you negative feedback, they will tell you "_you are doing fine_", so you should ask for detailed feedback and often, until issues will emerge.
    - **Every couple of weeks ask both your mentor and your manager the following**: "_How I'm doing relative to your expectation of where I should be at this point in the internship?_", show them what you have done.
-   - Every 2 weeks coils seem too often, but actually most of the time you might not have made much progress in 2 weeks, and some 1o1s with your manager and mentor might get canceled, so you will end up more realistically having feedback once a month.
+   - Every 2 weeks might seem too frequent, but actually most of the time you might not have made much progress in 2 weeks, and some 1o1s with your manager and mentor might get canceled (they are busy, in vacation,...), so you will end up more realistically having feedback once a month.
+   - Every now and then ask to team members specific feedbacks, for example: "_how did I've handled this meeting, what could I've done better?_"
 
 ## How to ask questions
 Before asking questions in a slack channel, internal stack overflow or to someone, do this:
@@ -107,7 +109,7 @@ When asking for help you need to be proactive, your team members do not know if 
  - “Would someone provide a pointer?”, “What is my example missing?”, and “Can someone please take a look?”
 
 
-[XY problem](https://xyproblem.info/): is asking about your attempted solution rather than your actual problem.
+[XY problem](https://xyproblem.info/): is when you ask about your attempted solution instead of your actual problem, creating confusion.
 XY problem solution:
  - Always include information about a broader picture along with any attempted solution.
  - If someone asks for more information, do provide details.
@@ -115,49 +117,49 @@ XY problem solution:
 
 ## 1o1 with Manager/Mentor
 Keep a doc where you write down the topics you want to discuss and use it to write notes during the meeting. This is an example [**Template Manager 1o1**](https://docs.google.com/document/u/2/d/11y-n8DVrvKaXxoHKB6XeuPcPvjUIiAi4YPxpnlAguR0/edit)
-The meeting is your time, so you should lead and come with topics to discuss.
+The meeting is your time, so you should lead and come prepared with topics to discuss.
 
-How a good meeting should be:
+How a good meeting should look like:
  - 25-45 min
  - Weekly, bi-weekly (at most). Recurring meeting scheduled in the calendar, not an ad-hoc. If you have a 5 min meeting every 2 weeks, this is very bad and should be a red flag.
  - Positive and constructive
  - Help your manager to help you.
 
 **Topics:**
- - Share what you have done during this week and your wins, go through your brag document.
+ - Share what you have done during this week and your wins, go through your [brag document](https://docs.google.com/document/u/2/d/1Mmk8NDhN3gvsv-X7mEXviNEkAUYU1g5ag70f4ud-EU4/edit).
  - Issues / Questions of a project
  - Outcome and follow-up items from previous 1-on-1
  - Future projects
  - Internship/Career goals
  - Benchmark against growth milestones
- - Talk about awkward topics: I’m close to burnout, I don’t agree with the feedback I received, your compliment last week made my week much better, feelings. Remember that your manager is responsible for your wellbeing.
+ - Talk about awkward topics: I’m close to burnout, I don’t agree with the feedback I received, your compliment last week made my week much better, feelings... Remember that your manager is responsible for your wellbeing.
 
 
 # Productivity and Project management
-Document very well what you are doing by creating docs, you will show those one to your team members, mentor, manager and link them into the performance review.
-Example of a Task breakdown DOC for a project: [**Template Task Breakdown**](https://docs.google.com/document/u/2/d/1ScKupERGEB94-j_Sqvb1S_IXmbDDb_nKhIJXg2Gcbyg/edit)
+Document very well what you are doing by creating documents, you will show them to your team members, mentor, manager and link them into the performance review.
+Example of a Task breakdown document for a project: [**Template Task Breakdown**](https://docs.google.com/document/u/2/d/1ScKupERGEB94-j_Sqvb1S_IXmbDDb_nKhIJXg2Gcbyg/edit)
 
 **General tips:**
- - stay consistent, do all the task. If you can’t, communicate with the manager. Especially at the end of the internship there is a lot of work to do.
- - be clear about tasks you have to do.
+ - stay consistent, complete all the task quickly with good quality (get the shit done). If you can’t, communicate it with the manager. Especially at the end of the internship there is a lot of work to do.
+ - be clear about the tasks you have to do.
  - write down the tasks that you have to do daily, estimate the time and timeblock them into your calendar.
- - Task that you can do in less than 5 min, do immediately
+ - Tasks that you can do in less than 5 min, do immediately
  - Eat the frog: do the most difficult thing at the beginning of the day.
  - Be aware of the avoidance bias
    - don’t be afraid to act
    - Bias for action
-   - Remember company [LP](https://wiki.superherovalley.fun/preparation/behavioral/#amazon-leadership-principles-explained)
+   - Remember company [Principles](https://wiki.superherovalley.fun/preparation/behavioral/#amazon-leadership-principles-explained)
    - It is normal to feel like you are bothering your coworkers when asking questions. Learn ways to make sure you are being efficient with your questions.
  - When you feel down:
    - It is okay to feel overwhelmed!
    - Don’t quit.
-   - Tell it to your manager/mentor: you are here to learn, a period of sadness will happen to everyone, you have the opportunity to experience it now in a controlled and safe environment (you won't be fired, no family to feed, …). Talk with your manager and mentor to learn how to handle this.
-   - Keep a good lifestyle, sometimes interns, living in a new city, start partying every night.
-     - meditation/mindfulness
-     - daily physical exercise
-     - good diet
-     - sleep at least 8h and go to sleep and wake up at the same time every day
-     - do not be alone, socialize with people and have fun in your free time
+   - Tell it to your manager/mentor: you are here to learn, a period of sadness will happen to everyone, you have the opportunity to experience it now in a controlled and safe environment (you won't be fired, no family to feed, …). Talk with your manager and mentor to learn how to handle this situations.
+ - Keep a good lifestyle. Some interns when living in a new city start partying every night and then do not perform well at work.
+   - meditation/mindfulness
+   - daily physical exercise
+   - good diet
+   - sleep at least 8h and go to sleep and wake up at the same time every day
+   - do not be alone, socialize with people and have fun in your free time
 
 # Coding
 You will be evaluated on several metrics during performance review, but as an intern the most important one is how much code you write and its quality.
