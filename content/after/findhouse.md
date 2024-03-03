@@ -9,7 +9,7 @@ weight: -17
 Some companies will give you the accommodation for your internship or for the first months of your full time job, some others don't.
 
 Prestigious and Big Tech companies have their offices in the main cities around the globe.  
-Currently (2023), there is a housing crisis in those cities.
+Currently (2024), there is a housing crisis in those cities.
 
 This article gives mostly an overview of the problems that our mentees had when finding an apartment while they live in a different country to the one of the company and some tricks.
 
