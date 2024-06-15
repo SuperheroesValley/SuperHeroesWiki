@@ -154,7 +154,7 @@ If you have publications, list them naming all authors but remember to **highlig
 
 ## 5) Achievements / extracurricular / hobbies
 Hackatons, math olimpiads, or you got a scholarship.  
-As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **sucessfull, competitive, actionable** and **measurable** achievements.
+As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **successfull, competitive, actionable** and **measurable** achievements.
 
 If possible add **links** that **prove** those metrics and statements.
 
