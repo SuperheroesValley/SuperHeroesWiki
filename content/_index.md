@@ -29,8 +29,8 @@ Founders
 
 Community Managers
 - [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/), SWE @ Uber, ex-AWS
-- [Riccardo Sarpietro](https://www.linkedin.com/in/ric-sar/), Ph.D. in Computer Engineering @ University of Catania
-- [Simone Nicol](https://www.linkedin.com/in/simone-nicol/), SWE @ Bynder, ex-AWS
-- [Angela Carraro](https://www.linkedin.com/in/angela-carraro/), Data Scientist @ AWS
-- [Alessandro Stefanelli](https://www.linkedin.com/in/alessandro-stefanelli-572646269/), Math Student @ University of Pisa
 - [Emanuele Triuzzi](https://www.linkedin.com/in/triuzzi/), SWE @ Bending Spoons
+- [Riccardo Sarpietro](https://www.linkedin.com/in/ric-sar/), Research Engineer @ STMicroelectronics, Ph.D. in Computer Engineering
+- [Simone Nicol](https://www.linkedin.com/in/simone-nicol/), SWE @ Bynder, ex-AWS
+- [Angela Carraro](https://www.linkedin.com/in/angela-carraro/), Data Scientist @ Glovo, ex-AWS
+
