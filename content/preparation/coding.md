@@ -26,22 +26,22 @@ weight: -18
  - [UsacoGuide](https://usaco.guide/) (Competitive programming)
 
 **How to prepare:**
- - Read the first 86 pages of [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) that explains how interviews works.
- - Watch a couple of videos on YouTube “_Google coding interview_” to get familiar with the context of coding interviews. (Do not watch too old videos, the interviews slightly change over time). [Example](https://www.youtube.com/watch?v=5xi_TSGKVJQ)
- - For each chapter of CTCI read the 2-3 theory pages (or theory [here](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)) then do exercises on the respective [leetcode.com/explore/learn/](https://leetcode.com/explore/learn/) section. The optimal topic order for study should be this: Array, Hash table, Linked List, Stack & Queue, N-Trees, Binary Tree, Binary search trees, Trie, Heaps, Sorting, Searching, Recursion 1, Divide and Conquer (Recursion 2), Backtracking (Recursion 2), Dynamic Programming, Greedy, Graphs, Bit Manipulation, Math problems (combinations, permutation, prime numbers, probability, ...). You can also use the order proposed in [neetcode.io/roadmap](https://neetcode.io/roadmap)
- - Then do problems on the problem sets ([Grind75](https://www.techinterviewhandbook.org/grind75), [Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/), [Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/), [Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/), [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions), Google, …).
- - Do mock interviews ([pramp.com](https://www.pramp.com/))
- - (Optional) Learn more theory on books: Goodrich (in [Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), Java or C++), [Competitive Programming Handbook](https://github.com/pllk/cphb/blob/master/book.pdf), [Cormen](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [CP4](https://cpbook.net/).
- - If you want to spend money for the theory (is not really needed), we suggest the following courses: [Leetcode DS&A crash course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/), [Neetcode DSA for beginners](https://neetcode.io/courses/dsa-for-beginners/0), [Neetcode Advanced](https://neetcode.io/courses/advanced-algorithms/0)
+ 1) Read the first 86 pages of [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) that explains how interviews works.
+ 2) Watch a couple of videos on YouTube “_Google coding interview_” to get familiar with the context of coding interviews. (Do not watch too old videos, the interviews slightly change over time). [Example](https://www.youtube.com/watch?v=V8DGdPkBBxg&t=2s)
+ 3) For each chapter of CTCI read the 2-3 theory pages (or theory [here](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)) then do exercises on the respective [neetcode.io/roadmap](https://neetcode.io/roadmap) or [leetcode.com/explore/learn/](https://leetcode.com/explore/learn/) section. [Here](/attachments/Algorithms-for-coding-interviews.pdf) there is a list of theory topics with explaniations.
+ 4) Then do problems on the problem sets ([Neetcode](https://neetcode.io/practice), [Grind75](https://www.techinterviewhandbook.org/grind75), [Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/), [Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/), [Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/), [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions), Google, …).
+ 5) Do mock interviews on ([pramp.com](https://www.pramp.com/)) or with friends
+ 6) (Optional) Learn more theory on books: Goodrich (in [Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), Java or C++), [Competitive Programming Handbook](https://github.com/pllk/cphb/blob/master/book.pdf), [Cormen](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [CP4](https://cpbook.net/).
+ 7) (Optional) If you want to spend money for learning the theory (not really needed), we suggest the following courses: [Leetcode DS&A crash course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/), [Neetcode DSA for beginners](https://neetcode.io/courses/dsa-for-beginners/0), [Neetcode Advanced](https://neetcode.io/courses/advanced-algorithms/0)
 
 
 **General advices:**
- - Do problems on topics that you struggle at. Is not useful to do problems on topics you are already good.
+ - Do problems on topics that you struggle at. Is not useful to do problems on topics you are already good at.
  - Do problems slightly above your level.
  - Be constant: Solve at least ONE problem a day. (Do something like Leetcode Daily challenge)
  - If a problem has too many dislikes, carefully read the problem statement and comments before solving it to avoid wasting time in useless or too harsh problem.
  - Once you solved the problem, look at the discussion section and read other people solutions.
- - Easy problems often are too easy. On the long run try to solve mostly mediums and hard.
+ - Easy problems are too easy. On the long run try to solve mostly mediums and hard.
  - Use a timer. Leetcode has an embedded timer.
  - Do problems on the interview lists of the company you want to join more than once.
  - Participate in Leetcode contests to become comfortable solving problems under pressure.
