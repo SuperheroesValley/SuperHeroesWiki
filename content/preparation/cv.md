@@ -5,7 +5,7 @@ weight: -21
 
 ***Authors: [Remo](https://www.linkedin.com/in/remoandreoli/), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-🎞️ Whatch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
+🎞️ Watch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
 
 Thi section is a step-by-step guide on how to write a successful CV.
 
