@@ -5,7 +5,7 @@ weight: -21
 
 ***Authors: [Remo](https://www.linkedin.com/in/remoandreoli/), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-🎞️ Whatch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
+🎞️ Watch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
 
 Thi section is a step-by-step guide on how to write a successful CV.
 
@@ -22,10 +22,11 @@ Once you have written your CV, don't hesitate to post it on our [Discord group](
 
 **File name:** firstName_lastName_Resume.pdf (e.g. John_Doe_Resume.pdf).
 
-Use a **readable template**: is going to be read from both the recruiter and the software that is analyzing the cv.
+Use a **readable template**: is going to be read from both the recruiter and the software that is analyzing the cv. SUggested templates
 - [**Awesome CV**](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
+- [Serador](https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy)
 - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
-- [Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
+- [YAAC: Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
 
 To open them, click on "Open As Template" to start editing in [Overleaf](https://overleaf.com).
 
