@@ -84,11 +84,12 @@ Example for students:
       - I've created a ML model to detectig imperfection in the Quantum Measurement of the telescope and Published a paper
       - Using Python, Fortran and Tensorflow
   - A the moment:
-      - I organize competitive programming events at my university, such as Google Hash code, and Summer Camp for high school students.
+      - I organize competitive programming events at my university, such as Google Hash code, and Coding Summer Camp week for high school students.
       - I'm a tutor for Calulus 1 course
   - Also, outside of work/school:
       - Play chess competitions, ELO 3115
       - Working on some Crypto personal projects
+      - Read last computer science trends to be always up to date
   - I'm currently looking for: an Internship in ML
 
 
@@ -97,9 +98,9 @@ Example for students:
 
 ### Amazon Leadership principles explained
  Amazon Leadership principle, similar with other companies, are a good to way to answer behavioral questions. I've ordered by importance and similarity.
- - **Bias for Action:** most of the time in big tech you are given a project/task where you now nothing about, outside your domain knowledge and with minimal/ambigual/wrong information. So, instead of waiting for something to happen, you have to come up with a plan, talk with relevant people and execute.
+ - **Bias for Action:** most of the time in big tech you are given a project/task where you know nothing about, outside your domain knowledge and with minimal/ambigual/wrong information. So, instead of waiting for something to magically happen, you have to talk with relevant people, come up with a plan and execute.
  - **Deliver Results**: similiar to bias for action. No matter how many problems you had, people not helping you (or working agaist you), adversarial conditions, you have to complete your project.
- - **Customer Obsession**: the assumption that all big techs have is that if you create a good product that customers love (real user, your professor for a uni project, your manager, some other team in the company, ...), they will gives us their money. So you have always to think how your actions and engineering decisions are going to satisfy the customer. Sometimes simple actions are better than complex enginnering solutions. Some other times you have to dig deep in complex engineering solutions to create an incredible product.
+ - **Customer Obsession**: the assumption that all big techs have is that we you create a good product that customers love (real user, your professor for a uni project, your manager, some other team in the company, ...), they will gives us their money, lot of money. So you have always to think how your actions and engineering decisions are going to satisfy the customer. Sometimes simple actions are better than complex enginnering solutions. Some other times you have to dig deep in complex engineering solutions to create an incredible product.
  - **Insist on the Highest Standards:** always raising the bar. Engineering excelence: code quality, documentation, design, peer review, efficient processes.
  - **Ownership**: You have to know what's going on all aspects of the project and organization you are working on. Not just your tasks. And proactively influence them. This is not optional, it is expected.
  - **Dive Deep:** very similar to ownership. Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
@@ -114,3 +115,7 @@ Example for students:
  - **Strive to be Earth's Best Employer:** not relevant for interns and early career candidates.
  - **Success and Scale Bring Broad Responsibility:** not relevant for interns and early career candidates.
 
+---
+
+### Other resources
+ - [How to answer to Amazon Leadership Principles questions](https://interviewing.io/guides/amazon-leadership-principles#lp_interview_how_to_practice)
