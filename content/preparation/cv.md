@@ -7,7 +7,7 @@ weight: -21
 
 🎞️ Watch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
 
-Thi section is a step-by-step guide on how to write a successful CV.
+This section is a step-by-step guide on how to write a successful CV.
 
 Once you have written your CV, don't hesitate to post it on our [Discord group](https://discord.gg/BR2udfnpje) (channel #cv-review) to get suggestions and advices on how to improve it.
 
