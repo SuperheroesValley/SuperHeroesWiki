@@ -228,14 +228,6 @@ Use both the long and short version of acronyms (e.g. "Master of Business Admini
 
 Use [Bitly](https://bit.ly/) so you can see who clicked your links and when.
 
-
-
-# Examples of CVs
-
-In this section we post the resumes of our community participants who have succeeded in obtaining an internship or full-time position at a Big Tech. If you would like to contribute and post your resume here, please send it via our discord or open a pull request.
-
-- [Stefano I.](https://www.stefanoivancich.com/wp-content/uploads/2022/10/Stefano_Resume.pdf)
-
 # Other resources
 - [Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
 - [Google Students Virtual Series: Building your technical career & CV workshop](https://www.youtube.com/watch?v=H_xMcICt2gM)
