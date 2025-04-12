@@ -49,31 +49,29 @@ weight: -18
  - Use just 1 or 2 platforms to prepare, otherwise you will end up doing all easy problems in a platform, change to another platform, do all the easy problems, then switch again and so on. You will end up doing just easy problems. Do a couple of problems on other platforms just to become comfortable with the platform that is going to be used for online assessment (e.g. [hackerrank](https://www.hackerrank.com/), [codility](https://www.codility.com/), [Codesignal](https://app.codesignal.com/)) and interviews (e.g. [hirevue](https://www.hirevue.com/), [coderpad](https://coderpad.io/)).
  - Write down the most interesting problems and techniques that you encounter. In general, medium problems are a composition of easy problems/techniques and hard problems are composition of medium problems/techniques.
  - Do yourself a favor and take notes of the topics you are studying. During this time, you will be covering so many different subjects and tricks, and being a human being guarantees that you will forget the majority of them, so take notes and review them once in a while. Your notes are also a valuable resource for the next time that you are preparing for the interviews.
+ - **If you cannot solve a problem:**
+   - Spend no more than 20-30 minutes without making progress. Just go look up the answer. Contrary to popular belief, most struggling past 30 minutes is pointless.
+   - Read just a little part of the solution and try to go on yourself. If you struggle, read a little bit more and so on, until you really cannot solve yourself.
+   - Always implement it yourself, don’t just read the solution and copy and paste the code.
+   - Always mark it as something you need to try again. Wait at least a day and try to solve it fresh. If you fail, repeat at infinitum.
+
+**To be prepared Aim to do:**
+ - \>300 leetcodes with ratio easy:medium:hard of 3:5:2 (~100E,150M, 50H)
+ - Be able to solve: easy in <10m. Medium <20m. Hard <30m.
+ - 20+ mock interview
+   - 15 coding
+   - 5 behavioral
 
 
-**If you cannot solve a problem:**
- - Spend no more than 20-30 minutes without making progress. Just go look up the answer. Contrary to popular belief, most struggling past 30 minutes is pointless.
- - Read just a little part of the solution and try to go on yourself. If you struggle, read a little bit more and so on, until you really cannot solve yourself.
- - Always implement it yourself, don’t just read the solution and copy and paste the code.
- - Always mark it as something you need to try again. Wait at least a day and try to solve it fresh. If you fail, repeat at infinitum.
-
-Aim to solve:
- - 60 Easy problems (<10min)
- - 100 Medium problems (<15min)
- - 40 Hard problems (<25min)
- - Ratio 3:5:2 (easy:medium:hard)
-
-
-
-**Important Problem Sets:**
- - [GRIND75](https://www.techinterviewhandbook.org/grind75)
+**Important Problem Sets TO DO:**
  - [Neetcode Roadmap](https://neetcode.io/roadmap)
+ - [GRIND75](https://www.techinterviewhandbook.org/grind75)
+
+**Other problem sets:**
  - [Leetcode Interview Easy Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
  - [Leetcode Interview Medium Collection](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
  - [Leetcode Interview Hard Collection](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
  - [BLIND75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
-
-**Other problem sets:**
  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
  - [Leetcode Curated Algo 170](https://leetcode.com/problem-list/leetcode-curated-algo-170/) (Premium)
  - Leetcode Explore -> Interview -> Specific company Collection (Premium)
@@ -84,25 +82,104 @@ Aim to solve:
  - [Dynamic Programing](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns/680370)
  - [CSES problem set](https://cses.fi/problemset/) (Competitive programming)
 
-**Mock Interviews:**
- - [pramp.com](https://www.pramp.com/) (completely free, also for behavioral, system design, frontend, and so on)
+**Where to get Mock Interviews:**
+ - [Our SuperHerovalley community](https://discord.gg/uPRmhHwMem): there are already more then 100 Italians that got a big tech offer and are willing to interview you for free !
+ - [pramp.com](https://www.pramp.com/) (completely free, also for behavioral, system design, frontend, and so on): you can choose whatever time/day you want, they will find another person to match with you.
  - [interviewing.io](https://interviewing.io/) (**PAID**) - [YouTube Channel](https://www.youtube.com/c/interviewingio/videos)
 
 
+# How a coding interview is Structured
 ### Overview of a Coding Interview
-This is a mental framework we suggest to follow when interviewing - it is not meant to be 100% accurate.
+  - **Short Introduction (5 min)**:
+    - "_Tell me about yourself_"
+    - "_Tell me about a project that was very challenging for you_" (or some sort of variation of this"
+    - [Here](https://wiki.superherovalley.fun/preparation/behavioral/) you can learn how you answer to this
+  - **Technical Assessment (30/45 min)**: you will get one or 2 coding problems, each will have follow ups
+  - **Closing questions  (5 min)**: you have the chance to ask questions/curiosities about the company
+    - DO NOT ask questions that could be found easily online like *How is working for company-X? What's the thing you enjoy the most about company-X? How is the food at company-X's canteen?* ...
+    - Ask somethinkg that can be helpful for you when you will be inside, for example:
+      - _How to perform as an intern? What are the common mistakes intern makes?_
+      - _What is the best way to onboard fast to this type of company?_
+      - _How many times a year and how the performance review works?_
 ![alt text](/media/coding-timeline.png)
-  - **Short Introduction (5 min)**: Just introduce yourself! What's your name, your education, current job position, why are you interviewing, ...
-  - **Technical Assessment (45 min)**: The **real** stuff!, you will get a coding problem by a trained interviewer
-  - **Closing questions  (5 min)**: Closing remarks, **always** have a question prepared for your interviewer 
-      (*How is working for company-X? What's the thing you enjoy the most about company-X? How is the food at company-X's canteen?* ...)
 
-### Technical Assessment Timeline
+
+### What to do during the coding problem
+ - **Clarify the problem (5 min)**: most of the times, especially for more senior position, the will give you a problem with ambiguity, with missing and wrong information.
+   - Ask at least 2 clarifying questions even if the problem is already clear.
+   - Write down all the problem informations
+   - State a couple of examples to confirm you understood the problem correctly, and restate the problem statement to the interviewer to be sure.
+ - **(Iterative) Design Phase (5-10 min)**:
+   - Write down in **pseudocode** a **BruteForce** idea while you speak and explain clearly your thought process to the interviewer.
+   - State time and space complexities
+   - Ask the interviewer if you can have another couple of minutes to think about a possible optimization or if he wants you to start coding.
+   - Write down in pseudocode possible bottlenecks and alternative ideas, always explaining your thought process.
+   - Write down in psuedocode the optimized solution
+   - Ask the interviewer if you can start coding.
+ - **Coding Phase (5-10 min)**: **After** you agreed **together** with the interviewer on a design choice, it is time to code it!. **Always** Tell what you are typing in and why.
+   - write good meanungful variable names
+   - structure the code in clear functions
+ - **Testing & Bug fixing (5-10 min)**:
+   - Be able to proof-read your code to find bugs **without** running the code. Dry run your code (by hand!) with some example inputs and outputs.
+   - State a list of possible edgecases
+   - Write down edge cases in a tabular way
+   - Run the code
+ - **Follow ups:**
+   - There will be follow up questions making the problem harder
+   - Do not remove or modify the code, but copy and paste it in a different funcion. You don't want to lose a working solution
+   - There could be general software engineering questions like: how would you parallelize this code?, How multiprocessing works in X language? How would you test this code in unit/integration tests? What if the input is very large and cannot fit in a single machine? 
 ![alt text](/media/tech-assess-timeline.png)
-  - **Problem Analysis (5 min)**: You just have been given the coding question. Make **sure** you understood the question: it is *your* responsibility to identify the requirements and agree on a set of assumptions together *with* the interviewer; don't work on your *own, hidden* assumptions.
-  - **(Iterative) Design Phase (10 min)**: Work **together** with the interviewer towards a solution. Start from the naive solution and work your way towards the optimal solution by identifying (and **communicating** to the interviewer) the bottlenecks. Use time and space complexity analysis to justify your design choices/changes. Don't be afraid to ask question; **avoid** random guessing or focusing on irrelevant stuffs!!
-  - **Coding Phase (15 min)**: **After** you agreed **together** with the interviewer on a design choice, it is time to code it!. **Always** Tell what you are typing in and why. 
-  - **Testing & Bug fixing (5 min)**: Be able to proof-read your code to find bugs **without** running the code. Dry run your code (by hand!) with some example inputs and outputs.
+
+
+
+### Example of structured template that YOU HAVE TO write during the interview 😠
+```python
+"""
+# PROBLEM INFO
+- array of integers
+- integer k
+- bla bla
+Constrains:
+ - only 0s and 1s
+ - integer k is at most 1000
+ - blabla
+Problem: find a value x such that bla bla bla
+
+# EXAMPLES
+Only zeros
+[ 0 0 0 0 0]
+solution is 5...
+Even numbers of element
+[....]
+
+
+# EDGE CASES
+ - Empty array
+ - only ones
+ - bla bla
+
+
+# BRUE FORCE SOLUTION
+Idea: 2 nested for loops
+for each element: O(n)
+  for each ...: O(n)
+    if x>b: do this
+    count all possible bal bla  O(n)
+
+Time: O(n^3)
+Space: O(1) no extra space needed
+
+
+# Optimiziation
+Idea: use a stack and binary search
+bla bla bla pseudocode
+
+Time:...
+Space: ...
+
+
+"""
+```
 
 
 ### Links
