@@ -7,7 +7,7 @@ weight: -18
 
 # HOW TO PREPARE FOR CODING INTERVIEWS
 **Use LEETCODE.**  
-**WHY LEETCODE IS BETTER than other (free) platforms (as 2024):**
+**WHY LEETCODE IS BETTER than other (free) platforms (as 2025):**
  - Problems were almost all asked in real interviews. No competitive programming o theoretical problems.
  - Most of the problems have fully explained solutions.
  - For each problem there is a well-organized sub-section with a very active community.
