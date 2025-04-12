@@ -5,9 +5,11 @@ weight: -22
 ---
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-Academic books prepare you for fancy research, they will make you a better software engineer, but they're not sufficient for interviews.
-You need to prepare with real interview questions and learn their patterns. It's about developing a fresh algorithm, not memorizing existing problems.
-At most of the top tech companies (and many other companies), algorithm and coding problems form the largest component of the interview process. The interviewer is looking to evaluate your ability to solve algorithmic problems you haven't seen before, to ask the right questions to clarify ambiguity and explain your thought process.
+**⚠️You need to prepare for interviews!:**
+ - Academic books prepare you for fancy research, they will make you a better software engineer, but they're not sufficient for interviews.
+ - You need to prepare with real interview questions and learn their patterns. It's about developing a fresh algorithm, not memorizing existing problems.
+ - At almost all top tech companies (and many other companies), **algorithm and coding problems** are the largest component of the interview process.
+ - The interviewer is looking to evaluate your ability to solve algorithmic problems you haven't seen before, to ask the right questions to clarify ambiguity, spotting edge cases, explain your thought process and time management skills.
 If you are starting to feel comfortable with the interview problems, and think that you need just one or two more months, it may be a good time to start applying! Recruiters are also often pretty flexible, and once you get in contact with them (sometimes not an easy task!), they may even schedule your interviews in a month or two if you ask for some extra preparation time.
 
 Month 1. Applying to all the companies you want, waiting for the responses, talking with the recruiters, and scheduling interviews.
@@ -16,10 +18,10 @@ Month 2. Passing phone interviews, waiting for the results, scheduling onsite in
 
 Month 3. Passing onsite interviews, waiting for the results, receiving offers, negotiating, signing the papers.
 
-## The Interview Process (as of 2024)
+## The Interview Process (as of 2025)
 The **selection process** is generally a funnel composed as follows (be aware that some companies have fewer steps, some steps are easier for interns, some steps are in slightly different order, and some steps can be bypassed if you have an internal referral, or you use some “social networking” tricks):
 1. You **search for a job** position on the company website, or in an employment search engine (LinkedIn, Indeed, and so on) or you meet recruiters at Job Fairs or Recruiters contact you, and so on.
-    * If a recruiter contacts you don’t convince yourself that you are a strong candidate and put too much hope in that position, also if the recruiter is telling you so, because probably they are just spamming, trying to insert you in the funnel. Sometimes happens that you receive mails with errors, something that literally starts like “Hello %name%...”, because they are using a software to send thousands of emails, some of them will respond and get you inserted into the funnel.
+    * If a recruiter contacts you don’t convince yourself that you are a strong candidate and put too much hope in that position, also if the recruiter is telling you so, because probably they are just spamming, trying to insert you in the funnel. Sometimes happens that you receive mails with errors, something that literally starts like “Hello %name%...”, because they are using a software to send thousands of automatic emails, some of them will respond and get you inserted into the funnel.
 2. You **fill the application in the company website** with your CV and a Cover letter.
 3. Your **application (CV) is parsed by an ATS** (applicant tracking system) that converts your CV into a database record and checks if your profile matches the job description (keywords, years of experience, location, …) and gives you a **score** based on the parameters set by the recruiter into this software.
     * This is done because nowadays it’s extremely easy to send CVs, it often happens that a candidate sends thousands of CVs, therefore a company for a single position receives 10k+ CVs and a human can’t read them all. Now companies manage the selection process with a software, they don’t physically print any CV, everything is automated as much as possible and done in front of a screen.
