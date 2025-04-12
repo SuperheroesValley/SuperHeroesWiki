@@ -5,6 +5,10 @@ weight: -16
 
 **_Authors: [Emanuele Micheletti](https://www.linkedin.com/in/emanuelemicheletti/)_**
 
+🎞️ Watch the presentation on youtube: [link](https://www.youtube.com/watch?v=vh-mnxwElyA)
+
+[![ Watch the presentation on youtube](http://img.youtube.com/vi/vh-mnxwElyA/0.jpg)](https://www.youtube.com/watch?v=vh-mnxwElyA "Video Title")
+
 GSoC, which stands for **Google Summer of Code**, is a project funded by Google focused on the Open Source world.
 Its aim is to find paid contributors, with a duration of 3 months, dedicated to implementing new features or fixing complex bugs.
 Getting selected for GSoC is not easy; typically, only about 2% of all applicants make it through the selection phase.
