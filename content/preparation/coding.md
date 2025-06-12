@@ -232,6 +232,7 @@ Space: ...
  - [Algorithms for coding interviews](/attachments/Algorithms-for-coding-interviews.pdf) by [Stefano Ivancich](https://github.com/ivaste)
  - [Hare-Tortoise algorithm](/attachments/dimostrazione_hare_tortoise.pdf): by [Riccardo Mori](https://github.com/patacca)
  - [Superhero Valley Excercises Repository](https://github.com/SuperheroesValley/superheroes-exercises): Superhero Valley's solutions to InterviewBit and Leetcode problems
+ - [HashTo](https://hashto.net): by [Andrea Pietrobon](https://www.linkedin.com/in/pietrobonandrea/), it maps book exercises into Leetcode questions. It also provides a very good cheat sheet for coding exercises
 
 
  [*] Recommended!
