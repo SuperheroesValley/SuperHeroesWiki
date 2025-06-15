@@ -38,13 +38,15 @@ a *stellar* behavioral interview using the **STAR-L** method.
  - **Tip**: for each project/experience you had, prepare 2/3 stories.
  - Do not tell the name of the company unless its a well known company, but instead tell the industry and what the company does, for example:
    - NO: _"I worked at Kamiri & Ermicht Financial LTD as software engineer"_
-   - YES: "_I worked in a financial  company that handle large quantity of data to predict risk of insurrance_"
+   - YES: "_I worked in a financial company that handle large quantity of data to predict risk on mortagages_"
  - Do not tell the name of the project, its confusing, just tell what it does.
+   - NO: _"I've created Pizza Mango plusplus compilator"_
+   - YES: _"I've crated a C++ compilator capable of dereferencing c++ functions in 2 derference instead of 3, saving increasing by 36% run time execution"_
 
 ### Follow ups:
- - Who was involved
- - What you personally did
- - How you did it
+ - Who was involved? How many teams? There was some cross functional collaboration?
+ - What you personally did?
+ - How you did it? (this is for understanging if your way of working is structured)
  - What was the impact? Was it a minor success or did it has significant impact?
  - Where the results due to my impact or those results would have likely occurred without my involvement?
  - Why a particular thing was done, why not another way of doing it opted
@@ -65,13 +67,13 @@ a *stellar* behavioral interview using the **STAR-L** method.
 
 ### Tell me about yourself
 Answer like this in 2-3min:
- - “I am a ….. at …...”
- - “In college, I studied ___ at ____.”
- - “Then I worked for … where I ….”
- - “Then I worked for … where I ….”
- - “In my current job, I’ve accomplished….”
- - “Also, outside of work, I ….”
- - “I’m looking for …”
+ 1) "I am a ___ at ___"
+ 2) "In college, I studied ___ at ____."
+ 3) "Then I worked for ___ where I ___."
+ 4) "Then I worked for ___ where I ___."
+ 5) "In my current job, I’ve did ___."
+ 6) "Also, outside of work, I ___."
+ 7) "I’m looking for ___"
 
 Example for students:
  - I'm a Master student in Computer Engineering student at University of Milan in Italy.
@@ -90,20 +92,20 @@ Example for students:
       - Play chess competitions, ELO 3115
       - Working on some Crypto personal projects
       - Read last computer science trends to be always up to date
-  - I'm currently looking for: an Internship in ML
+  - I'm currently looking for: an Internship in AI
 
 
 ---
 
 
 ### Amazon Leadership principles explained
- Amazon Leadership principle, similar with other companies, are a good to way to answer behavioral questions. I've ordered by importance and similarity.
+ Amazon Leadership principle, similar with other companies, are a good to way to answer behavioral questions. We've ordered by importance and similarity.
  - **Bias for Action:** most of the time in big tech you are given a project/task where you know nothing about, outside your domain knowledge and with minimal/ambigual/wrong information. So, instead of waiting for something to magically happen, you have to talk with relevant people, come up with a plan and execute.
  - **Deliver Results**: similiar to bias for action. No matter how many problems you had, people not helping you (or working agaist you), adversarial conditions, you have to complete your project.
- - **Customer Obsession**: the assumption that all big techs have is that we you create a good product that customers love (real user, your professor for a uni project, your manager, some other team in the company, ...), they will gives us their money, lot of money. So you have always to think how your actions and engineering decisions are going to satisfy the customer. Sometimes simple actions are better than complex enginnering solutions. Some other times you have to dig deep in complex engineering solutions to create an incredible product.
+ - **Customer Obsession**: the assumption that all big techs have is that if we create a good product that customers love (real user, your professor for a uni project, your manager, some other team in the company, ...), they will gives us their money, lot of money and money solves all problems and give us happines. So you have always to think how your actions and engineering decisions are going to satisfy the customer. Sometimes simple actions are better than complex enginnering solutions. Some other times you have to dig deep in complex engineering solutions to create an incredible product.
  - **Insist on the Highest Standards:** always raising the bar. Engineering excelence: code quality, documentation, design, peer review, efficient processes.
  - **Ownership**: You have to know what's going on all aspects of the project and organization you are working on. Not just your tasks. And proactively influence them. This is not optional, it is expected.
- - **Dive Deep:** very similar to ownership. Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
+ - **Dive Deep:** very similar to ownership. Leaders operate at all levels, stay connected to the details, audit frequently, and be sceptical when metrics and anecdote differ.
  - **Think Big**: 
  - **Learn and Be Curious**: about new possibilities and act to explore them.
  - **Invent and Simplify:** look for new ideas
