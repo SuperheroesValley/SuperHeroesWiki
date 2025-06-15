@@ -26,37 +26,38 @@ weight: -18
  - [UsacoGuide](https://usaco.guide/) (Competitive programming)
 
 **How to prepare:**
- 1) Read the first 86 pages of [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) that explains how interviews works.
+ 1) Read the first 86 pages of [CTCI](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) ([pdf](https://github.com/AatmikJain/ComputerScienceBooks/blob/master/Cracking%20the%20Coding%20Interview.pdf)) that explains how interviews works.
  2) Watch a couple of videos on YouTube “_Google coding interview_” to get familiar with the context of coding interviews. (Do not watch too old videos, the interviews slightly change over time). [Example](https://www.youtube.com/watch?v=V8DGdPkBBxg&t=2s)
- 3) For each chapter of CTCI read the 2-3 theory pages (or theory [here](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)) then do exercises on the respective [neetcode.io/roadmap](https://neetcode.io/roadmap) or [leetcode.com/explore/learn/](https://leetcode.com/explore/learn/) section. [Here](/attachments/Algorithms-for-coding-interviews.pdf) there is a list of theory topics with explaniations.
+ 3) For each chapter of CTCI read the 2-3 theory pages (or theory [here](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)) then do exercises on the respective [neetcode.io/roadmap](https://neetcode.io/roadmap) or [leetcode.com/explore/learn/](https://leetcode.com/explore/learn/) section. [Here](/static/attachments/Algorithms-for-coding-interviews.pdf) there is a list of theory topics with explaniations.
  4) Then do problems on the problem sets ([Neetcode](https://neetcode.io/practice), [Grind75](https://www.techinterviewhandbook.org/grind75), [Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/), [Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/), [Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/), [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions), Google, …).
- 5) Do mock interviews on ([pramp.com](https://www.pramp.com/)) or with friends
+ 5) Do mock interviews on ([pramp.com](https://www.pramp.com/)), with friends or on our [discord channel](https://discord.gg/BR2udfnpje)
  6) (Optional) Learn more theory on books: Goodrich (in [Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), Java or C++), [Competitive Programming Handbook](https://github.com/pllk/cphb/blob/master/book.pdf), [Cormen](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), [CP4](https://cpbook.net/).
  7) (Optional) If you want to spend money for learning the theory (not really needed), we suggest the following courses: [Leetcode DS&A crash course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/), [Neetcode DSA for beginners](https://neetcode.io/courses/dsa-for-beginners/0), [Neetcode Advanced](https://neetcode.io/courses/advanced-algorithms/0)
 
 
-**General advices:**
+**Preparation tips & tricks:**
+ - Do NOT do random problems, pick the proples from the problems set (egs [neetcode](https://neetcode.io/practice?tab=neetcode250))
  - Do problems on topics that you struggle at. Is not useful to do problems on topics you are already good at.
  - Do problems slightly above your level.
  - Be constant: Solve at least ONE problem a day. (Do something like Leetcode Daily challenge)
  - If a problem has too many dislikes, carefully read the problem statement and comments before solving it to avoid wasting time in useless or too harsh problem.
  - Once you solved the problem, look at the discussion section and read other people solutions.
  - Easy problems are too easy. On the long run try to solve mostly mediums and hard.
- - Use a timer. Leetcode has an embedded timer.
+ - Time youself. Leetcode has an embedded timer.
  - Do problems on the interview lists of the company you want to join more than once.
- - Participate in Leetcode contests to become comfortable solving problems under pressure.
+ - Participate in [Leetcode Contests](https://leetcode.com/contest/) (~5) to become comfortable solving problems under pressure.
  - Do a mock interview AT LEAST once a week and recreate as much as possible the interview environment (clothing, light, papers, materials, whiteboard, …) to become comfortable.
  - Use just 1 or 2 platforms to prepare, otherwise you will end up doing all easy problems in a platform, change to another platform, do all the easy problems, then switch again and so on. You will end up doing just easy problems. Do a couple of problems on other platforms just to become comfortable with the platform that is going to be used for online assessment (e.g. [hackerrank](https://www.hackerrank.com/), [codility](https://www.codility.com/), [Codesignal](https://app.codesignal.com/)) and interviews (e.g. [hirevue](https://www.hirevue.com/), [coderpad](https://coderpad.io/)).
  - Write down the most interesting problems and techniques that you encounter. In general, medium problems are a composition of easy problems/techniques and hard problems are composition of medium problems/techniques.
- - Do yourself a favor and take notes of the topics you are studying. During this time, you will be covering so many different subjects and tricks, and being a human being guarantees that you will forget the majority of them, so take notes and review them once in a while. Your notes are also a valuable resource for the next time that you are preparing for the interviews.
+ - Take notes of the topics you are studying. During this time, you will be covering so many different subjects and tricks, and being a human being guarantees that you will forget the majority of them, so take notes and review them once in a while. Your notes are also a valuable resource for the next time that you are preparing for the interviews.
  - **If you cannot solve a problem:**
    - Spend no more than 20-30 minutes without making progress. Just go look up the answer. Contrary to popular belief, most struggling past 30 minutes is pointless.
-   - Read just a little part of the solution and try to go on yourself. If you struggle, read a little bit more and so on, until you really cannot solve yourself.
+   - Read just a little part of the solution and try to go on yourself. If you still struggle, read a little bit more and so on, until you really cannot solve yourself.
    - Always implement it yourself, don’t just read the solution and copy and paste the code.
-   - Always mark it as something you need to try again. Wait at least a day and try to solve it fresh. If you fail, repeat at infinitum.
+   - Always mark this exercise to try it again. Wait at least a day and try to solve it fresh. If you still fail, repeat at infinitum.
 
 **To be prepared Aim to do:**
- - \>300 leetcodes with ratio easy:medium:hard of 3:5:2 (~100E,150M, 50H)
+ - \>300 leetcodes with ratio easy:medium:hard of 3:5:2 (~100E, 150M, 50H)
  - Be able to solve: easy in <10m. Medium <20m. Hard <30m.
  - 20+ mock interview
    - 15 coding
@@ -182,7 +183,7 @@ Space: ...
 ```
 
 
-### Links
+### Other Links
 **STUDY PLANS**:
   - [Tech Interview HandBook](https://techinterviewhandbook.org/) ([GitHub](https://github.com/yangshun/tech-interview-handbook)): hints, resource material and links to problems for interview preparation
   - [InterviewBit Preparation](https://www.interviewbit.com/courses/programming/): good study plan with various arguments
@@ -229,8 +230,8 @@ Space: ...
 
  **COMMUNITY-MADE**
  - [Overview of Bit Manipulation and Rolling Hash, with excercises and solutions](https://github.com/CoffeeStraw/CP-SWE-Interviews/blob/main/Report.pdf): by [Antonio Strippoli](https://github.com/CoffeeStraw)
- - [Algorithms for coding interviews](/attachments/Algorithms-for-coding-interviews.pdf) by [Stefano Ivancich](https://github.com/ivaste)
- - [Hare-Tortoise algorithm](/attachments/dimostrazione_hare_tortoise.pdf): by [Riccardo Mori](https://github.com/patacca)
+ - [Algorithms for coding interviews](/static/attachments/Algorithms-for-coding-interviews.pdf) by [Stefano Ivancich](https://github.com/ivaste)
+ - [Hare-Tortoise algorithm](/static/attachments/dimostrazione_hare_tortoise.pdf): by [Riccardo Mori](https://github.com/patacca)
  - [Superhero Valley Excercises Repository](https://github.com/SuperheroesValley/superheroes-exercises): Superhero Valley's solutions to InterviewBit and Leetcode problems
  - [HashTo](https://hashto.net): by [Andrea Pietrobon](https://www.linkedin.com/in/pietrobonandrea/), it maps book exercises into Leetcode questions. It also provides a very good cheat sheet for coding exercises
 
