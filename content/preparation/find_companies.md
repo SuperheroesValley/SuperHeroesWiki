@@ -5,20 +5,21 @@ weight: -19
 
 ***Authors: [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
-In 2023 you have a 3% chance of getting an offer from any application, with 50 applications you have 87% chance of getting at least one job offer. Trust in the law of large numbers.
+In 2025 you have a 3% chance of getting an offer from any application, with 50 applications you have 87% chance of getting at least one job offer. Trust in the law of large numbers.
 Send out applications to more places than you’re currently planning.
 You can always "pause" or simply cancel the interview process with some companies.
-Schedule your favorite companies last. Get interview practice with the places you aren’t as excited about.
+Schedule your favorite companies last. Get interview practice with companies you aren’t as excited about.
 
 
 **Lists:**
  - [levels.fyi](https://www.levels.fyi/internships/)
  - [Superhero Valley Internship List](https://wiki.superherovalley.fun/link_utili/ricerca_internships/)
- - [Summer Tech Internship by Simplify](https://github.com/SimplifyJobs/Summer2024-Internships)
+ - [Summer Tech Internship by Simplify](https://github.com/SimplifyJobs/Summer2025-Internships)
+ - Search on github "internship lists"
 
 **University:**
  - Career Day/site of your university: write down the companies listed in the website and go in person. E.g.: [Padova](https://www.universitaperta-unipd.it/eventi/universita-aperta/aziende-partecipanti-ua2023), [PoliMI](https://www.careerservice.polimi.it/it-IT/Home/Index/)
- - Don't worry if you don’t have a degree or you graduated many years ago, it's just a way to find companies that have work to offer.
+ - Don't worry if you don’t have a degree or you graduated many years ago, it's just a way to find companies that have work to offer now.
  - Search also in universities in the cities that you want to go to live.
 
 
@@ -28,19 +29,19 @@ Schedule your favorite companies last. Get interview practice with the places yo
 
 **Google this:**
  - "Companies <COUNTRY/CITY> revenue"
- - "Best <INDUSRTY> companies in <COUNTRY/CITY>"
+ - "Best < INDUSRTY > companies in <COUNTRY/CITY>"
  - "Best companies in <COUNTRY/CITY>"
  - "< COMPANYNAME > Internship Applications"
  - GreatPlaceToWork
  - Almalaurea
 
 **How to use LinkedIn and Glassdoor:**
- - Change my location in LinkedIn to the city/country I want to work
- - Search for Job title, “master thesis”, “intern”, “internship”,…
+ - Change your location in LinkedIn to the city/country you want to work
+ - Search for Job title, "master thesis", "intern", "internship",…
  - Filter by level position, location, publication date (1 week)
  - Click Apply
 
-In some job posting there is also the name of the recruiter that posted it, contact him directly.  
+In some job posting there is also the name of the recruiter that posted it, contact her directly.  
 If you see a role being advertised by an agent, copy and paste a line from the job description into Google to find out the end client.  
 Search linkedin for the recruitment contact at the companies you’re looking to apply for, then use tools like hunter.io to find their email address and introduce yourself directly.  
 Job postings are a wish list. If you **have at least half of what's in the job posting**, you're well qualified for the job.  
