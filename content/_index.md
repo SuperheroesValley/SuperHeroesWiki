@@ -23,7 +23,7 @@ Would you like to do some exercises together, or with the help of experienced pe
 # Founders and Admins
 Founders
 - [Luca Corbucci](https://www.linkedin.com/in/lucacorbucci/), Ph.D. in Machine Learning @ University of Pisa 
-- [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), Ph.D. in Computer Engineering @ University of Pisa
+- [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), SWE @AWS, Ph.D. in Computer Engineering @ University of Pisa
 - [Alessandro Berti](https://www.linkedin.com/in/aleberti/), Ph.D. in Quantum Computing @ University of Pisa 
 - [Eugenio Paluello](https://www.linkedin.com/in/eugpaluello/), Blockchain Developer @Polygon
 
@@ -31,6 +31,6 @@ Community Managers
 - [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/), SWE @ Uber, ex-AWS
 - [Emanuele Triuzzi](https://www.linkedin.com/in/triuzzi/), SWE @ Bending Spoons
 - [Riccardo Sarpietro](https://www.linkedin.com/in/ric-sar/), Research Engineer @ STMicroelectronics, Ph.D. in Computer Engineering
-- [Simone Nicol](https://www.linkedin.com/in/simone-nicol/), SWE @ Bynder, ex-AWS
-- [Angela Carraro](https://www.linkedin.com/in/angela-carraro/), Data Scientist @ Glovo, ex-AWS
+- [Simone Nicol](https://www.linkedin.com/in/simone-nicol/), SWE @ Booking, ex-AWS
+- [Angela Carraro](https://www.linkedin.com/in/angela-carraro/), Data Science @ Glovo, ex-AWS
 
