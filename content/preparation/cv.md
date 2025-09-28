@@ -3,13 +3,13 @@ title: 1 - Write the Curriculum
 weight: -21
 ---
 
-***Authors: [Remo](https://www.linkedin.com/in/remoandreoli/), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
+***Authors: [Remo Andreoli](https://www.linkedin.com/in/remoandreoli/), [Stefano Ivancich](https://www.linkedin.com/in/stefano-ivancich/)***
 
 🎞️ Watch the presentation on youtube: [link](https://www.youtube.com/watch?v=8jmsdykpzJs&t=1285s)
 
-This section is a step-by-step guide on how to write a successful CV.
+This article is a step-by-step guide on how to write a successful CV.
 
-Once you have written your CV, don't hesitate to post it on our [Discord group](https://discord.gg/BR2udfnpje) (channel #cv-review) to get suggestions and advices on how to improve it.
+Once you have written your CV, don't hesitate to post it on our [Discord group](https://discord.gg/BR2udfnpje) (channel `#cv-review`) to get suggestions and advices on how to improve it.
 
 
 **Don't lie!**
@@ -18,62 +18,68 @@ Once you have written your CV, don't hesitate to post it on our [Discord group](
  - It may also happen that they send an e-mail or call your former employers; they won't ask anything in depth, usually it is something along the lines of "_Is it true that *NAME* worked as a *ROLE* from mm/yyyy to mm/yyyy for you?_".
  - If something is true but it cannot be proved quickly and easily, do not put it on your CV. There will also be a criminal check in which you will have to provide criminal records and pending charges, so keep in mind to have these documents at hand. Some of these, such as the confirmation that you are a university student, or your English grade average may take weeks to retrieve. Even if you get away with it, in the future (e.g. layoff times), they may do a background check on current employees to find grounds for dismissal. Usually investment banks do annual background check on all employees.
 
-### Resume file
+## Resume Template
 
-**File name:** firstName_lastName_Resume.pdf (e.g. John_Doe_Resume.pdf).
-
-Use a **readable template**: is going to be read from both the recruiter and the software that is analyzing the cv. SUggested templates
+Use a **readable template**: it needs to be read by both the recruiter and the software that analyzes the cv. Suggested templates:
 - [**Awesome CV**](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)
 - [Serador](https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy)
 - [techResume - Based on AltaCV by Alex Calabrese](https://github.com/alexcalabrese/techResume)
 - [YAAC: Another Awesome CV](https://github.com/darwiin/yaac-another-awesome-cv)
 
+
+
 To open them, click on "Open As Template" to start editing in [Overleaf](https://overleaf.com).
 
-Avoid using exotic templates in an attempt to be noticed.
-Just 1 page
+**File name:** `firstName_lastName_Resume.pdf` (e.g. John_Doe_Resume.pdf).
+
+**Only 1 page.**
+
+**NO:**
+- Exotic templates with lot of colors and icons.
+- Multiple pages. Nobody reads it.
+- Multiple columns. It confuses softwares that analyzed the CV.
 
 ## Content
 
-Your CV content should follow this general order:
+Your CV content should follow this order:
 
-1. Relevant personal information
+1. Personal information
 2. Work Experience
 3. Education
 4. Personal projects
 5. Achievements
-6. (optional) Current hard and soft skills
+6. (optional) Technical and soft skills
 7. (optional) Hobbies
 
 ## 1) Personal info
-Add only:
+Write only:
  - email
  - phone number
  - website
  - github
  - linkedin
 
-Due to discriminations do NOT include:
+Due to discriminations do **NOT** include:
  - Age, date of birth, or any other references to your age
  - Marital status
  - Nationality
- - Photo: apart from discriminations, many ATS cannot read images, so they will get confused and discard your CV; 88% of CVs are rejected if they include a photo [\[source\]](https://teamstage.io/resume-statistics/)
+ - Photo: besides discriminations, many ATS cannot read images, so they will get confused and discard your CV; 88% of CVs are rejected if they include a photo [\[source\]](https://teamstage.io/resume-statistics/)
  - Address: companies generally tend to reject people based on their location; they usually tend to prefer applicants who already live in the same city/country as the company. So if you want to apply for companies in a specific city (egs London) it might be useful add your address to London (even a fake one).
  - Current location unless you need a Visa
- - Social Media: except for carreer like LinkedIn and GitHub)
+ - Social Media: except for carreer like LinkedIn and GitHub
  - Signature
+ - Copy of ID cards / passport 
 
 
 ## 2) Work Experience
 
-Not include a full history of every role you've ever had. Include only the relevant positions-the ones that make you a more impressive candidate.
+DO NOT include a full history of every role you've ever done. Include only relevant positions, the ones that make you a more impressive candidate.
 
-**Job title:** the job you were actually doing. If the title was "full-stack" but you were actually doing back-end, put Back-End. If the company ask for clarification tell the truth, they will understand.
- - (borderline) If you were an Intern at FAANG leave the title "intern" otherwise take it off.
- - Don’t put that you are self-employed or CEO of your company, because if you are looking for a job that means that you are a bad CEO (you are a crappy worker, boss, you don’t understand business…), so leave the name of the company and that you were an employee.  
-Self-employment doesn't signal you know how to work as part of a team or follow directions other people give. You need to re-do your resume and interview talking points to counter this potential narrative.
+**Job title:**
+ - Write the job you were actually doing. If the official title was "full-stack" but you were actually doing back-end, put Back-End. If the company ask for clarification tell the truth, they will understand.
  - Don’t put career progression unless it’s very fast, just put your last job title.
  - If you have a job gap: change the end date to "current", then when you are at the interview explain why there is a gap, otherwise they don’t even invite you in the interview.
+ - Don't put that you are self-employed or CEO of your company, because if you are looking for a job that means that you are a bad CEO (you are a crappy worker, boss, you don’t understand business…), so leave the name of the company and that you were an employee. Self-employment doesn't signal you know how to work as part of a team or follow directions other people give. You need to re-do your resume and interview talking points to counter this potential narrative.
 
 For each role, insert **3-4 bullet points** about your accomplishments with the following format: "**_Accomplished X by implementing Y which led to Z_**_"_
 Show what you did, how you did it, and what the results were (in numbers, %, …).
@@ -98,7 +104,7 @@ Types of impact:
 
 If possible put links that prove those metrics and statements.
 
-Use **ChatGPT** to help you with this. But Be careful! ChatGPT uses a lot of qualitative adjectives to make the sentence look cool, this is bad. Your accomplishment must be MEASURABLE not qualitative.
+Use **AI** to help you with this. But Be careful! AI uses a lot of qualitative adjectives to make the sentence look cool, this is BAD! Your accomplishment must be MEASURABLE not qualitative. Prompt:
  - _Give me 5 alternative to the following CV bullet point without adjectives, it should follow the pattern "Accomplished X by implementing Y which led to Z": \<your sentence\>_
 
 Action verbs:
@@ -118,7 +124,7 @@ Action verbs:
 
 ## 3) Education
 
-**No beginning dates:**: as they can be used to infer your age. If they need this information they can obtain it during the background check.
+**No beginning dates:** as they can be used to infer your age. If they need this information they can obtain it during the background check.
 
 **End date**: next year, beacuse some companies only wants interns at the last year of university.
 
@@ -157,7 +163,9 @@ If you have publications, list them naming all authors but remember to **highlig
 
 ## 5) Achievements / extracurricular / hobbies
 Hackatons, math olimpiads, or you got a scholarship.  
-As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **successfull, competitive, actionable** and **measurable** achievements.
+As many recruiters have very little time to dedicate to your CV and they are also busy with other tasks, they mainly look for **successfull, competitive, actionable** and **measurable** achievements. 
+
+You must have an **active role**, so NO "attended", "partecipated", ...
 
 If possible add **links** that **prove** those metrics and statements.
 
@@ -167,28 +175,31 @@ Example:
  - NO: Playing chess during free time
    - YES: Chess player ranked among [top 1% in 2024 FIDE ratings](https://ratings.fide.com/profile/1503014).
  - NO: Passionated about running and marathons
-   - YES: Competed in 41 half-marathons, [European U23 Championships Silver medallist](https://worldathletics.org/athletes/italy/giuseppe-gerratana-14375975)
+   - YES: Competed in 12 half-marathons, [European U23 Championships Bronze medallist](https://worldathletics.org/athletes/uganda/jacob-kiplimo-14735365)
+ - NO: Interested in videogames
+   - YES: Professional e-sports player of LOL, [number 23 in global ranking](https://escharts.com/players/faker-south-korea)
 
 ## 6) Skills
 
 **Software:** Be conservative about what software you list, and understand what's appropriate for the company
 
 **Programming Languages:** Don’t put the percentage or your level of knowledge, because:
- - is not really required
+ - is not required
  - they are searching for key-word
- - let them grade you at the interview (some companies require very basic knowledge other very deep)
- - don’t tell them you are bad in something before you even get there.
+ - let them grade you at the interview (some companies require very basic knowledge others very deep)
+ - don't tell them you are bad in something before you even get there
  - ATS software get confused with infographics
 
-This is not good: "_Languages: Java (expert), C++ (beginner), JavaScript (prior experience)_"
+This is NOT good: "_Languages: Java (expert), C++ (beginner), JavaScript (prior experience)_"
 
 **Soft skills:** Put them only if you have space left.
-The problem with soft skills is that they are very important, but you can’t prove them. And everybody is putting the same ones: team working, leadership, ...
+The issue with soft skills is that they are very important, but you can't prove them. And everybody is putting the same ones: team working, leadership, ...
+Soft skills should be inferred from your experience, egs "led team of 5 people ..."
 
 
 # Applicant Tracking Systems (ATS)
 
-## How do ATS work
+## How ATS work
 
 ATS collect and store CVs in a database. Sometimes they may also be stored long after the original job you applied for is filled.
 
