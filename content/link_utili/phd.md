@@ -7,6 +7,9 @@ title: Starting a PhD
 # Kickstart Your PhD Journey
 
 The most critical aspect of a PhD is pursuing a topic you genuinely enjoy. If you believe you have found a team that does exactly what you are looking for, go for it. A PhD should be a conscious choice driven by passion, not a default path taken because a professor offered you a spot and it felt like the "easy" option. Many students fall into the trap of starting a doctorate out of inertia rather than strategic career planning.
+If you are not sure about what you like, try to get some experiences ahead of time to work in research (either at your university, foreign university or with industrial research internships). Since a PhD is a commitment that lasts for years, having clear ideas about what you like is highly important: do you want to do AI? If so LLMs? Computer Vision? Fair AI? Or do you want to go for cybersecurity? 
+Another strategy, if you don't have the chance to get experience earlier, is to read papers. Read influencial and recent papers about the area that you might be interested in and see if the sparkle ignites within you.
+Once you think you might have an idea of a topic that might interest you, move on to the next part of this guide.
 
 When choosing a PhD path, there are three main categories:
 
@@ -60,6 +63,10 @@ Unlike the US, where you often do 1–2 years of coursework, in these European p
 
 **Strategy:** These environments are hyper-competitive. A smart strategy is to apply for a **Master’s Thesis position** in your target lab first. This allows the professor to vet you before committing to a full PhD offer.
 
+Remember when we talked about the PhD topic before? Now is the time to use it. The number of professors at these univeristies might be huge and they might not work with what you like. Asking them to take you on a topic that they don't deal with means you didn't even do the slightiest effort to understand their research interests.
+Most good universities will have a proper website describing the professors in each faculty and their research interests. Try to reach out to those tailoring the email to their profile, adding why you would like to work with them (maybe read some of their papers) and what experience you have in the field.
+Do not expect an answer: they are very busy and, if your topic is mainstream, is likely they will receive many emails similar to yours every week. It's a numbers game, but remember to put in the effort if you want to have some chances.
+
 ---
 
 ## Industrial PhD
@@ -86,6 +93,8 @@ This is a premier opportunity for AI/ML students.
 - **Mechanism:** You apply centrally. If selected, you are matched with high-profile advisors across Europe.
 - **Tracks:** Industrial Track (requires a 6-month internship and industrial mentor) or the Academic Track.
 - **Benefit:** You gain affiliation with the best supervisors in Europe, and the *ELLIS* brand is a strong signal to recruiters.
+
+I believe the Industrial Track to be very important. If you manage to get an industry supervisor that is in Google, Meta or other important tech companies, then you will HAVE TO spend at least 6 months there, as a requirement of the PhD program itself. 
 
 ### Marie Skłodowska-Curie Actions (MSCA)
 
